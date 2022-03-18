@@ -502,7 +502,6 @@ class SequenceTagger(flair.nn.Classifier[Sentence]):
 
                 # add predictions to Sentence
                 for sentence, sentence_predictions in zip(batch, predictions):
-
                     # BIOES-labels need to be converted to spans
                     if self.predict_spans:
                         sentence_tags = [label[0] for label in sentence_predictions]
@@ -511,6 +510,9 @@ class SequenceTagger(flair.nn.Classifier[Sentence]):
                         for predicted_span in predicted_spans:
                             span: Span = sentence[predicted_span[0][0] : predicted_span[0][-1] + 1]
                             span.add_label(label_name, value=predicted_span[2], score=predicted_span[1])
+                            for i in range(predicted_span[0][0], predicted_span[0][-1] + 1):
+                                sentence.tokens[i].form = "<"+predicted_span[2]+">"
+                            # sentence.tokens[predicted_span[0][0] : predicted_span[0][-1] + 1] = predicted_span[2]
 
                     # token-labels can be added directly
                     else:

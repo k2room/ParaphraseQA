@@ -26,7 +26,6 @@ def _iter_dataset(dataset: Optional[Dataset]) -> typing.Iterable:
 
     return map(lambda x: x[0], DataLoader(dataset, batch_size=1, num_workers=0))
 
-
 def _len_dataset(dataset: Optional[Dataset]) -> int:
     if dataset is None:
         return 0
@@ -34,7 +33,6 @@ def _len_dataset(dataset: Optional[Dataset]) -> int:
 
     loader = DataLoader(dataset, batch_size=1, num_workers=0)
     return len(loader)
-
 
 class Dictionary:
     """
@@ -191,7 +189,6 @@ class Dictionary:
         tags = ", ".join(self.get_item_for_index(i) for i in range(min(len(self), 50)))
         return f"Dictionary with {len(self)} tags: {tags}"
 
-
 class Label:
     """
     This class represents a label. Each label has a value and optionally a confidence score. The
@@ -256,7 +253,6 @@ class Label:
     @property
     def unlabeled_identifier(self):
         return f"{self.data_point.unlabeled_identifier}"
-
 
 class DataPoint:
     """
@@ -383,10 +379,8 @@ class DataPoint:
     def __lt__(self, other):
         return self.start_position < other.start_position
 
-
 DT = typing.TypeVar("DT", bound=DataPoint)
 DT2 = typing.TypeVar("DT2", bound=DataPoint)
-
 
 class _PartOfSentence(DataPoint, ABC):
     def __init__(self, sentence):
@@ -421,7 +415,6 @@ class _PartOfSentence(DataPoint, ABC):
 
         # delete labels at object itself
         super(_PartOfSentence, self).remove_labels(typename)
-
 
 class Token(_PartOfSentence):
     """
@@ -514,7 +507,6 @@ class Token(_PartOfSentence):
         else:
             DataPoint.set_label(self, typename=typename, value=value, score=score)
 
-
 class Span(_PartOfSentence):
     """
     This class represents one textual span consisting of Tokens.
@@ -565,7 +557,6 @@ class Span(_PartOfSentence):
     def embedding(self):
         pass
 
-
 class Relation(_PartOfSentence):
     def __init__(self, first: Span, second: Span):
         super().__init__(sentence=first.sentence)
@@ -606,7 +597,6 @@ class Relation(_PartOfSentence):
     @property
     def embedding(self):
         pass
-
 
 class Tokenizer(ABC):
     r"""An abstract class representing a :class:`Tokenizer`.
@@ -845,7 +835,6 @@ class Sentence(DataPoint):
 
                 if main_tag is not None and main_tag != label_type:
                     continue
-
                 if token.get_labels(label_type)[0].value == "O":
                     continue
                 if token.get_labels(label_type)[0].value == "_":
