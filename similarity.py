@@ -26,7 +26,6 @@ similar = 0
 similar2 = 0
 res = []
 print("-----start-----")
-print("----")
 for article in data:
     for p in article['paragraphs']:
         text = p['context']
