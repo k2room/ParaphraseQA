@@ -1,0 +1,4082 @@
+[
+    {
+        "s1": "In 2015-2016 , <ORG> <ORG> ranked 18th overall among \" national universities \" in the <LOC> <LOC> in <ORG> <ORG> <ORG> <ORG> <ORG> 's <MISC> <MISC> <MISC> .",
+        "s2": "In 2014 , <ORG> <ORG> ranked <ORG> <ORG> 10th overall for <MISC> universities based on data from <ORG> <ORG> .",
+        "score": 0.856,
+        "id": 3
+    },
+    {
+        "s1": "<MISC> launched her first official fragrance , <MISC> in 2010 .",
+        "s2": "In February 2011 , <ORG> launched her second fragrance , <MISC> <MISC> .",
+        "score": 0.933,
+        "id": 12
+    },
+    {
+        "s1": "In February 2011 , <ORG> launched her second fragrance , <MISC> <MISC> .",
+        "s2": "<ORG> 's third fragrance , <MISC> , was launched in September 2011 .",
+        "score": 0.905,
+        "id": 14
+    },
+    {
+        "s1": "The name <LOC> comes from the <MISC> word <LOC> , meaning \" mountain \" , or more broadly , \" mountainous country \" .",
+        "s2": "<LOC> <LOC> <LOC> was the name given by early <MISC> explorers to the entire mountainous region of the west .",
+        "score": 0.81,
+        "id": 15
+    },
+    {
+        "s1": "<MISC> is also the language of the majority .",
+        "s2": "<MISC> is the language most commonly spoken at home other than <MISC> .",
+        "score": 0.83,
+        "id": 24
+    },
+    {
+        "s1": "<MISC> is the official language in the state of <LOC> , as it is in many <LOC> states .",
+        "s2": "<MISC> is the language most commonly spoken at home other than <MISC> .",
+        "score": 0.795,
+        "id": 23
+    },
+    {
+        "s1": "Exposure to antibiotics early in life is associated with increased body mass in humans and mouse models .",
+        "s2": "Studies have found a correlation between early exposure of antibiotics (< 6 months ) and increased body mass ( at 10 and 20 months ) .",
+        "score": 0.853,
+        "id": 32
+    },
+    {
+        "s1": "Exposure to antibiotics early in life is associated with increased body mass in humans and mouse models .",
+        "s2": "Therefore , there is correlation between antibiotic exposure in early life and obesity in humans , but whether or not there is a causal relationship remains unclear .",
+        "score": 0.804,
+        "id": 33
+    },
+    {
+        "s1": "For instance , antibacterial resistance genes can be exchanged between different bacterial strains or species via plasmids that carry these resistance genes .",
+        "s2": "Plasmids that carry several different resistance genes can confer resistance to multiple antibacterials .",
+        "score": 0.829,
+        "id": 40
+    },
+    {
+        "s1": "Intrinsic antibacterial resistance may be part of the genetic makeup of bacterial strains .",
+        "s2": "Antibacterial-producing bacteria have evolved resistance mechanisms that have been shown to be similar to , and may have been transferred to , antibacterial-resistant strains .",
+        "score": 0.812,
+        "id": 38
+    },
+    {
+        "s1": "Several molecular mechanisms of antibacterial resistance exist .",
+        "s2": "Antibacterial-producing bacteria have evolved resistance mechanisms that have been shown to be similar to , and may have been transferred to , antibacterial-resistant strains .",
+        "score": 0.808,
+        "id": 36
+    },
+    {
+        "s1": "Several molecular mechanisms of antibacterial resistance exist .",
+        "s2": "Intrinsic antibacterial resistance may be part of the genetic makeup of bacterial strains .",
+        "score": 0.806,
+        "id": 35
+    },
+    {
+        "s1": "Plasmids that carry several different resistance genes can confer resistance to multiple antibacterials .",
+        "s2": "Cross-resistance to several antibacterials may also occur when a resistance mechanism encoded by a single gene conveys resistance to more than one antibacterial compound ..",
+        "score": 0.776,
+        "id": 41
+    },
+    {
+        "s1": "Several molecular mechanisms of antibacterial resistance exist .",
+        "s2": "Cross-resistance to several antibacterials may also occur when a resistance mechanism encoded by a single gene conveys resistance to more than one antibacterial compound ..",
+        "score": 0.775,
+        "id": 37
+    },
+    {
+        "s1": "On 17 May 2015 filming took place on the <LOC> in <LOC> .",
+        "s2": "Filming then took place in <LOC> <LOC> .",
+        "score": 0.814,
+        "id": 54
+    },
+    {
+        "s1": "The crew returned to the river less than a week later to film scenes solely set on <LOC> <LOC> .",
+        "s2": "In early June , the crew , as well as <PER> , <PER> , and <PER> , returned to the <LOC> for a final time to continue filming scenes previously shot on the river ..",
+        "score": 0.778,
+        "id": 55
+    },
+    {
+        "s1": "\u201d <PER> <PER> from the <ORG> <ORG> , gave it a 75 grade .",
+        "s2": "\u201d <PER> <PER> over at the <ORG> <ORG> , gave it a 75 grade .",
+        "score": 0.99,
+        "id": 58
+    },
+    {
+        "s1": "\u201d <PER> <PER> from the <ORG> <ORG> <ORG> <ORG> , gave it an 80 grade , saying : \u201c <PER> is cruelly efficient .",
+        "s2": "\u201d <PER> <PER> from the <ORG> <ORG> , gave it a 75 grade .",
+        "score": 0.784,
+        "id": 56
+    },
+    {
+        "s1": "The <LOC> <LOC> \u2014 a tidal strait \u2014 flows from <LOC> <LOC> <LOC> and separates the <LOC> and <LOC> from <LOC> <LOC> .",
+        "s2": "The <LOC> <LOC> , another tidal strait between the East and <LOC> <LOC> , separates most of <LOC> from the <LOC> .",
+        "score": 0.92,
+        "id": 63
+    },
+    {
+        "s1": "In 2012 , 6.3 % of <LOC> <LOC> <LOC> was of <MISC> ethnicity , with nearly three-fourths living in either <LOC> or <LOC> , geographically on <LOC> <LOC> .",
+        "s2": "<MISC> were the largest <MISC> <MISC> ethnic group at 0.8 % , followed by <MISC> , who made up 0.2 % of <LOC> <LOC> <LOC> 's population in 2010 .",
+        "score": 0.822,
+        "id": 66
+    },
+    {
+        "s1": "<MISC> made up 1.2 % of the city 's population , and <MISC> 0.3 % .",
+        "s2": "<MISC> are the largest <MISC> <MISC> group , comprising 2.4 % of the city 's population , with <MISC> and <MISC> at 0.7 % and 0.5 % , respectively .",
+        "score": 0.813,
+        "id": 67
+    },
+    {
+        "s1": "<MISC> <MISC> number over 160,000 in <LOC> <LOC> <LOC> , with the highest concentration in <LOC> .",
+        "s2": "<MISC> <MISC> are most highly concentrated in the <LOC> ..",
+        "score": 0.78,
+        "id": 70
+    },
+    {
+        "s1": "Artifacts , faunal remains , and human altered landscapes are evidence of the cultural and material lives of past societies .",
+        "s2": "Archaeologists examine these material remains in order to deduce patterns of past human behavior and cultural practices .",
+        "score": 0.807,
+        "id": 86
+    },
+    {
+        "s1": "Archaeology is the study of the human past through its material remains .",
+        "s2": "Archaeologists examine these material remains in order to deduce patterns of past human behavior and cultural practices .",
+        "score": 0.792,
+        "id": 85
+    },
+    {
+        "s1": "Evolutionary anthropology is the interdisciplinary study of the evolution of human physiology and human behaviour and the relation between hominins and non-hominin primates .",
+        "s2": "Evolutionary anthropology is concerned with both biological and cultural evolution of humans , past and present .",
+        "score": 0.809,
+        "id": 90
+    },
+    {
+        "s1": "\" <MISC> \" , a single jointly produced with <PER> and <PER> , was released in January 2015 .",
+        "s2": "In March 2015 , <ORG> released the single \" <MISC> <MISC> \" featuring <ORG> <ORG> , <PER> <PER> and <PER> <PER> .",
+        "score": 0.869,
+        "id": 95
+    },
+    {
+        "s1": "West released a single , \" <MISC> <MISC> \" , featuring <PER> <PER> , on December 31 , 2014 .",
+        "s2": "In March 2015 , <ORG> released the single \" <MISC> <MISC> \" featuring <ORG> <ORG> , <PER> <PER> and <PER> <PER> .",
+        "score": 0.79,
+        "id": 94
+    },
+    {
+        "s1": "In <MISC> <MISC> <MISC> , devotion to the <MISC> <MISC> is the main practice .",
+        "s2": "In <MISC> <MISC> , devotion to the <MISC> <MISC> is the main practice ..",
+        "score": 0.994,
+        "id": 104
+    },
+    {
+        "s1": "Devotion is an important part of the practice of most <MISC> .",
+        "s2": "In <MISC> <MISC> , devotion to the <MISC> <MISC> is the main practice ..",
+        "score": 0.867,
+        "id": 103
+    },
+    {
+        "s1": "For the next round , the contestants put themselves in small groups and perform a song together .",
+        "s2": "In the final round , the contestants perform solo with a song of their choice a cappella or accompanied by a band \u200d\u2014 depending on the season .",
+        "score": 0.801,
+        "id": 114
+    },
+    {
+        "s1": "In <LOC> , it is aired a few hours after the <LOC> telecast .",
+        "s2": "It is also aired in <LOC> on <ORG> two days after the telecast .",
+        "score": 0.857,
+        "id": 119
+    },
+    {
+        "s1": "In the <LOC> <LOC> , episodes are aired one day after the <LOC> broadcast on digital channel <ORG> .",
+        "s2": "In <LOC> and <LOC> , the show airs two days after its original broadcast .",
+        "score": 0.846,
+        "id": 121
+    },
+    {
+        "s1": "In <LOC> , it is aired a few hours after the <LOC> telecast .",
+        "s2": "In <LOC> and <LOC> , the show airs two days after its original broadcast .",
+        "score": 0.845,
+        "id": 120
+    },
+    {
+        "s1": "In <LOC> , it is aired a few hours after the <LOC> telecast .",
+        "s2": "In the <LOC> <LOC> , episodes are aired one day after the <LOC> broadcast on digital channel <ORG> .",
+        "score": 0.781,
+        "id": 118
+    },
+    {
+        "s1": "Dog meat is consumed in some <MISC> <MISC> countries , including <LOC> , <LOC> , and <LOC> , a practice that dates back to antiquity .",
+        "s2": "Dog meat is also consumed in some parts of <LOC> .",
+        "score": 0.846,
+        "id": 129
+    },
+    {
+        "s1": "Dog meat is consumed in some <MISC> <MISC> countries , including <LOC> , <LOC> , and <LOC> , a practice that dates back to antiquity .",
+        "s2": "Other cultures , such as <LOC> and pre-Columbian <LOC> , also consumed dog meat in their history .",
+        "score": 0.819,
+        "id": 127
+    },
+    {
+        "s1": "Process theology typically stresses <PER> 's relational nature .",
+        "s2": "a process theology without <PER> ..",
+        "score": 0.811,
+        "id": 137
+    },
+    {
+        "s1": "Duplications play a major role in shaping the genome .",
+        "s2": "Duplication may range from extension of short tandem repeats , to duplication of a cluster of genes , and all the way to duplication of entire chromosomes or even entire genomes .",
+        "score": 0.768,
+        "id": 141
+    },
+    {
+        "s1": "( tech.",
+        "s2": "( tech.",
+        "score": 1.0,
+        "id": 150
+    },
+    {
+        "s1": "and D.Sc.",
+        "s2": ") and D.Sc .",
+        "score": 0.925,
+        "id": 149
+    },
+    {
+        "s1": "<ORG> <ORG> <ORG> are categorised as universities , are allowed to grant B.Sc .",
+        "s2": "<ORG> <ORG> <ORG> and <ORG> <ORG> <ORG> , are allowed to grant the B.Sc .",
+        "score": 0.889,
+        "id": 146
+    },
+    {
+        "s1": "( <LOC> ) , M.Sc .",
+        "s2": ") , M.Sc .",
+        "score": 0.826,
+        "id": 148
+    },
+    {
+        "s1": "The first polytechnic in <LOC> <LOC> is <ORG> <ORG> <ORG> <ORG> , established in 1972 through upgrading the <ORG> <ORG> <ORG> <ORG> ( <ORG> <ORG> <ORG> before 1947 ) .",
+        "s2": "The second polytechnic , the <ORG> <ORG> of <LOC> <LOC> , was founded in 1984 .",
+        "score": 0.845,
+        "id": 152
+    },
+    {
+        "s1": "In recent years , <ORG> <ORG> is reorganized as <ORG> <ORG> <ORG> and 2 institutes of technology were founded in <LOC> and <LOC> .",
+        "s2": "In 2010 , another technical university named <ORG> <ORG> <ORG> was founded in <LOC> .",
+        "score": 0.796,
+        "id": 157
+    },
+    {
+        "s1": "Of the <MISC> <MISC> languages , the better understood and recorded ones are <MISC> <MISC> ( a language of <LOC> <LOC> ) and <MISC> ( the language of the <MISC> ) .",
+        "s2": "<MISC> <MISC> languages included <MISC> <MISC> ( a language of <LOC> <LOC> ) , <MISC> , and <MISC> ..",
+        "score": 0.863,
+        "id": 163
+    },
+    {
+        "s1": "The <MISC> languages or <MISC> languages form a branch of the <MISC> languages , which in turn are a branch of the <MISC> language family .",
+        "s2": "Of the <MISC> <MISC> languages , the better understood and recorded ones are <MISC> <MISC> ( a language of <LOC> <LOC> ) and <MISC> ( the language of the <MISC> ) .",
+        "score": 0.765,
+        "id": 161
+    },
+    {
+        "s1": "All <MISC> languages are descended from a common ancestor , <MISC> .",
+        "s2": "In turn , and together with <MISC> and the <MISC> languages , <MISC> descends from a common ancestor <MISC> .",
+        "score": 0.879,
+        "id": 165
+    },
+    {
+        "s1": "The old prestige form of <MISC> <MISC> , also known as <PER> , was replaced by a new standard dialect called <MISC> as the official language of the court .",
+        "s2": "This new prestige dialect became the basis of <MISC> <MISC> <MISC> .",
+        "score": 0.797,
+        "id": 170
+    },
+    {
+        "s1": "<MISC> script was first <MISC> in the 1920s under the then <MISC> nationality policy .",
+        "s2": "The script was however subsequently <MISC> in the 1930s by the <MISC> government ..",
+        "score": 0.792,
+        "id": 172
+    },
+    {
+        "s1": "He was joined by <PER> <PER> , who became the chairman and CEO of <ORG> <ORG> .",
+        "s2": "<PER> <PER> became the new CEO of the <ORG> <ORG> unit .",
+        "score": 0.822,
+        "id": 202
+    },
+    {
+        "s1": "On August 5 , 2008 , <ORG> and <ORG> announced that <ORG> had agreed to acquire <ORG> 's 50 % stake in <ORG> <ORG> .",
+        "s2": "<ORG> completed its acquisition of <ORG> 's 50 % stake in the companies' joint venture on October 1 , 2008 .",
+        "score": 0.845,
+        "id": 204
+    },
+    {
+        "s1": "In May 2014 , the <ORG> <ORG> announced <LOC> <LOC> had an estimated population of 620,602 in 2014 and that it had grown 5.3 percent between April 2010 and June 2013 .",
+        "s2": "The 2014 estimate of 620,602 is the largest population <LOC> <LOC> has ever recorded .",
+        "score": 0.776,
+        "id": 209
+    },
+    {
+        "s1": "However , it is true that in a small minority of cases , women hunt the same kind of quarry as men , sometimes doing so alongside men .",
+        "s2": "According to one study , \" About 85 % of <MISC> <MISC> women hunt , and they hunt the same quarry as men .",
+        "score": 0.848,
+        "id": 216
+    },
+    {
+        "s1": "<PER> was replaced by then-Vice Chairman <PER> <PER> and <ORG> <ORG> head <PER> <PER> .",
+        "s2": "<PER> <PER> was also upped to co-chairperson .",
+        "score": 0.785,
+        "id": 222
+    },
+    {
+        "s1": "<PER> was replaced by then-Vice Chairman <PER> <PER> and <ORG> <ORG> head <PER> <PER> .",
+        "s2": "In September 2013 , <PER> <PER> was ousted as co-chairman of <ORG> <ORG> , promoting <PER> <PER> to sole-chairman .",
+        "score": 0.757,
+        "id": 223
+    },
+    {
+        "s1": "<PER> <PER> attempted the first comprehensive history of <MISC> comics with <ORG> <ORG> ( 1947 ) .",
+        "s2": "<MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> ( 1985 ) and <MISC> <MISC> <MISC> <MISC> <MISC> ( 1993 ) were early attempts in <MISC> to formalize the study of comics .",
+        "score": 0.825,
+        "id": 227
+    },
+    {
+        "s1": "<MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> ( 1985 ) and <MISC> <MISC> <MISC> <MISC> <MISC> ( 1993 ) were early attempts in <MISC> to formalize the study of comics .",
+        "s2": "<PER> <PER> 's <MISC> <MISC> <MISC> <MISC> ( 2000 ) was the first full-length treatment of comics from a philosophical perspective .",
+        "score": 0.825,
+        "id": 229
+    },
+    {
+        "s1": "<PER> <PER> attempted the first comprehensive history of <MISC> comics with <ORG> <ORG> ( 1947 ) .",
+        "s2": "<PER> <PER> 's <MISC> <MISC> <MISC> <MISC> ( 2000 ) was the first full-length treatment of comics from a philosophical perspective .",
+        "score": 0.798,
+        "id": 228
+    },
+    {
+        "s1": "Early web browsers supported only a very simple version of <MISC> .",
+        "s2": "Modern web browsers support a combination of standards-based and de facto <MISC> and <MISC> , which should be rendered in the same way by all browsers ..",
+        "score": 0.812,
+        "id": 243
+    },
+    {
+        "s1": "People of <MISC> descent form the largest single ethnic group in the city , making up 15.8 % of the population , followed by <MISC> , accounting for 8.3 % of the population .",
+        "s2": "The city and greater area also has a growing immigrant population of <MISC> <MISC> , including the tenth-largest <MISC> community in the country ..",
+        "score": 0.777,
+        "id": 247
+    },
+    {
+        "s1": "It is named after the <MISC> <MISC> constellation , which is known in <MISC> as <MISC> .",
+        "s2": "The name literally means \" <MISC> <MISC> \" , the name given by ancient <MISC> astronomers to the seven brightest stars of the <LOC> <LOC> constellation .",
+        "score": 0.824,
+        "id": 256
+    },
+    {
+        "s1": "The first satellite , <MISC> , was launched on October 31 , 2000 .",
+        "s2": "The second satellite , <MISC> , was successfully launched on December 21 , 2000 .",
+        "score": 0.86,
+        "id": 259
+    },
+    {
+        "s1": "E.g.",
+        "s2": "E.g.",
+        "score": 1.0,
+        "id": 266
+    },
+    {
+        "s1": "E.g.",
+        "s2": "E.g.",
+        "score": 1.0,
+        "id": 268
+    },
+    {
+        "s1": "In nouns and adjectives , maintenance of / n / of medieval plurals in proparoxytone words .",
+        "s2": "In nouns and adjectives , loss of / n / of medieval plurals in proparoxytone words .",
+        "score": 0.936,
+        "id": 267
+    },
+    {
+        "s1": "<MISC> belongs to the <MISC> branch of the <MISC> languages , along with <MISC> , <MISC> , and other nearby languages .",
+        "s2": "<MISC> is distantly related to <MISC> and to the <MISC> languages ..",
+        "score": 0.914,
+        "id": 271
+    },
+    {
+        "s1": "<MISC> belongs to the <MISC> branch of the <MISC> languages , along with <MISC> , <MISC> , and other nearby languages .",
+        "s2": "The <MISC> languages do not belong to the <MISC> languages .",
+        "score": 0.792,
+        "id": 270
+    },
+    {
+        "s1": "Modern <MISC> orthography is based on the <MISC> <MISC> created by <PER> <PER> in the second half of the 19th century based on <MISC> orthography .",
+        "s2": "The <MISC> <MISC> it replaced was created in the 17th century by <PER> <PER> <PER> and <PER> <PER> based on standard <MISC> orthography .",
+        "score": 0.834,
+        "id": 274
+    },
+    {
+        "s1": "The <ORG> then switched to a neutral-site championship , with <ORG> <ORG> and <ORG> in <LOC> <LOC> .",
+        "s2": "<ORG> <ORG> returned to a neutral site and was once again played in <LOC> <LOC> , where the <ORG> returned and defeated the <ORG> <ORG> .",
+        "score": 0.79,
+        "id": 279
+    },
+    {
+        "s1": "<ORG> <ORG> in <LOC> <LOC> was deemed a success , and the city was chosen to host <ORG> <ORG> , in which the <ORG> <ORG> defeated the defending champion <ORG> <ORG> <ORG> .",
+        "s2": "In <ORG> <ORG> , the <ORG> <ORG> defeated the <ORG> <ORG> <ORG> at their home arena , <LOC> <LOC> , in <LOC> , <LOC> .",
+        "score": 0.766,
+        "id": 280
+    },
+    {
+        "s1": "The first video game based on the <ORG> was <MISC> <MISC> for the <ORG> released in 1988 .",
+        "s2": "<ORG> <ORG> released another <ORG> video game , titled <MISC> <MISC> : <MISC> <MISC> <MISC> , on February 21 , 2007 , for the <MISC> <MISC> ..",
+        "score": 0.802,
+        "id": 282
+    },
+    {
+        "s1": "Eleven of the seventeen teams in operation in 2007 had average attendance figures over 13,000 .",
+        "s2": "In 2008 , the overall attendance average increased to 12,957 , with eight teams exceeding 13,000 per game ..",
+        "score": 0.793,
+        "id": 285
+    },
+    {
+        "s1": "As such , there is no single universally agreed scientific meaning of the word \" matter \" .",
+        "s2": "Scientifically , the term \" mass \" is well-defined , but \" matter \" is not .",
+        "score": 0.786,
+        "id": 288
+    },
+    {
+        "s1": "Different fields of science use the term matter in different , and sometimes incompatible , ways .",
+        "s2": "As such , there is no single universally agreed scientific meaning of the word \" matter \" .",
+        "score": 0.781,
+        "id": 287
+    },
+    {
+        "s1": "16,413 people were employed in the secondary sector and there were 950 businesses in this sector .",
+        "s2": "135,973 people were employed in the tertiary sector , with 7,654 businesses in this sector ..",
+        "score": 0.822,
+        "id": 300
+    },
+    {
+        "s1": "Of the kindergarten pupils , 32.4 % were permanent or temporary residents of <LOC> ( not citizens ) and 40.2 % have a different mother language than the classroom language .",
+        "s2": "Of the primary pupils , 30.1 % were permanent or temporary residents of <LOC> ( not citizens ) and 35.7 % have a different mother language than the classroom language .",
+        "score": 0.938,
+        "id": 302
+    },
+    {
+        "s1": "Of the primary pupils , 30.1 % were permanent or temporary residents of <LOC> ( not citizens ) and 35.7 % have a different mother language than the classroom language .",
+        "s2": "There were 28.7 % who were permanent or temporary residents of <LOC> ( not citizens ) and 32.7 % have a different mother language than the classroom language ..",
+        "score": 0.913,
+        "id": 304
+    },
+    {
+        "s1": "Of the kindergarten pupils , 32.4 % were permanent or temporary residents of <LOC> ( not citizens ) and 40.2 % have a different mother language than the classroom language .",
+        "s2": "There were 28.7 % who were permanent or temporary residents of <LOC> ( not citizens ) and 32.7 % have a different mother language than the classroom language ..",
+        "score": 0.88,
+        "id": 303
+    },
+    {
+        "s1": "<MISC> <MISC> supports at most two start and end rules per time zone setting .",
+        "s2": "Older <MISC> <MISC> systems usually store only a single start and end rule for each zone , so that the same <MISC> setting reliably supports only post-2006 time stamps ..",
+        "score": 0.82,
+        "id": 307
+    },
+    {
+        "s1": "The <MISC> use the <MISC> alphabet and the <MISC> <MISC> use <MISC> alphabet , the <MISC> who are <MISC> also use the <MISC> .",
+        "s2": "Few <MISC> <MISC> and <MISC> <MISC> use the <MISC> alphabet however .",
+        "score": 0.892,
+        "id": 319
+    },
+    {
+        "s1": "Few <MISC> <MISC> and <MISC> <MISC> use the <MISC> alphabet however .",
+        "s2": "There is also a <MISC> script to write in <MISC> , called the <MISC> alphabet ..",
+        "score": 0.843,
+        "id": 323
+    },
+    {
+        "s1": "The <MISC> use the <MISC> alphabet and the <MISC> <MISC> use <MISC> alphabet , the <MISC> who are <MISC> also use the <MISC> .",
+        "s2": "There is also a <MISC> script to write in <MISC> , called the <MISC> alphabet ..",
+        "score": 0.833,
+        "id": 321
+    },
+    {
+        "s1": "The <MISC> use the <MISC> alphabet and the <MISC> <MISC> use <MISC> alphabet , the <MISC> who are <MISC> also use the <MISC> .",
+        "s2": "The <MISC> language and <MISC> language uses both <MISC> and <MISC> alphabets .",
+        "score": 0.778,
+        "id": 320
+    },
+    {
+        "s1": "The <LOC> <LOC> runs along the western border of the city , separating it from the <LOC> <LOC> .",
+        "s2": "The <LOC> <LOC> runs through the middle of the city and is bridged in several places .",
+        "score": 0.835,
+        "id": 325
+    },
+    {
+        "s1": "The northernmost bridge , and the first to be built , is at <LOC> , where the <LOC> road crosses the <LOC> .",
+        "s2": "The southernmost , and newest , bridge on the <LOC> is the <LOC> <LOC> , which is a toll bridge ..",
+        "score": 0.809,
+        "id": 327
+    },
+    {
+        "s1": "Further south is <LOC> <LOC> which is notable as it was opened as a free bridge ( it was originally named the <LOC> <LOC> <LOC> ) , and was never a toll bridge .",
+        "s2": "The southernmost , and newest , bridge on the <LOC> is the <LOC> <LOC> , which is a toll bridge ..",
+        "score": 0.775,
+        "id": 328
+    },
+    {
+        "s1": "The <LOC> motorway links the city to <LOC> and also , via a link to the <LOC> ( part of the <MISC> route E05 ) at <LOC> , with the <LOC> and <LOC> .",
+        "s2": "The <LOC> motorway is a spur of the <LOC> , linking it with the <LOC> <LOC> and city centre ..",
+        "score": 0.862,
+        "id": 332
+    },
+    {
+        "s1": "The <LOC> motorway , linking places along the south coast of <LOC> , runs just to the north of the city .",
+        "s2": "The <LOC> motorway is a spur of the <LOC> , linking it with the <LOC> <LOC> and city centre ..",
+        "score": 0.806,
+        "id": 331
+    },
+    {
+        "s1": "A treaty is an agreement under international law entered into by actors in international law , namely sovereign states and international organizations .",
+        "s2": "A treaty may also be known as an ( international ) agreement , protocol , covenant , convention , pact , or exchange of letters , among other terms .",
+        "score": 0.777,
+        "id": 335
+    },
+    {
+        "s1": "<MISC> , <MISC> , <MISC> ...",
+        "s2": "<MISC> ( with a <MISC> accent ) ...",
+        "score": 0.774,
+        "id": 341
+    },
+    {
+        "s1": "This may be consistent with the theory that in <MISC> <LOC> is a name of <MISC> origin ( which is common for prominent mountains and mountain ranges in the <LOC> region ) .",
+        "s2": "In <MISC> times , \" <LOC> \" was a name for the eastern <LOC> , while in the <MISC> language \" <LOC> \" ( or \" <LOC> \") was occasionally used as a name for <LOC> ..",
+        "score": 0.768,
+        "id": 354
+    },
+    {
+        "s1": "Housekeeping genes are critical for carrying out basic cell functions and so are expressed at a relatively constant level ( constitutively ) .",
+        "s2": "Not all essential genes are housekeeping genes since some essential genes are developmentally regulated or expressed at certain times during the organism 's life cycle ..",
+        "score": 0.834,
+        "id": 362
+    },
+    {
+        "s1": "<LOC> <LOC> is split into two segments .",
+        "s2": "The second segment of <LOC> <LOC> <LOC> begins at <LOC> <LOC> , at <LOC> <LOC> of <LOC> <LOC> .",
+        "score": 0.853,
+        "id": 370
+    },
+    {
+        "s1": "The second segment of <LOC> <LOC> <LOC> begins at <LOC> <LOC> , at <LOC> <LOC> of <LOC> <LOC> .",
+        "s2": "<LOC> <LOC> , which is located on <LOC> <LOC> <LOC> between <LOC> <LOC> and <LOC> <LOC> <LOC> ..",
+        "score": 0.834,
+        "id": 373
+    },
+    {
+        "s1": "<LOC> <LOC> is split into two segments .",
+        "s2": "<LOC> <LOC> , which is located on <LOC> <LOC> <LOC> between <LOC> <LOC> and <LOC> <LOC> <LOC> ..",
+        "score": 0.783,
+        "id": 371
+    },
+    {
+        "s1": "The relationship between brain size , body size and other variables has been studied across a wide range of vertebrate species .",
+        "s2": "In general , smaller animals tend to have larger brains , measured as a fraction of body size .",
+        "score": 0.812,
+        "id": 379
+    },
+    {
+        "s1": "Brains are most simply compared in terms of their size .",
+        "s2": "In general , smaller animals tend to have larger brains , measured as a fraction of body size .",
+        "score": 0.785,
+        "id": 377
+    },
+    {
+        "s1": "The relationship between brain size , body size and other variables has been studied across a wide range of vertebrate species .",
+        "s2": "As a rule , brain size increases with body size , but not in a simple linear proportion .",
+        "score": 0.765,
+        "id": 378
+    },
+    {
+        "s1": "<ORG> recognizes neither a <LOC> <LOC> nor a <LOC> <LOC> , dividing the countries instead among three regions : <LOC> <LOC> , <LOC> and the <LOC> , and <LOC> .",
+        "s2": "\" The <ORG> <ORG> <ORG> <ORG> defines <LOC> <LOC> to contain the countries included elsewhere in the <LOC> <LOC> .",
+        "score": 0.806,
+        "id": 391
+    },
+    {
+        "s1": "Some of the <MISC> refugees from north <LOC> might have resided in areas near <LOC> .",
+        "s2": "Some refugees from the north <LOC> might have found residence in south <LOC> depending on their social status and military power in the north .",
+        "score": 0.848,
+        "id": 397
+    },
+    {
+        "s1": "Some of the <MISC> refugees from north <LOC> might have resided in areas near <LOC> .",
+        "s2": "It suggests that a small number of powerful , elite <MISC> refugees from the <LOC> <LOC> might have taken refugee in south of the <LOC> <LOC> .",
+        "score": 0.792,
+        "id": 396
+    },
+    {
+        "s1": "Some may have lost social privilege , and took refugee in areas south to <LOC> <LOC> .",
+        "s2": "Some refugees from the north <LOC> might have found residence in south <LOC> depending on their social status and military power in the north .",
+        "score": 0.776,
+        "id": 395
+    },
+    {
+        "s1": "Some may have lost social privilege , and took refugee in areas south to <LOC> <LOC> .",
+        "s2": "It suggests that a small number of powerful , elite <MISC> refugees from the <LOC> <LOC> might have taken refugee in south of the <LOC> <LOC> .",
+        "score": 0.77,
+        "id": 394
+    },
+    {
+        "s1": "The 1080i25 or 1080i50 notation identifies interlaced scanning format with 25 frames ( 50 fields ) per second , each frame being 1,920 pixels wide and 1,080 pixels high .",
+        "s2": "The 1080i30 or 1080i60 notation identifies interlaced scanning format with 30 frames ( 60 fields ) per second , each frame being 1,920 pixels wide and 1,080 pixels high .",
+        "score": 0.914,
+        "id": 403
+    },
+    {
+        "s1": "For example , 1920 \u00d7 1080p25 identifies progressive scanning format with 25 frames per second , each frame being 1,920 pixels wide and 1,080 pixels high .",
+        "s2": "The 1080i25 or 1080i50 notation identifies interlaced scanning format with 25 frames ( 50 fields ) per second , each frame being 1,920 pixels wide and 1,080 pixels high .",
+        "score": 0.855,
+        "id": 400
+    },
+    {
+        "s1": "The 1080i30 or 1080i60 notation identifies interlaced scanning format with 30 frames ( 60 fields ) per second , each frame being 1,920 pixels wide and 1,080 pixels high .",
+        "s2": "The 720p60 notation identifies progressive scanning format with 60 frames per second , each frame being 720 pixels high ; 1,280 pixels horizontally are implied ..",
+        "score": 0.85,
+        "id": 405
+    },
+    {
+        "s1": "For example , 1920 \u00d7 1080p25 identifies progressive scanning format with 25 frames per second , each frame being 1,920 pixels wide and 1,080 pixels high .",
+        "s2": "The 720p60 notation identifies progressive scanning format with 60 frames per second , each frame being 720 pixels high ; 1,280 pixels horizontally are implied ..",
+        "score": 0.819,
+        "id": 402
+    },
+    {
+        "s1": "For example , 1920 \u00d7 1080p25 identifies progressive scanning format with 25 frames per second , each frame being 1,920 pixels wide and 1,080 pixels high .",
+        "s2": "The 1080i30 or 1080i60 notation identifies interlaced scanning format with 30 frames ( 60 fields ) per second , each frame being 1,920 pixels wide and 1,080 pixels high .",
+        "score": 0.811,
+        "id": 401
+    },
+    {
+        "s1": "Within the same species the cross-sectional area of the sapwood is very roughly proportional to the size of the crown of the tree .",
+        "s2": "Sapwood is thicker in the upper portion of the trunk of a tree than near the base , because the age and the diameter of the upper sections are less ..",
+        "score": 0.809,
+        "id": 410
+    },
+    {
+        "s1": "As the tree gets larger , the sapwood must necessarily become thinner or increase materially in volume .",
+        "s2": "Sapwood is thicker in the upper portion of the trunk of a tree than near the base , because the age and the diameter of the upper sections are less ..",
+        "score": 0.795,
+        "id": 411
+    },
+    {
+        "s1": "Hardwood lignin is primarily derived from sinapyl alcohol and coniferyl alcohol .",
+        "s2": "Softwood lignin is mainly derived from coniferyl alcohol ..",
+        "score": 0.869,
+        "id": 419
+    },
+    {
+        "s1": "In chemical terms , the difference between hardwood and softwood is reflected in the composition of the constituent lignin .",
+        "s2": "Softwood lignin is mainly derived from coniferyl alcohol ..",
+        "score": 0.768,
+        "id": 418
+    },
+    {
+        "s1": "The Middle Ages is the middle period of the three traditional divisions of <MISC> history : Antiquity , <MISC> period , and <MISC> period .",
+        "s2": "The <MISC> period is itself subdivided into the Early , the High , and the Late Middle Ages ..",
+        "score": 0.805,
+        "id": 428
+    },
+    {
+        "s1": "526 ) and set up a kingdom marked by its co-operation between the <MISC> and the <MISC> , at least until the last years of <PER> 's reign .",
+        "s2": "509 \u2013 511 ) , the <MISC> kingdom expanded and converted to <MISC> .",
+        "score": 0.758,
+        "id": 431
+    },
+    {
+        "s1": "The <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> was gradually replaced by languages based on , but distinct from , <MISC> , collectively known as <MISC> languages .",
+        "s2": "<MISC> remained the language of the <LOC> <LOC> , but the migrations of the <MISC> added <MISC> languages to <LOC> <LOC> ..",
+        "score": 0.781,
+        "id": 434
+    },
+    {
+        "s1": "c.",
+        "s2": "c.",
+        "score": 1.0,
+        "id": 436
+    },
+    {
+        "s1": "c.",
+        "s2": "c.",
+        "score": 1.0,
+        "id": 452
+    },
+    {
+        "s1": "1374 ) and <PER> <PER> ( d.",
+        "s2": "1464 ) and <PER> <PER> <PER> ( d.",
+        "score": 0.891,
+        "id": 450
+    },
+    {
+        "s1": "1374 ) and <PER> <PER> ( d.",
+        "s2": "1386 ) in <LOC> , and <PER> <PER> ( d.",
+        "score": 0.835,
+        "id": 449
+    },
+    {
+        "s1": "1374 ) and <PER> <PER> ( d.",
+        "s2": "1400 ) and <PER> <PER> ( d.",
+        "score": 0.829,
+        "id": 448
+    },
+    {
+        "s1": "1321 ) , <PER> ( d.",
+        "s2": "1374 ) and <PER> <PER> ( d.",
+        "score": 0.824,
+        "id": 445
+    },
+    {
+        "s1": "1321 ) , <PER> ( d.",
+        "s2": "1464 ) and <PER> <PER> <PER> ( d.",
+        "score": 0.81,
+        "id": 447
+    },
+    {
+        "s1": "1400 ) and <PER> <PER> ( d.",
+        "s2": "1464 ) and <PER> <PER> <PER> ( d.",
+        "score": 0.807,
+        "id": 451
+    },
+    {
+        "s1": "1386 ) in <LOC> , and <PER> <PER> ( d.",
+        "s2": "1464 ) and <PER> <PER> <PER> ( d.",
+        "score": 0.787,
+        "id": 453
+    },
+    {
+        "s1": "1506 ) in 1492 that discovered the <LOC> .",
+        "s2": "1498 ) in 1497 , which landed on <LOC> <LOC> <LOC> ..",
+        "score": 0.866,
+        "id": 457
+    },
+    {
+        "s1": "1524 ) sailed around <LOC> to <LOC> in 1498 .",
+        "s2": "1498 ) in 1497 , which landed on <LOC> <LOC> <LOC> ..",
+        "score": 0.821,
+        "id": 456
+    },
+    {
+        "s1": "1524 ) sailed around <LOC> to <LOC> in 1498 .",
+        "s2": "1506 ) in 1492 that discovered the <LOC> .",
+        "score": 0.791,
+        "id": 455
+    },
+    {
+        "s1": "Bugs are usually not the fault of the computer .",
+        "s2": "Since computers merely execute the instructions they are given , bugs are nearly always the result of programmer error or an oversight made in the program 's design ..",
+        "score": 0.772,
+        "id": 462
+    },
+    {
+        "s1": "The <ORG> immunology courses include an Introductory Course and an Advance Course .",
+        "s2": "The Introductory Course is a course that gives students an overview of the basics of immunology ..",
+        "score": 0.924,
+        "id": 486
+    },
+    {
+        "s1": "Most graduate immunology schools follow the <ORG> courses immunology which are offered throughout numerous schools in the <LOC> <LOC> .",
+        "s2": "The <ORG> immunology courses include an Introductory Course and an Advance Course .",
+        "score": 0.873,
+        "id": 484
+    },
+    {
+        "s1": "An additional extension to <MISC> is named <MISC> audio , as <MISC> already had a different meaning .",
+        "s2": "<MISC> is thus an unofficial or proprietary extension to the MP3 format ..",
+        "score": 0.777,
+        "id": 488
+    },
+    {
+        "s1": "House music is a genre of electronic dance music that originated in <LOC> in the early 1980s .",
+        "s2": "Since the early to mid-1990s , house music has been infused in mainstream pop and dance music worldwide ..",
+        "score": 0.838,
+        "id": 497
+    },
+    {
+        "s1": "<LOC> <LOC> is ranked eighth most populous city in the country and <LOC> <LOC> was ranked 16th most populous in <LOC> .",
+        "s2": "<LOC> ( along with <LOC> <LOC> ) is the only state in <LOC> to have two cities ranked in the top 20 most populated .",
+        "score": 0.8,
+        "id": 501
+    },
+    {
+        "s1": "<LOC> has the <ORG> 's first retractable-roof stadium with natural grass , <LOC> <LOC> ( home of the <ORG> ) .",
+        "s2": "<LOC> <LOC> <LOC> is also a retractable-roof stadium .",
+        "score": 0.811,
+        "id": 509
+    },
+    {
+        "s1": "Blacks or <MISC> <MISC> made up 25 % of <LOC> 's population .",
+        "s2": "<MISC> <MISC> made up 0.7 % of the population .",
+        "score": 0.817,
+        "id": 512
+    },
+    {
+        "s1": "Blacks or <MISC> <MISC> made up 25 % of <LOC> 's population .",
+        "s2": "In addition , <MISC> made up 37.4 % of <LOC> 's population while non-Hispanic whites made up 30.8 % , down from 62.4 % in 1970 ..",
+        "score": 0.812,
+        "id": 513
+    },
+    {
+        "s1": "Bronze artifacts from the <MISC> culture date to 4500 <MISC> .",
+        "s2": "<MISC> and <MISC> artifacts of copper and bronze alloys date to 3000 <MISC> .",
+        "score": 0.816,
+        "id": 516
+    },
+    {
+        "s1": "An exclusive boundary arises , for example , when a person adopts a marker that imposes restrictions on the behaviour of others .",
+        "s2": "An inclusive boundary is created , by contrast , by the use of a marker with which other people are ready and able to associate .",
+        "score": 0.808,
+        "id": 521
+    },
+    {
+        "s1": "Boundaries can be inclusive or exclusive depending on how they are perceived by other people .",
+        "s2": "At the same time , however , an inclusive boundary will also impose restrictions on the people it has included by limiting their inclusion within other boundaries .",
+        "score": 0.777,
+        "id": 520
+    },
+    {
+        "s1": "Two of the main <MISC> communities in the <LOC> <LOC> are located in <LOC> <LOC> <LOC> and <LOC> <LOC> .",
+        "s2": "There are also sizable and rapidly growing <MISC> communities throughout <LOC> <LOC> , particularly in <LOC> , <LOC> , <LOC> , <LOC> , and <LOC> <LOC> ..",
+        "score": 0.801,
+        "id": 534
+    },
+    {
+        "s1": "Two of the main <MISC> communities in the <LOC> <LOC> are located in <LOC> <LOC> <LOC> and <LOC> <LOC> .",
+        "s2": "In <LOC> <LOC> <LOC> , the neighborhoods of <LOC> <LOC> , <LOC> , <LOC> , and <LOC> <LOC> , located in the borough of <LOC> , have particularly large <MISC> communities .",
+        "score": 0.791,
+        "id": 533
+    },
+    {
+        "s1": "The process of making beer is known as brewing .",
+        "s2": "A company that makes beer is called either a brewery or a brewing company .",
+        "score": 0.8,
+        "id": 536
+    },
+    {
+        "s1": "Hops are added during boiling as a source of bitterness , flavour and aroma .",
+        "s2": "The longer the hops are boiled , the more bitterness they contribute , but the less hop flavour and aroma remains in the beer ..",
+        "score": 0.817,
+        "id": 543
+    },
+    {
+        "s1": "In 2002 <ORG> <ORG> <ORG> bought the <ORG> <ORG> <ORG> <ORG> <ORG> to found <ORG> , becoming the second largest brewery , after <MISC> <MISC> <ORG> .",
+        "s2": "In 2004 the <MISC> <ORG> was the third largest brewery by volume and the <MISC> <ORG> was the fifth largest .",
+        "score": 0.806,
+        "id": 545
+    },
+    {
+        "s1": "In 2008 , <ORG> ( the second-largest ) bought <ORG> ( the third largest ) , the new <ORG> <ORG> company became again the largest brewer in the world .",
+        "s2": "As of 2015 [ update ] <ORG> <ORG> is the largest brewery , with <ORG> second , and <ORG> <ORG> third ..",
+        "score": 0.79,
+        "id": 547
+    },
+    {
+        "s1": "The word \" dollar \" is one of the words in the first paragraph of <MISC> <MISC> of Article 1 of the <ORG> <ORG> .",
+        "s2": "In that context , \" dollars \" is a reference to the <MISC> milled dollar , a coin that had a monetary value of 8 <MISC> units of currency , or reales .",
+        "score": 0.795,
+        "id": 551
+    },
+    {
+        "s1": "The <MISC> <MISC> <MISC> is <LOC> 's big theatre for musicals , shows and guest performances .",
+        "s2": "The <MISC> <MISC> <MISC> is another big theatre in <LOC> , which also has an own Musical-Company .",
+        "score": 0.902,
+        "id": 561
+    },
+    {
+        "s1": "The <ORG> <ORG> , the <ORG> ( <ORG> <ORG> ) , the <MISC> , the <MISC> and the <ORG> <ORG> belong to the <ORG> <ORG> <ORG> <ORG> .",
+        "s2": "The <ORG> <ORG> ( <ORG> <ORG> ) is the <ORG> <ORG> <ORG> <ORG> .",
+        "score": 0.792,
+        "id": 560
+    },
+    {
+        "s1": "The <MISC> <MISC> <MISC> is <LOC> 's big theatre for musicals , shows and guest performances .",
+        "s2": "Some of the most important Musical-Productions are the rock musicals of the <MISC> rock musician <PER> <PER> <PER> , which take place at the <ORG> in the <LOC> <LOC> ..",
+        "score": 0.759,
+        "id": 562
+    },
+    {
+        "s1": "On 17 May , the club clinched their 23rd <MISC> <MISC> title after defeating <ORG> <ORG> .",
+        "s2": "On 30 May , the club defeated <ORG> <ORG> in the <MISC> <MISC> <MISC> final at <LOC> <LOC> .",
+        "score": 0.767,
+        "id": 575
+    },
+    {
+        "s1": "There is no single definition of an \" aircraft carrier \" , and modern navies use several variants of the type .",
+        "s2": "These variants are sometimes categorized as sub-types of aircraft carriers , and sometimes as distinct types of naval aviation-capable ships .",
+        "score": 0.787,
+        "id": 579
+    },
+    {
+        "s1": "On November 22 , 2005 , <ORG> <ORG> <ORG> was re-launched with the release of the <MISC> <MISC> , in which it was now integrated with the <MISC> <MISC> 's dashboard .",
+        "s2": "On March 24 , 2010 , <ORG> introduced the <ORG> <ORG> to <MISC> <MISC> .",
+        "score": 0.816,
+        "id": 589
+    },
+    {
+        "s1": "The invasion of <LOC> was a debacle , though concurrent wars with <MISC> <MISC> on the western front ( <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> ) were more successful .",
+        "s2": "The <LOC> <LOC> invasion was a fiasco after the much larger <MISC> army retreated to <LOC> .",
+        "score": 0.798,
+        "id": 592
+    },
+    {
+        "s1": "The term \" <LOC> <LOC> \" , for the region west of about the 96th or 98th meridian and east of the <LOC> <LOC> , was not generally used before the early 20th century .",
+        "s2": "Today the term \" <LOC> <LOC> \" is used for a subregion of the <LOC> <LOC> ..",
+        "score": 0.818,
+        "id": 598
+    },
+    {
+        "s1": "<PER> <PER> 's 1916 study , Physiographic Subdivision of the <LOC> <LOC> , brought the term <LOC> <LOC> into more widespread usage .",
+        "s2": "Today the term \" <LOC> <LOC> \" is used for a subregion of the <LOC> <LOC> ..",
+        "score": 0.77,
+        "id": 599
+    },
+    {
+        "s1": "Before that the region was almost invariably called the <LOC> <LOC> , in contrast to the lower <LOC> <LOC> of the <MISC> states .",
+        "s2": "Today the term \" <LOC> <LOC> \" is used for a subregion of the <LOC> <LOC> ..",
+        "score": 0.757,
+        "id": 600
+    },
+    {
+        "s1": "One of the most widely used definitions defines it in terms of the variability within species , between species , and between ecosystems .",
+        "s2": "This can refer to genetic variation , ecosystem variation , or species variation ( number of species ) within an area , biome , or planet .",
+        "score": 0.76,
+        "id": 603
+    },
+    {
+        "s1": "Inhibition of gastrin and gastric acid secretion is lifted .",
+        "s2": "This triggers G cells to release gastrin , which in turn stimulates parietal cells to secrete gastric acid .",
+        "score": 0.793,
+        "id": 610
+    },
+    {
+        "s1": "Inhibition of gastrin and gastric acid secretion is lifted .",
+        "s2": "This triggers intestinal gastrin to be released .",
+        "score": 0.768,
+        "id": 611
+    },
+    {
+        "s1": "In the 1927 case <PER> v .",
+        "s2": "In the 1939 case <PER> v .",
+        "score": 0.853,
+        "id": 612
+    },
+    {
+        "s1": "An executive assistant director manages each branch .",
+        "s2": "Each branch is then divided into offices and divisions , each headed by an assistant director .",
+        "score": 0.815,
+        "id": 615
+    },
+    {
+        "s1": "The two main aspects of identity development are self-clarity and self-esteem .",
+        "s2": "[ citation needed ] Researchers have used three general approaches to understanding identity development : self-concept , sense of identity , and self-esteem .",
+        "score": 0.876,
+        "id": 624
+    },
+    {
+        "s1": "Identity development is a stage in the adolescent life cycle .",
+        "s2": "The environment in which an adolescent grows up also plays an important role in their identity development .",
+        "score": 0.84,
+        "id": 623
+    },
+    {
+        "s1": "Identity development is a stage in the adolescent life cycle .",
+        "s2": "[ citation needed ] Researchers have used three general approaches to understanding identity development : self-concept , sense of identity , and self-esteem .",
+        "score": 0.776,
+        "id": 622
+    },
+    {
+        "s1": "Identity development is a stage in the adolescent life cycle .",
+        "s2": "But , developing and maintaining identity ( in adolescent years ) is a difficult task due to multiple factors such as family life , environment , and social status .",
+        "score": 0.776,
+        "id": 620
+    },
+    {
+        "s1": "Divorce usually results in less contact between the adolescent and their noncustodial parent .",
+        "s2": "A parental divorce during childhood or adolescence continues to have a negative effect when a person is in his or her twenties and early thirties .",
+        "score": 0.774,
+        "id": 628
+    },
+    {
+        "s1": "Romantic relationships tend to increase in prevalence throughout adolescence .",
+        "s2": "By age 15 , 53 % of adolescents have had a romantic relationship that lasted at least one month over the course of the previous 18 months .",
+        "score": 0.812,
+        "id": 629
+    },
+    {
+        "s1": "Romantic relationships tend to increase in prevalence throughout adolescence .",
+        "s2": "Overall , positive romantic relationships among adolescents can result in long-term benefits .",
+        "score": 0.795,
+        "id": 630
+    },
+    {
+        "s1": "For instance , some cultures find teenage sexual activity acceptable but teenage pregnancy highly undesirable .",
+        "s2": "Other cultures do not object to teenage sexual activity or teenage pregnancy , as long as they occur after marriage .",
+        "score": 0.837,
+        "id": 634
+    },
+    {
+        "s1": "In less restrictive cultures , there is more tolerance for displays of adolescent sexuality , or of the interaction between males and females in public and private spaces .",
+        "s2": "Less restrictive cultures may tolerate some aspects of adolescent sexuality , while objecting to other aspects .",
+        "score": 0.825,
+        "id": 632
+    },
+    {
+        "s1": "The relationships adolescents have with their peers , family , and members of their social sphere play a vital role in the social development of an adolescent .",
+        "s2": "Relationships are vital in the social development of an adolescent due to the extreme influence peers can have over an individual .",
+        "score": 0.798,
+        "id": 639
+    },
+    {
+        "s1": "Some men do not develop full facial hair for 10 years after puberty .",
+        "s2": "Facial hair continues to get coarser , darker and thicker for another 2 \u2013 4 years after puberty ..",
+        "score": 0.77,
+        "id": 642
+    },
+    {
+        "s1": "During early adolescence , adolescents often associate in cliques , exclusive , single-sex groups of peers with whom they are particularly close .",
+        "s2": "Towards late adolescence , cliques often merge into mixed-sex groups as teenagers begin romantically engaging with one another .",
+        "score": 0.84,
+        "id": 647
+    },
+    {
+        "s1": "Adolescents tend to associate with \" cliques \" on a small scale and \" crowds \" on a larger scale .",
+        "s2": "Despite the common notion that cliques are an inherently negative influence , they may help adolescents become socially acclimated and form a stronger sense of identity .",
+        "score": 0.823,
+        "id": 645
+    },
+    {
+        "s1": "Adolescents tend to associate with \" cliques \" on a small scale and \" crowds \" on a larger scale .",
+        "s2": "During early adolescence , adolescents often associate in cliques , exclusive , single-sex groups of peers with whom they are particularly close .",
+        "score": 0.784,
+        "id": 644
+    },
+    {
+        "s1": "It was released to the public in September 2000 , as the <MISC> <MISC> <MISC> <MISC> <MISC> , featuring a revamped user interface called \" <MISC> \" .",
+        "s2": "The initial version of <MISC> <MISC> <MISC> , 10.0 \" <MISC> \" , was released on March 24 , 2001 .",
+        "score": 0.871,
+        "id": 660
+    },
+    {
+        "s1": "Sometime between the fourth and eighth centuries , the <MISC> script , derived from <MISC> , became prevalent .",
+        "s2": "The latter was displaced in its turn by <PER> in the 11th or 12th century , with intermediary stages such as the <MISC> script .",
+        "score": 0.792,
+        "id": 672
+    },
+    {
+        "s1": "<PER> evolved into a multiplicity of <MISC> scripts , many of which were used to write <MISC> .",
+        "s2": "The latter was displaced in its turn by <PER> in the 11th or 12th century , with intermediary stages such as the <MISC> script .",
+        "score": 0.765,
+        "id": 671
+    },
+    {
+        "s1": "The <ORG> <ORG> <ORG> <ORG> lost 39 officers and 1,076 men .",
+        "s2": "The <ORG> <ORG> <ORG> <ORG> lost 36 officers and 1,060 men .",
+        "score": 0.975,
+        "id": 689
+    },
+    {
+        "s1": "The <ORG> <ORG> <ORG> lost 19 officers , a surgeon and 431 men out of a total of 700 .",
+        "s2": "The <ORG> <ORG> <ORG> <ORG> lost 39 officers and 1,076 men .",
+        "score": 0.849,
+        "id": 687
+    },
+    {
+        "s1": "Uranium is a naturally occurring element that can be found in low levels within all rock , soil , and water .",
+        "s2": "Uranium is also the highest-numbered element to be found naturally in significant quantities on <LOC> and is almost always found combined with other elements .",
+        "score": 0.799,
+        "id": 691
+    },
+    {
+        "s1": "Individuals suffering from substance abuse display disrupted rhythms .",
+        "s2": "These disrupted rhythms can increase the risk for substance abuse and relapse .",
+        "score": 0.802,
+        "id": 702
+    },
+    {
+        "s1": "<PER> <PER> remains under a death sentence in <LOC> for the crime of \" kidnapping with bodily injury .",
+        "s2": "<PER> was never charged with the murder of <PER> in <LOC> , but was sentenced to death by a jury in <LOC> for \" kidnapping with bodily injury .",
+        "score": 0.823,
+        "id": 711
+    },
+    {
+        "s1": "<LOC> , however , executed 40 percent of those sentenced , which was about four times higher than the national average .",
+        "s2": "<LOC> had executed only 1 percent of those sentenced ..",
+        "score": 0.805,
+        "id": 716
+    },
+    {
+        "s1": "<LOC> gave 2 percent of murderers a death sentence , less than the national average .",
+        "s2": "<LOC> , however , executed 40 percent of those sentenced , which was about four times higher than the national average .",
+        "score": 0.768,
+        "id": 715
+    },
+    {
+        "s1": "The last execution of a juvenile may have been <PER> <PER> , who died in the <LOC> gas chamber on April 10 , 1959 , at the age of 17 .",
+        "s2": "The last person to be executed for a crime committed as a juvenile was <PER> <PER> on April 3 , 2003 in <LOC> ..",
+        "score": 0.765,
+        "id": 721
+    },
+    {
+        "s1": "<PER> <PER> in a rough calculation of <MISC> and <MISC> <MISC> , implies that <MISC> make up less than 74 % of <MISC> worldwide .",
+        "s2": "Other estimates place <MISC> <MISC> as making up about 75 % of <MISC> worldwide ..",
+        "score": 0.807,
+        "id": 728
+    },
+    {
+        "s1": "A study of haplotypes of the Y-chromosome , published in 2000 , addressed the paternal origins of <MISC> <MISC> .",
+        "s2": "found that the Y-chromosome of <MISC> and <MISC> <MISC> contained mutations that are also common among <MISC> <MISC> peoples , but uncommon in the general <MISC> population .",
+        "score": 0.8,
+        "id": 733
+    },
+    {
+        "s1": "Eccl.",
+        "s2": "Eccl.",
+        "score": 1.0,
+        "id": 737
+    },
+    {
+        "s1": "The Gospel of <PER> and particularly the first chapter demonstrates the Divinity of <PER> .",
+        "s2": "The Gospel of <PER> 's first chapter began to be said at the end of <LOC> , we believe as a result of <PER> , and his life 's stand , but quietly .",
+        "score": 0.793,
+        "id": 739
+    },
+    {
+        "s1": "The <ORG> relocated to <LOC> , <LOC> and became the <ORG> <ORG> for the 1970 season .",
+        "s2": "The <ORG> relocated to <LOC> <LOC> , <LOC> and became the <ORG> <ORG> <ORG> for the 2008 \u2013 09 season ..",
+        "score": 0.898,
+        "id": 743
+    },
+    {
+        "s1": "In contrast , prospective memory is memory for future intentions , or remembering to remember ( <PER> , 1988 ) .",
+        "s2": "Prospective memory can be further broken down into event - and time-based prospective remembering .",
+        "score": 0.785,
+        "id": 747
+    },
+    {
+        "s1": "Stress has a significant effect on memory formation and learning .",
+        "s2": "<PER> and <PER> <PER> demonstrates how learning under stress also decreases memory recall in humans .",
+        "score": 0.8,
+        "id": 753
+    },
+    {
+        "s1": "Therefore , sleep has the greatest effect on memory consolidation .",
+        "s2": "There have been several studies which show that sleep improves the retention of memory , as memories are enhanced through active consolidation .",
+        "score": 0.915,
+        "id": 755
+    },
+    {
+        "s1": "Therefore , sleep has the greatest effect on memory consolidation .",
+        "s2": "This process implicates that memories are reactivated during sleep , but that the process does n\u2019t enhance every memory .",
+        "score": 0.765,
+        "id": 756
+    },
+    {
+        "s1": "The top ten best-selling drugs of 2013 totaled $ 75.6 billion in sales , with the anti-inflammatory drug <MISC> being the best-selling drug worldwide at $ 10.7 billion in sales .",
+        "s2": "The top three best-selling drugs in the <LOC> <LOC> in 2013 were <ORG> ($ 6.3 billion ,) <MISC> ($ 6 billion ) and <MISC> ($ 5.4 billion ) .",
+        "score": 0.83,
+        "id": 764
+    },
+    {
+        "s1": "The top three best-selling drugs in the <LOC> <LOC> in 2013 were <ORG> ($ 6.3 billion ,) <MISC> ($ 6 billion ) and <MISC> ($ 5.4 billion ) .",
+        "s2": "The best-selling drug ever , <MISC> , averaged $ 13 billion annually and netted $ 141 billion total over its lifetime before <ORG> 's patent expired in November 2011 ..",
+        "score": 0.789,
+        "id": 766
+    },
+    {
+        "s1": "In <MISC> <MISC> , the word ' asphalt ' is used to refer to a mixture of mineral aggregate and asphalt / bitumen ( also called tarmac in common parlance ) .",
+        "s2": "[ citation needed ] In <MISC> <MISC> , ' asphalt ' is equivalent to the <MISC> ' bitumen ' .",
+        "score": 0.879,
+        "id": 773
+    },
+    {
+        "s1": "In <MISC> <MISC> , the word ' asphalt ' is used to refer to a mixture of mineral aggregate and asphalt / bitumen ( also called tarmac in common parlance ) .",
+        "s2": "However , ' asphalt ' is also commonly used as a shortened form of ' asphalt concrete ' ( therefore equivalent to the <MISC> ' asphalt ' or ' tarmac ') .",
+        "score": 0.876,
+        "id": 774
+    },
+    {
+        "s1": "[ citation needed ] In <MISC> <MISC> , ' asphalt ' is equivalent to the <MISC> ' bitumen ' .",
+        "s2": "In <MISC> <MISC> , bitumen is often used as the generic term for road surfaces .",
+        "score": 0.829,
+        "id": 777
+    },
+    {
+        "s1": "[ citation needed ] In <MISC> <MISC> , ' asphalt ' is equivalent to the <MISC> ' bitumen ' .",
+        "s2": "However , ' asphalt ' is also commonly used as a shortened form of ' asphalt concrete ' ( therefore equivalent to the <MISC> ' asphalt ' or ' tarmac ') .",
+        "score": 0.819,
+        "id": 776
+    },
+    {
+        "s1": "1848 ) , <PER> ( b.",
+        "s2": "1850 ) , <PER> ( b.",
+        "score": 0.893,
+        "id": 796
+    },
+    {
+        "s1": "1846 ) , <PER> ( b.",
+        "s2": "1848 ) , <PER> ( b.",
+        "score": 0.888,
+        "id": 793
+    },
+    {
+        "s1": "1843 ) , <PER> ( b.",
+        "s2": "1848 ) , <PER> ( b.",
+        "score": 0.881,
+        "id": 786
+    },
+    {
+        "s1": "1850 ) , <PER> ( b.",
+        "s2": "1853 ) and <PER> ( b.",
+        "score": 0.878,
+        "id": 798
+    },
+    {
+        "s1": "1843 ) , <PER> ( b.",
+        "s2": "1853 ) and <PER> ( b.",
+        "score": 0.87,
+        "id": 788
+    },
+    {
+        "s1": "1843 ) , <PER> ( b.",
+        "s2": "1850 ) , <PER> ( b.",
+        "score": 0.854,
+        "id": 787
+    },
+    {
+        "s1": "1846 ) , <PER> ( b.",
+        "s2": "1850 ) , <PER> ( b.",
+        "score": 0.854,
+        "id": 794
+    },
+    {
+        "s1": "1843 ) , <PER> ( b.",
+        "s2": "1846 ) , <PER> ( b.",
+        "score": 0.854,
+        "id": 785
+    },
+    {
+        "s1": "1841 ) , <PER> ( b.",
+        "s2": "1843 ) , <PER> ( b.",
+        "score": 0.84,
+        "id": 778
+    },
+    {
+        "s1": "1848 ) , <PER> ( b.",
+        "s2": "1853 ) and <PER> ( b.",
+        "score": 0.837,
+        "id": 797
+    },
+    {
+        "s1": "1843 ) , <PER> ( b.",
+        "s2": "1844 ) , <PER> ( b.",
+        "score": 0.837,
+        "id": 784
+    },
+    {
+        "s1": "1844 ) , <PER> ( b.",
+        "s2": "1848 ) , <PER> ( b.",
+        "score": 0.834,
+        "id": 790
+    },
+    {
+        "s1": "1841 ) , <PER> ( b.",
+        "s2": "1846 ) , <PER> ( b.",
+        "score": 0.831,
+        "id": 780
+    },
+    {
+        "s1": "1844 ) , <PER> ( b.",
+        "s2": "1846 ) , <PER> ( b.",
+        "score": 0.827,
+        "id": 789
+    },
+    {
+        "s1": "1846 ) , <PER> ( b.",
+        "s2": "1853 ) and <PER> ( b.",
+        "score": 0.826,
+        "id": 795
+    },
+    {
+        "s1": "1841 ) , <PER> ( b.",
+        "s2": "1848 ) , <PER> ( b.",
+        "score": 0.822,
+        "id": 781
+    },
+    {
+        "s1": "1844 ) , <PER> ( b.",
+        "s2": "1853 ) and <PER> ( b.",
+        "score": 0.814,
+        "id": 792
+    },
+    {
+        "s1": "1844 ) , <PER> ( b.",
+        "s2": "1850 ) , <PER> ( b.",
+        "score": 0.81,
+        "id": 791
+    },
+    {
+        "s1": "1841 ) , <PER> ( b.",
+        "s2": "1853 ) and <PER> ( b.",
+        "score": 0.806,
+        "id": 783
+    },
+    {
+        "s1": "1841 ) , <PER> ( b.",
+        "s2": "1850 ) , <PER> ( b.",
+        "score": 0.794,
+        "id": 782
+    },
+    {
+        "s1": "The area of <LOC> and the <LOC> <LOC> has a semi-arid climate with hot summers , cool winters and fewer rainy days than the <MISC> climate .",
+        "s2": "The <LOC> <LOC> and the <LOC> areas have desert climate with very hot and dry summers , and mild winters with few days of rain .",
+        "score": 0.893,
+        "id": 803
+    },
+    {
+        "s1": "Coastal areas , such as those of <LOC> <LOC> and <LOC> , have a typical <MISC> climate with cool , rainy winters and long , hot summers .",
+        "s2": "The area of <LOC> and the <LOC> <LOC> has a semi-arid climate with hot summers , cool winters and fewer rainy days than the <MISC> climate .",
+        "score": 0.804,
+        "id": 801
+    },
+    {
+        "s1": "The <ORG> , the <ORG> <ORG> , and the <ORG> <ORG> consistently ranked among world 's 100 top universities by the prestigious <ORG> academic ranking .",
+        "s2": "The <ORG> <ORG> <ORG> <ORG> and <ORG> <ORG> <ORG> are ranked among the world 's top 100 universities by <ORG> <ORG> <ORG> magazine .",
+        "score": 0.895,
+        "id": 805
+    },
+    {
+        "s1": "The <ORG> , the <ORG> <ORG> , and the <ORG> <ORG> consistently ranked among world 's 100 top universities by the prestigious <ORG> academic ranking .",
+        "s2": "<LOC> 's seven research universities ( excluding the <ORG> <ORG> ) are consistently ranked among top 500 in the world ..",
+        "score": 0.823,
+        "id": 806
+    },
+    {
+        "s1": "<LOC> is also the third-largest <MISC> economic partner of <LOC> and the two countries have military as well as extensive space technology ties .",
+        "s2": "<LOC> is one of the few majority <MISC> countries to develop bilateral strategic and economic relations with <LOC> .",
+        "score": 0.808,
+        "id": 809
+    },
+    {
+        "s1": "<LOC> is one of the few majority <MISC> countries to develop bilateral strategic and economic relations with <LOC> .",
+        "s2": "In <LOC> , <LOC> is <LOC> 's main and closest ally in the continent due to common political , religious and security interests .",
+        "score": 0.774,
+        "id": 810
+    },
+    {
+        "s1": "The <MISC> were a hellenized <MISC> family from <LOC> .",
+        "s2": "The peoples around <LOC> <LOC> , known as the <MISC> , were intermixed and <MISC> <MISC> ..",
+        "score": 0.798,
+        "id": 814
+    },
+    {
+        "s1": "However , the massive migration of northern <MISC> <MISC> into <LOC> region mainly occurred after the <MISC> <MISC> <MISC> .",
+        "s2": "The <MISC> court fled from the north to the south , causing large numbers of northern <MISC> <MISC> to move into <LOC> region .",
+        "score": 0.811,
+        "id": 827
+    },
+    {
+        "s1": "The <MISC> <MISC> ( <MISC> ) is a hybrid of the <LOC> and <LOC> dialects .",
+        "s2": "<MISC> is also a hybrid of these two dialects .",
+        "score": 0.888,
+        "id": 829
+    },
+    {
+        "s1": "The population had declined since the previous census carried out in 1996 , with an average annual growth rate of \u2212 1.5 per thousand .",
+        "s2": "Continual decline has been documented since the census period of 1975 \u2013 1985 , which showed a rate of \u2212 5.6 per thousand .",
+        "score": 0.768,
+        "id": 832
+    },
+    {
+        "s1": "Notable restaurants in <LOC> include <LOC> atop the <LOC> <LOC> , widely regarded to be the finest restaurant in the city .",
+        "s2": "Numerous restaurants are located along the <LOC> of <LOC> .",
+        "score": 0.805,
+        "id": 837
+    },
+    {
+        "s1": "The share of <MISC> loanwords is about 1.5 % , but this number is still on the increase .",
+        "s2": "Conversely , <MISC> contributed many loanwords to <MISC> , accounting for 1.3 % ..",
+        "score": 0.817,
+        "id": 850
+    },
+    {
+        "s1": "<MISC> vocabulary is predominantly <MISC> in origin , with an additional share of loanwords of 20 % .",
+        "s2": "The share of <MISC> loanwords is about 1.5 % , but this number is still on the increase .",
+        "score": 0.771,
+        "id": 848
+    },
+    {
+        "s1": "Clothing protects against many things that might injure the uncovered human body .",
+        "s2": "Some clothing protects from specific environmental hazards , such as insects , noxious chemicals , weather , weapons , and contact with abrasive substances .",
+        "score": 0.887,
+        "id": 855
+    },
+    {
+        "s1": "Clothes protect people from the elements , including rain , snow , wind , and other weather , as well as from the sun .",
+        "s2": "Some clothing protects from specific environmental hazards , such as insects , noxious chemicals , weather , weapons , and contact with abrasive substances .",
+        "score": 0.811,
+        "id": 856
+    },
+    {
+        "s1": "The <ORG> compete in <ORG> <ORG> <ORG> ( <ORG> ) as a members of the <MISC> <MISC> ( <ORG> ) Central division ; the team plays its home baseball games at <LOC> <LOC> .",
+        "s2": "The <ORG> are also one of two active major league teams based in <LOC> ; the other is the <ORG> <ORG> <ORG> , who are a member of the <MISC> <MISC> ( <LOC> ) Central division .",
+        "score": 0.868,
+        "id": 859
+    },
+    {
+        "s1": "The <ORG> <ORG> are an <MISC> professional baseball team located on the <LOC> <LOC> of <LOC> , <LOC> .",
+        "s2": "The <ORG> compete in <ORG> <ORG> <ORG> ( <ORG> ) as a members of the <MISC> <MISC> ( <ORG> ) Central division ; the team plays its home baseball games at <LOC> <LOC> .",
+        "score": 0.848,
+        "id": 857
+    },
+    {
+        "s1": "In even numbered years , the <ORG> <ORG> had home field advantage .",
+        "s2": "In odd numbered years , the <MISC> <MISC> had home field advantage .",
+        "score": 0.752,
+        "id": 862
+    },
+    {
+        "s1": "Odd numbered years the <ORG> had home field advantage .",
+        "s2": "Even numbered years the <ORG> had home field advantage .",
+        "score": 0.981,
+        "id": 864
+    },
+    {
+        "s1": "In the 1982 <MISC> <MISC> the <ORG> <ORG> <ORG> of the <ORG> had home field advantage .",
+        "s2": "In the 1983 <MISC> <MISC> the <ORG> <ORG> of the <ORG> had home field advantage ..",
+        "score": 0.974,
+        "id": 869
+    },
+    {
+        "s1": "Even numbered years the <ORG> had home field advantage .",
+        "s2": "In the 1982 <MISC> <MISC> the <ORG> <ORG> <ORG> of the <ORG> had home field advantage .",
+        "score": 0.816,
+        "id": 867
+    },
+    {
+        "s1": "Even numbered years the <ORG> had home field advantage .",
+        "s2": "In the 1983 <MISC> <MISC> the <ORG> <ORG> of the <ORG> had home field advantage ..",
+        "score": 0.797,
+        "id": 868
+    },
+    {
+        "s1": "Odd numbered years the <ORG> had home field advantage .",
+        "s2": "In the 1982 <MISC> <MISC> the <ORG> <ORG> <ORG> of the <ORG> had home field advantage .",
+        "score": 0.796,
+        "id": 865
+    },
+    {
+        "s1": "<PER> had his first of four multi-home run games that month on June 1 , and went on to break <PER> <PER> 's record with 20 home runs in the month , a record that still stands .",
+        "s2": "By the end of his historic month , the outfielder 's 33 home runs tied him with <PER> <PER> , <PER> and left him only four behind <PER> 's 37 .",
+        "score": 0.79,
+        "id": 873
+    },
+    {
+        "s1": "<PER> had 13 home runs entering the month , representing less than half of <PER> <PER> 's total .",
+        "s2": "<PER> had his first of four multi-home run games that month on June 1 , and went on to break <PER> <PER> 's record with 20 home runs in the month , a record that still stands .",
+        "score": 0.774,
+        "id": 872
+    },
+    {
+        "s1": "The terms piracy and theft are often associated with copyright infringement .",
+        "s2": "The original meaning of piracy is \" robbery or illegal violence at sea \" , but the term has been in use for centuries as a synonym for acts of copyright infringement .",
+        "score": 0.801,
+        "id": 883
+    },
+    {
+        "s1": "<LOC> ( 92 %) ; 3 .",
+        "s2": "<LOC> ( 92 %) ; 4 .",
+        "score": 0.965,
+        "id": 896
+    },
+    {
+        "s1": "<LOC> ( 93 %) ; 2 .",
+        "s2": "<LOC> ( 92 %) ; 3 .",
+        "score": 0.951,
+        "id": 887
+    },
+    {
+        "s1": "<LOC> ( 92 %) ; and 5 .",
+        "s2": "<LOC> ( 23 %) ; and 5 .",
+        "score": 0.945,
+        "id": 915
+    },
+    {
+        "s1": "<LOC> ( 93 %) ; 2 .",
+        "s2": "<LOC> ( 92 %) ; 4 .",
+        "score": 0.933,
+        "id": 888
+    },
+    {
+        "s1": "<LOC> ( 92 %) ; 4 .",
+        "s2": "<LOC> ( 92 %) ; and 5 .",
+        "score": 0.933,
+        "id": 904
+    },
+    {
+        "s1": "<LOC> ( 92 %) ; 3 .",
+        "s2": "<LOC> ( 92 %) ; and 5 .",
+        "score": 0.93,
+        "id": 897
+    },
+    {
+        "s1": "<LOC> ( 21 %) ; 3 .",
+        "s2": "<LOC> <LOC> ( 22 %) ; 4 .",
+        "score": 0.926,
+        "id": 926
+    },
+    {
+        "s1": "<LOC> ( 20 %) ; 2 .",
+        "s2": "<LOC> ( 21 %) ; 3 .",
+        "score": 0.92,
+        "id": 922
+    },
+    {
+        "s1": "<LOC> ( 92 %) ; 4 .",
+        "s2": "<LOC> <LOC> ( 22 %) ; 4 .",
+        "score": 0.917,
+        "id": 908
+    },
+    {
+        "s1": "<LOC> ( 93 %) ; 2 .",
+        "s2": "<LOC> ( 92 %) ; and 5 .",
+        "score": 0.917,
+        "id": 889
+    },
+    {
+        "s1": "<LOC> ( 21 %) ; 3 .",
+        "s2": "<LOC> ( 23 %) ; and 5 .",
+        "score": 0.914,
+        "id": 927
+    },
+    {
+        "s1": "<LOC> ( 20 %) ; 2 .",
+        "s2": "<LOC> <LOC> ( 22 %) ; 4 .",
+        "score": 0.906,
+        "id": 923
+    },
+    {
+        "s1": "<LOC> ( 92 %) ; 3 .",
+        "s2": "<LOC> ( 21 %) ; 3 .",
+        "score": 0.901,
+        "id": 900
+    },
+    {
+        "s1": "<LOC> ( 93 %) ; 2 .",
+        "s2": "<LOC> ( 91 %) .",
+        "score": 0.899,
+        "id": 890
+    },
+    {
+        "s1": "<LOC> ( 23 %) ; and 5 .",
+        "s2": "<LOC> ( 25 %) .",
+        "score": 0.893,
+        "id": 931
+    },
+    {
+        "s1": "<LOC> <LOC> ( 22 %) ; 4 .",
+        "s2": "<LOC> ( 23 %) ; and 5 .",
+        "score": 0.892,
+        "id": 929
+    },
+    {
+        "s1": "<LOC> ( 93 %) ; 2 .",
+        "s2": "<LOC> ( 23 %) ; and 5 .",
+        "score": 0.889,
+        "id": 894
+    },
+    {
+        "s1": "<LOC> ( 92 %) ; 3 .",
+        "s2": "<LOC> <LOC> ( 22 %) ; 4 .",
+        "score": 0.888,
+        "id": 901
+    },
+    {
+        "s1": "<LOC> ( 92 %) ; 3 .",
+        "s2": "<LOC> ( 91 %) .",
+        "score": 0.881,
+        "id": 898
+    },
+    {
+        "s1": "<LOC> ( 92 %) ; 3 .",
+        "s2": "<LOC> ( 23 %) ; and 5 .",
+        "score": 0.879,
+        "id": 902
+    },
+    {
+        "s1": "<LOC> ( 20 %) ; 2 .",
+        "s2": "<LOC> ( 23 %) ; and 5 .",
+        "score": 0.879,
+        "id": 924
+    },
+    {
+        "s1": "<LOC> ( 92 %) ; 4 .",
+        "s2": "<LOC> ( 23 %) ; and 5 .",
+        "score": 0.872,
+        "id": 909
+    },
+    {
+        "s1": "<LOC> ( 92 %) ; and 5 .",
+        "s2": "<LOC> <LOC> ( 22 %) ; 4 .",
+        "score": 0.87,
+        "id": 914
+    },
+    {
+        "s1": "<LOC> ( 92 %) ; and 5 .",
+        "s2": "<LOC> ( 91 %) .",
+        "score": 0.87,
+        "id": 911
+    },
+    {
+        "s1": "<LOC> ( 93 %) ; 2 .",
+        "s2": "<LOC> ( 21 %) ; 3 .",
+        "score": 0.869,
+        "id": 892
+    },
+    {
+        "s1": "<LOC> ( 93 %) ; 2 .",
+        "s2": "<LOC> <LOC> ( 22 %) ; 4 .",
+        "score": 0.867,
+        "id": 893
+    },
+    {
+        "s1": "<LOC> ( 92 %) ; 4 .",
+        "s2": "<LOC> ( 91 %) .",
+        "score": 0.866,
+        "id": 905
+    },
+    {
+        "s1": "<LOC> ( 92 %) ; 4 .",
+        "s2": "<LOC> ( 21 %) ; 3 .",
+        "score": 0.863,
+        "id": 907
+    },
+    {
+        "s1": "<LOC> ( 91 %) .",
+        "s2": "<LOC> ( 25 %) .",
+        "score": 0.861,
+        "id": 921
+    },
+    {
+        "s1": "<LOC> ( 92 %) ; and 5 .",
+        "s2": "<LOC> ( 25 %) .",
+        "score": 0.857,
+        "id": 916
+    },
+    {
+        "s1": "<LOC> ( 21 %) ; 3 .",
+        "s2": "<LOC> ( 25 %) .",
+        "score": 0.855,
+        "id": 928
+    },
+    {
+        "s1": "<LOC> ( 93 %) ; 2 .",
+        "s2": "<LOC> ( 20 %) ; 2 .",
+        "score": 0.854,
+        "id": 891
+    },
+    {
+        "s1": "<LOC> ( 92 %) ; and 5 .",
+        "s2": "<LOC> ( 21 %) ; 3 .",
+        "score": 0.851,
+        "id": 913
+    },
+    {
+        "s1": "<LOC> ( 92 %) ; and 5 .",
+        "s2": "<LOC> ( 20 %) ; 2 .",
+        "score": 0.851,
+        "id": 912
+    },
+    {
+        "s1": "<LOC> ( 20 %) ; 2 .",
+        "s2": "<LOC> ( 25 %) .",
+        "score": 0.85,
+        "id": 925
+    },
+    {
+        "s1": "<LOC> ( 92 %) ; 3 .",
+        "s2": "<LOC> ( 20 %) ; 2 .",
+        "score": 0.846,
+        "id": 899
+    },
+    {
+        "s1": "<LOC> ( 92 %) ; 4 .",
+        "s2": "<LOC> ( 20 %) ; 2 .",
+        "score": 0.843,
+        "id": 906
+    },
+    {
+        "s1": "<LOC> ( 91 %) .",
+        "s2": "<LOC> ( 23 %) ; and 5 .",
+        "score": 0.834,
+        "id": 920
+    },
+    {
+        "s1": "<LOC> ( 93 %) ; 2 .",
+        "s2": "<LOC> ( 25 %) .",
+        "score": 0.834,
+        "id": 895
+    },
+    {
+        "s1": "<LOC> <LOC> ( 22 %) ; 4 .",
+        "s2": "<LOC> ( 25 %) .",
+        "score": 0.826,
+        "id": 930
+    },
+    {
+        "s1": "According to a 2007 <ORG> and <ORG> <ORG> <ORG> ( <ORG> ) study , the five countries with the highest rates of software piracy were : 1 .",
+        "s2": "According to the study 's results , the five countries with the lowest piracy rates were : 1 .",
+        "score": 0.822,
+        "id": 886
+    },
+    {
+        "s1": "<LOC> ( 92 %) ; 3 .",
+        "s2": "<LOC> ( 25 %) .",
+        "score": 0.82,
+        "id": 903
+    },
+    {
+        "s1": "<LOC> ( 91 %) .",
+        "s2": "<LOC> ( 21 %) ; 3 .",
+        "score": 0.816,
+        "id": 918
+    },
+    {
+        "s1": "<LOC> ( 92 %) ; 4 .",
+        "s2": "<LOC> ( 25 %) .",
+        "score": 0.811,
+        "id": 910
+    },
+    {
+        "s1": "<LOC> ( 91 %) .",
+        "s2": "<LOC> <LOC> ( 22 %) ; 4 .",
+        "score": 0.809,
+        "id": 919
+    },
+    {
+        "s1": "and in March 1604 Sir <PER> <PER> commanded the second voyage .",
+        "s2": "General <PER> <PER> , a captain during the second voyage , led the third voyage from 1607 to 1610 ..",
+        "score": 0.778,
+        "id": 943
+    },
+    {
+        "s1": "Sir <PER> <PER> commanded the first <ORG> <ORG> <ORG> voyage in 1601 and returned in 1603.",
+        "s2": "and in March 1604 Sir <PER> <PER> commanded the second voyage .",
+        "score": 0.773,
+        "id": 941
+    },
+    {
+        "s1": "<MISC> is predominant in <LOC> , <LOC> , <LOC> , <LOC> , <LOC> and <LOC> .",
+        "s2": "<MISC> is predominant in the <LOC> , eastern <LOC> , <LOC> <LOC> and <LOC> <LOC> .",
+        "score": 0.932,
+        "id": 949
+    },
+    {
+        "s1": "<MISC> is predominant in <LOC> , <LOC> , <LOC> , <LOC> , <LOC> and <LOC> .",
+        "s2": "<LOC> <LOC> is also predominantly <MISC> <MISC> due to a history of <MISC> rule ..",
+        "score": 0.866,
+        "id": 951
+    },
+    {
+        "s1": "<MISC> is predominant in the <LOC> , eastern <LOC> , <LOC> <LOC> and <LOC> <LOC> .",
+        "s2": "<LOC> <LOC> is also predominantly <MISC> <MISC> due to a history of <MISC> rule ..",
+        "score": 0.791,
+        "id": 953
+    },
+    {
+        "s1": "<MISC> is predominant in <LOC> , <LOC> , <LOC> , <LOC> , <LOC> and <LOC> .",
+        "s2": "The <LOC> has the largest <MISC> <MISC> population in <LOC> .",
+        "score": 0.779,
+        "id": 950
+    },
+    {
+        "s1": "Most wrestling matches last for a set number of falls , with the first side to achieve the majority number of pinfalls , submissions , or countouts being the winner .",
+        "s2": "Historically , matches were wrestled to 3 falls (\" best 2 out of 3 \") or 5 falls (\" best 3 out of 5 \") .",
+        "score": 0.768,
+        "id": 956
+    },
+    {
+        "s1": "<LOC> <LOC> is located in the first section of <LOC> <LOC> in the <LOC> <LOC> .",
+        "s2": "<LOC> <LOC> <LOC> <LOC> <LOC> is near the <LOC> <LOC> <LOC> <LOC> <LOC> in the <LOC> <LOC> <LOC> .",
+        "score": 0.874,
+        "id": 968
+    },
+    {
+        "s1": "After the <ORG> <ORG> <ORG> , <LOC> and <LOC> emerged as two competitors .",
+        "s2": "<LOC> , trying to remain the dominant power in <LOC> <LOC> , led the way in the terms of the <ORG> <ORG> <ORG> .",
+        "score": 0.781,
+        "id": 969
+    },
+    {
+        "s1": "The first , 18 <MISC> .",
+        "s2": "The second , 18 <MISC> .",
+        "score": 0.907,
+        "id": 990
+    },
+    {
+        "s1": "<LOC> is the 22nd most extensive , the 3rd most populous , and the 8th most densely populated of the <LOC> <LOC> .",
+        "s2": "<LOC> is the most populous city in <LOC> , and the largest city by area in the contiguous <LOC> <LOC> .",
+        "score": 0.801,
+        "id": 991
+    },
+    {
+        "s1": "<LOC> has a large and diverse <MISC> population , with <MISC> and <MISC> <MISC> being the largest groups in the state .",
+        "s2": "<LOC> has the second largest <MISC> <MISC> population after <LOC> <LOC> , as well as the fastest-growing in the nation .",
+        "score": 0.833,
+        "id": 996
+    },
+    {
+        "s1": "It was later announced that Queen + <PER> <PER> would play two shows at the <ORG> <ORG> , <LOC> on 11 and 12 July 2012 .",
+        "s2": "Queen also performed with <PER> on 3 July 2012 at <LOC> 's <LOC> <LOC> , and on 7 July 2012 at the <LOC> <LOC> in <LOC> , <LOC> ..",
+        "score": 0.789,
+        "id": 1002
+    },
+    {
+        "s1": "On 30 June , Queen + <PER> performed in <LOC> , <LOC> at a joint concert with <PER> <PER> for the <ORG> <ORG> <ORG> <ORG> .",
+        "s2": "Queen also performed with <PER> on 3 July 2012 at <LOC> 's <LOC> <LOC> , and on 7 July 2012 at the <LOC> <LOC> in <LOC> , <LOC> ..",
+        "score": 0.789,
+        "id": 1003
+    },
+    {
+        "s1": "A version of \" <MISC> <MISC> <MISC> \" by <PER> <PER> was in the 2004 film <MISC> <MISC> .",
+        "s2": "In 2001 , a version of \" <MISC> <MISC> <MISC> <MISC> <MISC> \" was performed by <PER> <PER> and <PER> <PER> in the film musical <MISC> <MISC> <MISC> .",
+        "score": 0.82,
+        "id": 1006
+    },
+    {
+        "s1": "In June 2010 , the choir performed \" <MISC> <MISC> <MISC> <MISC> <MISC> \" in the episode \" <MISC> \" .",
+        "s2": "In May 2012 , the choir performed \" <MISC> <MISC> <MISC> <MISC> \" in the episode \" <MISC> \" , and the song features in <MISC> <MISC> <MISC> ..",
+        "score": 0.952,
+        "id": 1009
+    },
+    {
+        "s1": "In June 2010 , the choir performed \" <MISC> <MISC> <MISC> <MISC> <MISC> \" in the episode \" <MISC> \" .",
+        "s2": "The following week 's episode , \" <MISC> <MISC> <MISC> \" , features a rival choir performing \" <MISC> <MISC> \" in its entirety .",
+        "score": 0.879,
+        "id": 1008
+    },
+    {
+        "s1": "The altar is called the communion table and the altar area is called the Chancel by <MISC> .",
+        "s2": "In a <MISC> ( <ORG> <ORG> ) there may be an altar cross , either on the communion table or on a table in the chancel .",
+        "score": 0.832,
+        "id": 1013
+    },
+    {
+        "s1": "The <ORG> <ORG> church in <LOC> was influenced by <PER> <PER> and the <ORG> <ORG> church <LOC> and has around 1 800 members .",
+        "s2": "The <ORG> <ORG> <ORG> in <LOC> was founded in 1903 by pastor <PER> , has 500 congregations and 75 000 members .",
+        "score": 0.822,
+        "id": 1015
+    },
+    {
+        "s1": "A number of partnerships exist between presbyteries in <LOC> and the <ORG> ( <LOC> ) , including specific connections with <LOC> , <LOC> , <LOC> <LOC> , <LOC> and <LOC> .",
+        "s2": "For example , the <ORG> <ORG> , located in <LOC> <LOC> , has a partnership with a presbytery in <LOC> .",
+        "score": 0.863,
+        "id": 1016
+    },
+    {
+        "s1": "Many predators specialize in hunting only one species of prey .",
+        "s2": "Some predators specialize in certain classes of prey , not just single species .",
+        "score": 0.857,
+        "id": 1024
+    },
+    {
+        "s1": "Predators may be put to use in conservation efforts to control introduced species .",
+        "s2": "Predators from its natural range may be introduced to control populations , though in some cases this has little effect , and may even cause unforeseen problems .",
+        "score": 0.764,
+        "id": 1027
+    },
+    {
+        "s1": "Besides their use in conservation biology , predators are also important for controlling pests in agriculture .",
+        "s2": "Natural predators are an environmentally friendly and sustainable way of reducing damage to crops , and are one alternative to the use of chemical agents such as pesticides ..",
+        "score": 0.763,
+        "id": 1029
+    },
+    {
+        "s1": "Biological classification is the method by which botanists group organisms into categories such as genera or species .",
+        "s2": "Biological classification is a form of scientific taxonomy .",
+        "score": 0.835,
+        "id": 1038
+    },
+    {
+        "s1": "Large <MISC> communities are in the north-western boroughs of <LOC> and <LOC> , the latter of which is home to <LOC> 's largest <MISC> temple , <LOC> <LOC> .",
+        "s2": "There are <MISC> communities in East and <LOC> <LOC> , particularly in <LOC> , home to one of the largest <MISC> populations and the largest <MISC> temple outside <LOC> ..",
+        "score": 0.856,
+        "id": 1048
+    },
+    {
+        "s1": "There are large <MISC> communities in the eastern boroughs of <LOC> <LOC> and <LOC> .",
+        "s2": "Large <MISC> communities are in the north-western boroughs of <LOC> and <LOC> , the latter of which is home to <LOC> 's largest <MISC> temple , <LOC> <LOC> .",
+        "score": 0.848,
+        "id": 1046
+    },
+    {
+        "s1": "The <LOC> <LOC> uses officially <LOC> , although its <ORG> <ORG> <ORG> <ORG> mentions both <LOC> and <LOC> on its website .",
+        "s2": "The <ORG> <ORG> uses <LOC> , as do the <ORG> <ORG> <ORG> <ORG> <ORG> , <LOC> , <LOC> , <LOC> , <LOC> , <LOC> , and <LOC> ..",
+        "score": 0.884,
+        "id": 1057
+    },
+    {
+        "s1": "The <LOC> form an estimated 68 % of the population .",
+        "s2": "10 % of the population are <LOC> .",
+        "score": 0.819,
+        "id": 1058
+    },
+    {
+        "s1": "<LOC> is home to four major language families : <MISC> , Tai \u2013 <MISC> , <MISC> , and <MISC> .",
+        "s2": "The primary Tai \u2013 <MISC> language is <LOC> .",
+        "score": 0.822,
+        "id": 1060
+    },
+    {
+        "s1": "<LOC> is home to four major language families : <MISC> , Tai \u2013 <MISC> , <MISC> , and <MISC> .",
+        "s2": "Mon , <LOC> , and <LOC> are the major <MISC> languages spoken in <LOC> .",
+        "score": 0.783,
+        "id": 1061
+    },
+    {
+        "s1": "Mon , <LOC> , and <LOC> are the major <MISC> languages spoken in <LOC> .",
+        "s2": "Little known fact about <LOC> is there are more than 130 languages spoken by people in <LOC> .",
+        "score": 0.772,
+        "id": 1063
+    },
+    {
+        "s1": "Others , such as in the <MISC> communities of <LOC> , were speaking <MISC> and <MISC> , the languages of the <MISC> <MISC> .",
+        "s2": "These languages were also used by the <MISC> of <LOC> at that time.",
+        "score": 0.788,
+        "id": 1066
+    },
+    {
+        "s1": "Some <MISC> languages , particularly <MISC> and <MISC> , are also widely used .",
+        "s2": "For example , in <LOC> , the <MISC> majority has adopted <MISC> , while the <MISC> minority uses <MISC> as its primary language .",
+        "score": 0.784,
+        "id": 1069
+    },
+    {
+        "s1": "The three most commonly spoken languages among <MISC> today are <MISC> , <MISC> , and <MISC> .",
+        "s2": "Some <MISC> languages , particularly <MISC> and <MISC> , are also widely used .",
+        "score": 0.783,
+        "id": 1068
+    },
+    {
+        "s1": "<ORG> cotton acreage in <LOC> grew at a rapid rate , increasing from 50,000 hectares in 2002 to 10.6 million hectares in 2011 .",
+        "s2": "The total cotton area in <LOC> was 12.1 million hectares in 2011 , so <ORG> cotton was grown on 88 % of the cotton area .",
+        "score": 0.84,
+        "id": 1074
+    },
+    {
+        "s1": "They agreed on a strategy to sequence the genome of cultivated , tetraploid cotton .",
+        "s2": "\" Tetraploid \" means that cultivated cotton actually has two separate genomes within its nucleus , referred to as the A and D genomes .",
+        "score": 0.81,
+        "id": 1078
+    },
+    {
+        "s1": "The majority of video compression algorithms use lossy compression .",
+        "s2": "As in all lossy compression , there is a trade-off between video quality , cost of processing the compression and decompression , and system requirements .",
+        "score": 0.768,
+        "id": 1081
+    },
+    {
+        "s1": "Pesticides are used to control organisms that are considered to be harmful .",
+        "s2": "Pesticides can prevent sickness in humans that could be caused by moldy food or diseased produce .",
+        "score": 0.753,
+        "id": 1085
+    },
+    {
+        "s1": "Quarries at <ORG> supplied freestone used in the construction of <LOC> <LOC> .",
+        "s2": "Its quarries also supplied a cement factory at <LOC> , adjacent to the <LOC> <LOC> <LOC> <LOC> .",
+        "score": 0.786,
+        "id": 1088
+    },
+    {
+        "s1": "In 2004 , Provost <PER> <PER> became the President of the <ORG> <ORG> <ORG> <ORG> .",
+        "s2": "In 2007 Deputy Provost <PER> <PER> was named President of <ORG> <ORG> .",
+        "score": 0.89,
+        "id": 1094
+    },
+    {
+        "s1": "In 2002 Provost <PER> <PER> became the Vice Chancellor of the <ORG> <ORG> <ORG> .",
+        "s2": "In 2004 , Provost <PER> <PER> became the President of the <ORG> <ORG> <ORG> <ORG> .",
+        "score": 0.814,
+        "id": 1092
+    },
+    {
+        "s1": "<MISC> political philosophy dates back to the <MISC> <MISC> <MISC> <MISC> , specifically with <MISC> in the 6th century <MISC> .",
+        "s2": "<MISC> was the dominant political philosophy of the <MISC> <MISC> , but was replaced by <MISC> <MISC> in the <MISC> <MISC> .",
+        "score": 0.892,
+        "id": 1101
+    },
+    {
+        "s1": "The major philosophies during the period , <MISC> , <MISC> , <MISC> , <MISC> and <MISC> , each had a political aspect to their philosophical schools .",
+        "s2": "Philosophers such as <MISC> , <PER> , and <MISC> , focused on political unity and political stability as the basis of their political philosophies .",
+        "score": 0.776,
+        "id": 1102
+    },
+    {
+        "s1": "Although an alloy is technically an impure metal , when referring to alloys , the term \" impurities \" usually denotes those elements which are not desired .",
+        "s2": "Conversely , otherwise pure-metals that simply contain unwanted impurities are often called \" impure metals \" and are not usually referred to as alloys .",
+        "score": 0.881,
+        "id": 1107
+    },
+    {
+        "s1": "This is called a substitutional alloy .",
+        "s2": "This is referred to as an interstitial alloy .",
+        "score": 0.806,
+        "id": 1110
+    },
+    {
+        "s1": "<PER> <PER> <PER> is an internationally recognised poet and artist .",
+        "s2": "<PER> <PER> <PER> is an artist and writer .",
+        "score": 0.837,
+        "id": 1117
+    },
+    {
+        "s1": "His immediate successor , <PER> <PER> , who took the name <PER> <PER> <PER> , was created a cardinal in the consistory of 5 March 1973 .",
+        "s2": "<PER> <PER> was created a cardinal in the consistory of 26 June 1967 .",
+        "score": 0.778,
+        "id": 1118
+    },
+    {
+        "s1": "<MISC> were the largest single group of foreigners with 15.6 % of total foreign population .",
+        "s2": "Immigrants from <LOC> <LOC> , most of them former <MISC> refugees , were the largest group among people of <MISC> origin ( 6.3 %) .",
+        "score": 0.759,
+        "id": 1128
+    },
+    {
+        "s1": "<MISC> <MISC> are , roughly speaking , a large group of words typical of <MISC> Standard <MISC> , which do not appear either in <MISC> <MISC> , nor in other <MISC> dialects .",
+        "s2": "The most frequent characteristics of <MISC> are in vocabulary , phrases , and pronunciation , but certain <MISC> denote themselves as special in syntax and orthography likewise .",
+        "score": 0.822,
+        "id": 1132
+    },
+    {
+        "s1": "The principal official languages ( <MISC> , <MISC> , and <MISC> ) have terms , not used outside of <LOC> , known as <MISC> .",
+        "s2": "The <MISC> spoken in <LOC> has similar terms , which are equally known as <MISC> .",
+        "score": 0.805,
+        "id": 1130
+    },
+    {
+        "s1": "Dietary fiber is a carbohydrate that is incompletely absorbed in humans and in some animals .",
+        "s2": "Dietary fiber consists mainly of cellulose , a large carbohydrate polymer which is indigestible as humans do not have the required enzymes to disassemble it .",
+        "score": 0.823,
+        "id": 1136
+    },
+    {
+        "s1": ", weakly inflammatory PGE3 ) .",
+        "s2": "pro-inflammatory PGE 2 ) .",
+        "score": 0.833,
+        "id": 1140
+    },
+    {
+        "s1": "For the continued normal cellular maintenance , growth , and division , these free radicals must be sufficiently neutralized by antioxidant compounds .",
+        "s2": "Some antioxidants are more effective than others at neutralizing different free radicals .",
+        "score": 0.805,
+        "id": 1141
+    },
+    {
+        "s1": "Some antioxidants are more effective than others at neutralizing different free radicals .",
+        "s2": "When interacting with a free radical , some antioxidants produce a different free radical compound that is less dangerous or more dangerous than the previous compound .",
+        "score": 0.801,
+        "id": 1142
+    },
+    {
+        "s1": "2.",
+        "s2": "3.",
+        "score": 0.903,
+        "id": 1153
+    },
+    {
+        "s1": "3.",
+        "s2": "4.",
+        "score": 0.897,
+        "id": 1155
+    },
+    {
+        "s1": "2.",
+        "s2": "4.",
+        "score": 0.881,
+        "id": 1154
+    },
+    {
+        "s1": "1.",
+        "s2": "2.",
+        "score": 0.841,
+        "id": 1150
+    },
+    {
+        "s1": "1.",
+        "s2": "3.",
+        "score": 0.818,
+        "id": 1151
+    },
+    {
+        "s1": "\u201c The roots of all our modern academic fields can be found within the pages of literature .",
+        "s2": "It is easy to see how all academic fields have roots in literature .",
+        "score": 0.818,
+        "id": 1157
+    },
+    {
+        "s1": "Collectively , they are known as <MISC> characters .",
+        "s2": "In <MISC> , they are sometimes called <MISC> characters .",
+        "score": 0.865,
+        "id": 1165
+    },
+    {
+        "s1": "<MISC> characters are logograms used in the writing of <MISC> and some other <MISC> languages .",
+        "s2": "In <MISC> , they are sometimes called <MISC> characters .",
+        "score": 0.844,
+        "id": 1163
+    },
+    {
+        "s1": "<MISC> characters are logograms used in the writing of <MISC> and some other <MISC> languages .",
+        "s2": "Collectively , they are known as <MISC> characters .",
+        "score": 0.788,
+        "id": 1162
+    },
+    {
+        "s1": "The art of writing <MISC> characters is called <MISC> calligraphy .",
+        "s2": "In ancient <LOC> , <MISC> calligraphy is one of the Four Arts of the <MISC> <MISC> .",
+        "score": 0.803,
+        "id": 1169
+    },
+    {
+        "s1": "Those identifying with <MISC> ancestry dropped by 1 % to 11 % ( although those born in <LOC> remain the largest non-native group at 3,942 persons ) .",
+        "s2": "Those who reported <MISC> <MISC> ancestry were 13 % .",
+        "score": 0.782,
+        "id": 1175
+    },
+    {
+        "s1": "About 46 % of the population identified themselves with <MISC> ancestry in 2010 , which was a decrease from the 51 % who did so in the 2000 census .",
+        "s2": "Those identifying with <MISC> ancestry dropped by 1 % to 11 % ( although those born in <LOC> remain the largest non-native group at 3,942 persons ) .",
+        "score": 0.777,
+        "id": 1173
+    },
+    {
+        "s1": "<LOC> also competed in <MISC> <MISC> <MISC> at the 2006 <MISC> <MISC> in <LOC> , <LOC> .",
+        "s2": "<PER> <PER> competed in the <LOC> <MISC> in 2008 .",
+        "score": 0.843,
+        "id": 1177
+    },
+    {
+        "s1": "<LOC> also competed in <MISC> <MISC> <MISC> at the 2006 <MISC> <MISC> in <LOC> , <LOC> .",
+        "s2": "<LOC> also competes in the biennial <MISC> <MISC> , which it hosted in 2013 ..",
+        "score": 0.78,
+        "id": 1178
+    },
+    {
+        "s1": "The <MISC> film industry is known as <MISC> ( a portmanteau of <LOC> and <LOC> ) and is now the 2nd-largest producer of movies in the world .",
+        "s2": "<MISC> cinema is <LOC> 's largest movie industry in terms of both value and the number of movies produced per year .",
+        "score": 0.839,
+        "id": 1184
+    },
+    {
+        "s1": "1898 ) , <PER> <PER> ( b.",
+        "s2": "1902 ) , <PER> <PER> ( b.",
+        "score": 0.9,
+        "id": 1196
+    },
+    {
+        "s1": "1885 ) , <PER> <PER> ( b.",
+        "s2": "1902 ) , <PER> <PER> ( b.",
+        "score": 0.899,
+        "id": 1194
+    },
+    {
+        "s1": "1902 ) , <PER> <PER> ( b.",
+        "s2": "1908 ) , and <PER> <PER> ( b.",
+        "score": 0.891,
+        "id": 1198
+    },
+    {
+        "s1": "1885 ) , <PER> <PER> ( b.",
+        "s2": "1898 ) , <PER> <PER> ( b.",
+        "score": 0.88,
+        "id": 1193
+    },
+    {
+        "s1": "1881 ) , <PER> <PER> <PER> ( b.",
+        "s2": "1885 ) , <PER> <PER> ( b.",
+        "score": 0.877,
+        "id": 1189
+    },
+    {
+        "s1": "1898 ) , <PER> <PER> ( b.",
+        "s2": "1908 ) , and <PER> <PER> ( b.",
+        "score": 0.87,
+        "id": 1197
+    },
+    {
+        "s1": "1885 ) , <PER> <PER> ( b.",
+        "s2": "1908 ) , and <PER> <PER> ( b.",
+        "score": 0.869,
+        "id": 1195
+    },
+    {
+        "s1": "1881 ) , <PER> <PER> <PER> ( b.",
+        "s2": "1898 ) , <PER> <PER> ( b.",
+        "score": 0.863,
+        "id": 1190
+    },
+    {
+        "s1": "1881 ) , <PER> <PER> <PER> ( b.",
+        "s2": "1902 ) , <PER> <PER> ( b.",
+        "score": 0.855,
+        "id": 1191
+    },
+    {
+        "s1": "Hence , \u0278 can verify neither the proposition \" the spin in the direction of y is positive \" nor the proposition \" the spin in the direction of y is negative .",
+        "s2": "\" Nevertheless , the disjunction of the propositions \" the spin in the direction of y is positive or the spin in the direction of y is negative \" must be true for \u0278 .",
+        "score": 0.855,
+        "id": 1200
+    },
+    {
+        "s1": "Voltage reversal is encountered in <ORG> circuits that are under-damped .",
+        "s2": "In comparison , critically damped or over-damped systems usually do not experience a voltage reversal .",
+        "score": 0.797,
+        "id": 1206
+    },
+    {
+        "s1": "Capacitors may have their connecting leads arranged in many configurations , for example axially or radially .",
+        "s2": "The leads ( until bent ) are usually in planes parallel to that of the flat body of the capacitor , and extend in the same direction ; they are often parallel as manufactured ..",
+        "score": 0.76,
+        "id": 1208
+    },
+    {
+        "s1": "Crevasses form due to differences in glacier velocity .",
+        "s2": "If two rigid sections of a glacier move at different speeds and directions , shear forces cause them to break apart , opening a crevasse .",
+        "score": 0.791,
+        "id": 1218
+    },
+    {
+        "s1": "When a glacier moves through irregular terrain , cracks called crevasses develop in the fracture zone .",
+        "s2": "Crevasses form due to differences in glacier velocity .",
+        "score": 0.758,
+        "id": 1216
+    },
+    {
+        "s1": "Transverse crevasses are transverse to flow and form where steeper slopes cause a glacier to accelerate .",
+        "s2": "Longitudinal crevasses form semi-parallel to flow where a glacier expands laterally .",
+        "score": 0.828,
+        "id": 1219
+    },
+    {
+        "s1": "Longitudinal crevasses form semi-parallel to flow where a glacier expands laterally .",
+        "s2": "Marginal crevasses form from the edge of the glacier , due to the reduction in speed caused by friction of the valley walls .",
+        "score": 0.804,
+        "id": 1221
+    },
+    {
+        "s1": "Extensive glaciers are found in <LOC> , <LOC> , <LOC> , <LOC> , <LOC> and <LOC> .",
+        "s2": "<LOC> has glaciers on <LOC> <LOC> in <LOC> , on <LOC> <LOC> and in the <LOC> <LOC> .",
+        "score": 0.879,
+        "id": 1225
+    },
+    {
+        "s1": "Extensive glaciers are found in <LOC> , <LOC> , <LOC> , <LOC> , <LOC> and <LOC> .",
+        "s2": "Mountain glaciers are widespread , especially in the <LOC> , the <LOC> , the <LOC> <LOC> , the <LOC> , and the <LOC> .",
+        "score": 0.877,
+        "id": 1222
+    },
+    {
+        "s1": "Mountain glaciers are widespread , especially in the <LOC> , the <LOC> , the <LOC> <LOC> , the <LOC> , and the <LOC> .",
+        "s2": "<LOC> has glaciers on <LOC> <LOC> in <LOC> , on <LOC> <LOC> and in the <LOC> <LOC> .",
+        "score": 0.814,
+        "id": 1228
+    },
+    {
+        "s1": "Extensive glaciers are found in <LOC> , <LOC> , <LOC> , <LOC> , <LOC> and <LOC> .",
+        "s2": "<LOC> <LOC> currently contains no glaciers , although a small glacier on <LOC> <LOC> was present in the last glacial period .",
+        "score": 0.814,
+        "id": 1223
+    },
+    {
+        "s1": "<LOC> <LOC> currently contains no glaciers , although a small glacier on <LOC> <LOC> was present in the last glacial period .",
+        "s2": "<LOC> has glaciers on <LOC> <LOC> in <LOC> , on <LOC> <LOC> and in the <LOC> <LOC> .",
+        "score": 0.784,
+        "id": 1230
+    },
+    {
+        "s1": "Mountain glaciers are widespread , especially in the <LOC> , the <LOC> , the <LOC> <LOC> , the <LOC> , and the <LOC> .",
+        "s2": "During glacial periods of the <LOC> , <LOC> , <LOC> on <LOC> <LOC> and <LOC> also had large alpine glaciers , while the <LOC> and <LOC> <LOC> were completely glaciated ..",
+        "score": 0.782,
+        "id": 1229
+    },
+    {
+        "s1": "Mountain glaciers are widespread , especially in the <LOC> , the <LOC> , the <LOC> <LOC> , the <LOC> , and the <LOC> .",
+        "s2": "In <LOC> <LOC> , small , rapidly diminishing , glaciers are located on its highest summit massif of <LOC> <LOC> .",
+        "score": 0.777,
+        "id": 1227
+    },
+    {
+        "s1": "Extensive glaciers are found in <LOC> , <LOC> , <LOC> , <LOC> , <LOC> and <LOC> .",
+        "s2": "During glacial periods of the <LOC> , <LOC> , <LOC> on <LOC> <LOC> and <LOC> also had large alpine glaciers , while the <LOC> and <LOC> <LOC> were completely glaciated ..",
+        "score": 0.773,
+        "id": 1226
+    },
+    {
+        "s1": "Lateral moraines are formed on the sides of the glacier .",
+        "s2": "Medial moraines are formed when two different glaciers merge and the lateral moraines of each coalesce to form a moraine in the middle of the combined glacier .",
+        "score": 0.842,
+        "id": 1235
+    },
+    {
+        "s1": "Terminal or end moraines are formed at the foot or terminal end of a glacier .",
+        "s2": "Lateral moraines are formed on the sides of the glacier .",
+        "score": 0.831,
+        "id": 1233
+    },
+    {
+        "s1": "Terminal or end moraines are formed at the foot or terminal end of a glacier .",
+        "s2": "Medial moraines are formed when two different glaciers merge and the lateral moraines of each coalesce to form a moraine in the middle of the combined glacier .",
+        "score": 0.8,
+        "id": 1234
+    },
+    {
+        "s1": "M.",
+        "s2": "M.",
+        "score": 1.0,
+        "id": 1246
+    },
+    {
+        "s1": "M.",
+        "s2": "M.",
+        "score": 1.0,
+        "id": 1247
+    },
+    {
+        "s1": "M.",
+        "s2": "M.",
+        "score": 1.0,
+        "id": 1248
+    },
+    {
+        "s1": "The M.",
+        "s2": "M.",
+        "score": 0.85,
+        "id": 1243
+    },
+    {
+        "s1": "The M.",
+        "s2": "M.",
+        "score": 0.85,
+        "id": 1244
+    },
+    {
+        "s1": "Totally drug-resistant <MISC> is resistant to all currently used drugs .",
+        "s2": "<MISC> is tentatively supported for use in multiple drug-resistant <MISC> ..",
+        "score": 0.847,
+        "id": 1256
+    },
+    {
+        "s1": "Drug-resistant <MISC> is a serious public health issue in many developing countries , as its treatment is longer and requires more expensive drugs .",
+        "s2": "Totally drug-resistant <MISC> is resistant to all currently used drugs .",
+        "score": 0.83,
+        "id": 1251
+    },
+    {
+        "s1": "Extensively drug-resistant <MISC> is also resistant to three or more of the six classes of second-line drugs .",
+        "s2": "Totally drug-resistant <MISC> is resistant to all currently used drugs .",
+        "score": 0.805,
+        "id": 1254
+    },
+    {
+        "s1": "Drug-resistant <MISC> is a serious public health issue in many developing countries , as its treatment is longer and requires more expensive drugs .",
+        "s2": "<MISC> is tentatively supported for use in multiple drug-resistant <MISC> ..",
+        "score": 0.804,
+        "id": 1252
+    },
+    {
+        "s1": "Extensively drug-resistant <MISC> is also resistant to three or more of the six classes of second-line drugs .",
+        "s2": "<MISC> is tentatively supported for use in multiple drug-resistant <MISC> ..",
+        "score": 0.784,
+        "id": 1255
+    },
+    {
+        "s1": "The <LOC> <LOC> <LOC> was short-lived , however , becoming the stem duchy of <LOC> in <LOC> <LOC> after the <MISC> <MISC> <MISC> in 880 .",
+        "s2": "<LOC> was united with the other <LOC> east of the <LOC> into the stem duchy of <LOC> ..",
+        "score": 0.785,
+        "id": 1267
+    },
+    {
+        "s1": "<LOC> has the highest percentage of children aged 5 \u2013 17 employed as child labour , and a total of over 65 million .",
+        "s2": "<LOC> , with its larger population , has the largest number of children employed as child labour at about 114 million .",
+        "score": 0.876,
+        "id": 1280
+    },
+    {
+        "s1": "Child labour accounts for 22 % of the workforce in <LOC> , 32 % in <LOC> , 17 % in <LOC> <LOC> , 1 % in the <LOC> , <LOC> , <LOC> and other wealthy nations .",
+        "s2": "<LOC> has the highest percentage of children aged 5 \u2013 17 employed as child labour , and a total of over 65 million .",
+        "score": 0.808,
+        "id": 1276
+    },
+    {
+        "s1": "Child labour accounts for 22 % of the workforce in <LOC> , 32 % in <LOC> , 17 % in <LOC> <LOC> , 1 % in the <LOC> , <LOC> , <LOC> and other wealthy nations .",
+        "s2": "<LOC> , with its larger population , has the largest number of children employed as child labour at about 114 million .",
+        "score": 0.764,
+        "id": 1277
+    },
+    {
+        "s1": "Child labour accounts for 22 % of the workforce in <LOC> , 32 % in <LOC> , 17 % in <LOC> <LOC> , 1 % in the <LOC> , <LOC> , <LOC> and other wealthy nations .",
+        "s2": "The proportion of child labourers varies greatly among countries and even regions inside those countries .",
+        "score": 0.761,
+        "id": 1275
+    },
+    {
+        "s1": "Child labour accounts for 22 % of the workforce in <LOC> , 32 % in <LOC> , 17 % in <LOC> <LOC> , 1 % in the <LOC> , <LOC> , <LOC> and other wealthy nations .",
+        "s2": "<LOC> <LOC> and <LOC> region have lower overall population density , but at 14 million child labourers has high incidence rates too ..",
+        "score": 0.76,
+        "id": 1278
+    },
+    {
+        "s1": "The highest coastal , daytime temperature averages less than 89 \u00b0 F ( 32 \u00b0 C ) during summer months .",
+        "s2": "The coast has mild temperatures in winter , with daytime highs rarely below 40 \u00b0 F ( 4 \u00b0 <MISC> ) .",
+        "score": 0.757,
+        "id": 1283
+    },
+    {
+        "s1": "The <ORG> 's fast-food chain was started in <LOC> <LOC> .",
+        "s2": "Another fast-food chain , <ORG> ' , was started in <LOC> , and has its corporate headquarters there .",
+        "score": 0.843,
+        "id": 1289
+    },
+    {
+        "s1": "<PER> <PER> <PER> states that the crucifixion of <PER> is as certain as any historical fact can be .",
+        "s2": "<PER> and <PER> state that it is now \" firmly established \" that there is <MISC> confirmation of the crucifixion of <PER> .",
+        "score": 0.834,
+        "id": 1297
+    },
+    {
+        "s1": "<PER> <PER> <PER> states that the crucifixion of <PER> is as certain as any historical fact can be .",
+        "s2": "<PER> <PER> states that most scholars in the third quest for the historical <PER> consider the crucifixion indisputable .",
+        "score": 0.802,
+        "id": 1298
+    },
+    {
+        "s1": "<PER> <PER> states that the crucifixion of <PER> on the orders of <PER> <PER> is the most certain element about him .",
+        "s2": "<PER> <PER> <PER> states that the crucifixion of <PER> is as certain as any historical fact can be .",
+        "score": 0.798,
+        "id": 1296
+    },
+    {
+        "s1": "The baptism of <PER> and his crucifixion are considered to be two historically certain facts about <PER> .",
+        "s2": "<PER> <PER> <PER> states that the crucifixion of <PER> is as certain as any historical fact can be .",
+        "score": 0.786,
+        "id": 1295
+    },
+    {
+        "s1": "<LOC> is partitioned into many different sections , roughly into <LOC> , <LOC> , West and <LOC> .",
+        "s2": "<LOC> <LOC> <LOC> , across <LOC> <LOC> is <LOC> <LOC> .",
+        "score": 0.775,
+        "id": 1303
+    },
+    {
+        "s1": "<LOC> has several major newspapers , the main and largest newspaper being <ORG> <ORG> <ORG> .",
+        "s2": "The <ORG> <ORG> and <ORG> <ORG> <ORG> are <LOC> 's and <LOC> <LOC> 's main , major and largest newspapers .",
+        "score": 0.94,
+        "id": 1312
+    },
+    {
+        "s1": "<LOC> has several major newspapers , the main and largest newspaper being <ORG> <ORG> <ORG> .",
+        "s2": "<ORG> <ORG> <ORG> is the major and largest <MISC> newspaper .",
+        "score": 0.811,
+        "id": 1311
+    },
+    {
+        "s1": "<ORG> <ORG> <ORG> is the major and largest <MISC> newspaper .",
+        "s2": "The <ORG> <ORG> and <ORG> <ORG> <ORG> are <LOC> 's and <LOC> <LOC> 's main , major and largest newspapers .",
+        "score": 0.797,
+        "id": 1314
+    },
+    {
+        "s1": "The <LOC> <LOC> and <LOC> <LOC> connect <LOC> with <LOC> <LOC> .",
+        "s2": "The <LOC> <LOC> <LOC> connects the <LOC> <LOC> <LOC> with <LOC> <LOC> .",
+        "score": 0.964,
+        "id": 1317
+    },
+    {
+        "s1": "The <LOC> <LOC> <LOC> connects <LOC> and <LOC> <LOC> .",
+        "s2": "The <LOC> <LOC> <LOC> connects the <LOC> <LOC> <LOC> with <LOC> <LOC> .",
+        "score": 0.958,
+        "id": 1318
+    },
+    {
+        "s1": "The <LOC> <LOC> and <LOC> <LOC> connect <LOC> with <LOC> <LOC> .",
+        "s2": "The <LOC> <LOC> <LOC> connects <LOC> and <LOC> <LOC> .",
+        "score": 0.949,
+        "id": 1316
+    },
+    {
+        "s1": "In <LOC> <LOC> , <LOC> , and the <LOC> <LOC> <LOC> the highest court is called the <ORG> <ORG> <ORG> , a name used by many states for their intermediate appellate courts .",
+        "s2": "In <LOC> <LOC> , the highest court of the state is the <ORG> <ORG> <ORG> <ORG> .",
+        "score": 0.87,
+        "id": 1322
+    },
+    {
+        "s1": "In <LOC> <LOC> , <LOC> , and the <LOC> <LOC> <LOC> the highest court is called the <ORG> <ORG> <ORG> , a name used by many states for their intermediate appellate courts .",
+        "s2": "Further , trial courts of general jurisdiction in <LOC> <LOC> are called the <ORG> <ORG> , and the intermediate appellate court is called the <ORG> <ORG> , <ORG> <ORG> .",
+        "score": 0.853,
+        "id": 1321
+    },
+    {
+        "s1": "In <LOC> <LOC> , <LOC> , and the <LOC> <LOC> <LOC> the highest court is called the <ORG> <ORG> <ORG> , a name used by many states for their intermediate appellate courts .",
+        "s2": "In <LOC> and <LOC> the highest court is styled the \" <ORG> <ORG> <ORG> \" ; the last is the oldest appellate court of continuous operation in the <LOC> <LOC> ..",
+        "score": 0.824,
+        "id": 1323
+    },
+    {
+        "s1": "Soul and matter are different from <MISC> in that they have attributes and capacities different from <MISC> .",
+        "s2": "<MISC> exists independently , while soul and matter are dependent .",
+        "score": 0.832,
+        "id": 1335
+    },
+    {
+        "s1": "In <LOC> , the territorial legislatures of the <LOC> <LOC> and <LOC> are nonpartisan .",
+        "s2": "In <LOC> <LOC> , <LOC> has a nonpartisan parliament .",
+        "score": 0.887,
+        "id": 1340
+    },
+    {
+        "s1": "In the <LOC> <LOC> , the unicameral legislature of <LOC> is nonpartisan but is elected and votes on informal party lines .",
+        "s2": "In <LOC> <LOC> , <LOC> has a nonpartisan parliament .",
+        "score": 0.851,
+        "id": 1339
+    },
+    {
+        "s1": "In the <LOC> <LOC> , the unicameral legislature of <LOC> is nonpartisan but is elected and votes on informal party lines .",
+        "s2": "In <LOC> , the territorial legislatures of the <LOC> <LOC> and <LOC> are nonpartisan .",
+        "score": 0.848,
+        "id": 1338
+    },
+    {
+        "s1": "It is not clear exactly where collegiate a cappella began .",
+        "s2": "Collegiate a cappella groups grew throughout the 20th century .",
+        "score": 0.793,
+        "id": 1345
+    },
+    {
+        "s1": "A cappella is gaining popularity among <MISC> <MISC> with the emergence of primarily <ORG> <ORG> groups .",
+        "s2": "Co-ed <MISC> <MISC> a cappella groups are also gaining in popularity .",
+        "score": 0.91,
+        "id": 1348
+    },
+    {
+        "s1": "The first <MISC> <MISC> a cappella group was <ORG> <ORG> , founded in 1996 at the <ORG> <ORG> <ORG> .",
+        "s2": "The first co-ed south <MISC> a cappella was <ORG> , from the <ORG> <ORG> <ORG> , formed in 2001 .",
+        "score": 0.88,
+        "id": 1352
+    },
+    {
+        "s1": "A cappella is gaining popularity among <MISC> <MISC> with the emergence of primarily <ORG> <ORG> groups .",
+        "s2": "The first <MISC> <MISC> a cappella group was <ORG> <ORG> , founded in 1996 at the <ORG> <ORG> <ORG> .",
+        "score": 0.828,
+        "id": 1347
+    },
+    {
+        "s1": "Co-ed <MISC> <MISC> a cappella groups are also gaining in popularity .",
+        "s2": "Also , <MISC> <MISC> , another co-ed a cappella from <LOC> <LOC> , hosts the \" <MISC> \" competition at the <ORG> <ORG> <ORG> , <LOC> annually .",
+        "score": 0.812,
+        "id": 1354
+    },
+    {
+        "s1": "Co-ed <MISC> <MISC> a cappella groups are also gaining in popularity .",
+        "s2": "The first co-ed south <MISC> a cappella was <ORG> , from the <ORG> <ORG> <ORG> , formed in 2001 .",
+        "score": 0.802,
+        "id": 1353
+    },
+    {
+        "s1": "The first <MISC> <MISC> a cappella group was <ORG> <ORG> , founded in 1996 at the <ORG> <ORG> <ORG> .",
+        "s2": "Co-ed <MISC> <MISC> a cappella groups are also gaining in popularity .",
+        "score": 0.792,
+        "id": 1351
+    },
+    {
+        "s1": "A cappella is gaining popularity among <MISC> <MISC> with the emergence of primarily <ORG> <ORG> groups .",
+        "s2": "The first co-ed south <MISC> a cappella was <ORG> , from the <ORG> <ORG> <ORG> , formed in 2001 .",
+        "score": 0.783,
+        "id": 1349
+    },
+    {
+        "s1": "In the <LOC> <LOC> , federalism originally referred to belief in a stronger central government .",
+        "s2": "This is very different from the modern usage of \" federalism \" in <LOC> and the <LOC> <LOC> .",
+        "score": 0.776,
+        "id": 1364
+    },
+    {
+        "s1": "The warmest coastal station of <LOC> has a yearly mean temperature of 14.8 \u00b0 C ( 58.6 \u00b0 <MISC> ) .",
+        "s2": "<LOC> located somewhat inland is only slightly warmer with 14.9 \u00b0 C ( 58.8 \u00b0 <MISC> ) .",
+        "score": 0.791,
+        "id": 1368
+    },
+    {
+        "s1": "<LOC> located somewhat inland is only slightly warmer with 14.9 \u00b0 C ( 58.8 \u00b0 <MISC> ) .",
+        "s2": "In coastal areas summers are temperered , averaging around 25 \u00b0 C ( 77 \u00b0 <MISC> ) in <LOC> .",
+        "score": 0.784,
+        "id": 1369
+    },
+    {
+        "s1": "In coastal areas summers are temperered , averaging around 25 \u00b0 C ( 77 \u00b0 <MISC> ) in <LOC> .",
+        "s2": "Temperatures do however soar in inland areas such as <LOC> , where days above 30 \u00b0 C ( 86 \u00b0 <MISC> ) are very regular ..",
+        "score": 0.775,
+        "id": 1371
+    },
+    {
+        "s1": "The <MISC> <MISC> connects <LOC> <LOC> and <LOC> to <LOC> , entering <LOC> at <LOC> <LOC> <LOC> .",
+        "s2": "The <MISC> <MISC> connects <ORG> <ORG> , <LOC> and <LOC> , and enters <LOC> at <LOC> <LOC> .",
+        "score": 0.866,
+        "id": 1374
+    },
+    {
+        "s1": "The <MISC> <MISC> connects <LOC> <LOC> and <LOC> to <LOC> , entering <LOC> at <LOC> <LOC> <LOC> .",
+        "s2": "<MISC> <MISC> enters <LOC> on the <MISC> coast , and ends in <LOC> ( <LOC> <LOC> ) .",
+        "score": 0.762,
+        "id": 1375
+    },
+    {
+        "s1": "Green eyes are most common in Northern and <LOC> <LOC> .",
+        "s2": "Among <MISC> <MISC> , green eyes are most common among those of recent <MISC> and <MISC> ancestry , about 16 % ..",
+        "score": 0.789,
+        "id": 1379
+    },
+    {
+        "s1": "<LOC> is one of the major industrial centers of <LOC> .",
+        "s2": "<LOC> and <LOC> are the production centers for textiles and electronics products .",
+        "score": 0.818,
+        "id": 1388
+    },
+    {
+        "s1": "The monthly minimum wage went up from 400 to 450 yuan , with a minimum of 4.9 yuan per hour for part-time work , effective 26 December 2007 .",
+        "s2": "The top tier mandates a minimum of 650 yuan per month , or 7.1 yuan per hour .",
+        "score": 0.776,
+        "id": 1390
+    },
+    {
+        "s1": "The monthly minimum wage went up from 400 to 450 yuan , with a minimum of 4.9 yuan per hour for part-time work , effective 26 December 2007 .",
+        "s2": "National law allows each province to set minimum wages independently , but with a floor of 450 yuan per month ..",
+        "score": 0.757,
+        "id": 1391
+    },
+    {
+        "s1": "<MISC> can be implemented by different character encodings .",
+        "s2": "<MISC> uses a 16-bit code unit ( two 8-bit bytes ) for each character but cannot encode every character in the current <MISC> standard .",
+        "score": 0.808,
+        "id": 1397
+    },
+    {
+        "s1": "<LOC> <LOC> has population of <MISC> with a smaller group of <MISC> people .",
+        "s2": "A portion of <LOC> next to eastern <LOC> includes <MISC> <MISC> , <MISC> <MISC> , and <MISC> <MISC> ; nearly all of the <MISC> population in <LOC> lives in that area .",
+        "score": 0.777,
+        "id": 1403
+    },
+    {
+        "s1": "The <ORG> <ORG> for <LOC> <LOC> is located in the <ORG> <ORG> <ORG> <ORG> <ORG> in downtown <LOC> .",
+        "s2": "The <ORG> <ORG> is located across <LOC> <LOC> .",
+        "score": 0.878,
+        "id": 1407
+    },
+    {
+        "s1": "The <ORG> <ORG> for <LOC> <LOC> is located in the <ORG> <ORG> <ORG> <ORG> <ORG> in downtown <LOC> .",
+        "s2": "The city is home to the <ORG> <ORG> <ORG> , as well as the <ORG> <ORG> <ORG> <ORG> <ORG> <ORG> <ORG> <ORG> and the <ORG> <ORG> <ORG> <ORG> for the <LOC> <LOC> of <LOC> .",
+        "score": 0.876,
+        "id": 1409
+    },
+    {
+        "s1": "The <ORG> <ORG> for <LOC> <LOC> is located in the <ORG> <ORG> <ORG> <ORG> <ORG> in downtown <LOC> .",
+        "s2": "in the <ORG> <ORG> <ORG> <ORG> <ORG> , in downtown <LOC> .",
+        "score": 0.856,
+        "id": 1408
+    },
+    {
+        "s1": "<MISC> is the second most commonly spoken language in the state , with 141,060 speakers counted in 2000 .",
+        "s2": "The next most commonly spoken language is <MISC> , with about 22,000 speakers living within the <LOC> <LOC> tribal jurisdiction area of eastern <LOC> .",
+        "score": 0.783,
+        "id": 1424
+    },
+    {
+        "s1": "In 2010 the total crime severity index for the city was 101.9 , an increase of 10 % from 2009 and 19.2 % above the national average .",
+        "s2": "The violent crime severity index was 90.1 , an increase of 29 % from 2009 and 1.2 % above the national average .",
+        "score": 0.862,
+        "id": 1441
+    },
+    {
+        "s1": "The set G is called the underlying set of the group ( G , \u2022) .",
+        "s2": "Often the group 's underlying set G is used as a short name for the group ( G , \u2022) .",
+        "score": 0.917,
+        "id": 1446
+    },
+    {
+        "s1": "Often the group 's underlying set G is used as a short name for the group ( G , \u2022) .",
+        "s2": "Usually , it is clear from the context whether a symbol like G refers to a group or to an underlying set ..",
+        "score": 0.829,
+        "id": 1448
+    },
+    {
+        "s1": "If he ca n\u2019t , the argument goes , then there is something that he cannot do , namely create the stone , and therefore he is not omnipotent .",
+        "s2": "If he can , it continues , then there is also something that he cannot do , namely lift the stone , and therefore he is not omnipotent .",
+        "score": 0.869,
+        "id": 1463
+    },
+    {
+        "s1": "The hijackers \u2013 members of <ORG> 's <LOC> cell \u2013 intentionally crashed two airliners into the <ORG> <ORG> of the <ORG> <ORG> <ORG> in <LOC> <LOC> <LOC> .",
+        "s2": "The hijackers crashed a third airliner into the <ORG> in <LOC> <LOC> , <LOC> , just outside <LOC> <LOC> .",
+        "score": 0.824,
+        "id": 1466
+    },
+    {
+        "s1": "In January 2005 , the personal income tax rate was reduced to 24 % .",
+        "s2": "The income tax rate was decreased to 21 % by January 2008 .",
+        "score": 0.794,
+        "id": 1470
+    },
+    {
+        "s1": "<LOC> also exports 1.562 billion kilowatt hours of electricity annually .",
+        "s2": "<LOC> imports 200 million kilowatt hours of electricity annually ..",
+        "score": 0.882,
+        "id": 1473
+    },
+    {
+        "s1": "In the counties of <LOC> ( including the capital city , <LOC> ) and <LOC> , however , ethnic <MISC> make up 60 % and 20 % of the population , respectively .",
+        "s2": "<MISC> make up 25.6 % of the total population but account for 36 % of the population in <LOC> county and 70 % of the population in <LOC> county ..",
+        "score": 0.827,
+        "id": 1475
+    },
+    {
+        "s1": "<ORG> <ORG> <ORG> <ORG> , which participates in <MISC> , is the most recent <MISC> <MISC> winner after becoming champion of the league for the 6th time .",
+        "s2": "<ORG> <ORG> / <ORG> , which participates in <MISC> , is the second strongest <MISC> basketball club , previously winning <ORG> <ORG> 22 times .",
+        "score": 0.805,
+        "id": 1477
+    },
+    {
+        "s1": "<PER> <PER> of <MISC> <MISC> played mandolin on the track <MISC> <MISC> <MISC> , along with many other tracks on <MISC> <MISC> .",
+        "s2": "More recently , the <MISC> band <ORG> <ORG> <ORG> featured the mandolin , played by <PER> <PER> , on tracks such as <MISC> <MISC> <MISC> <MISC> <MISC> , and Medicine .",
+        "score": 0.866,
+        "id": 1500
+    },
+    {
+        "s1": "<PER> was also briefly a member of <PER> <PER> 's <PER> <PER> , and played mandolin on their hit <MISC> <MISC> .",
+        "s2": "One of the more prominent early mandolin players in popular music was <PER> <PER> in <MISC> <MISC> <MISC> <MISC> .",
+        "score": 0.854,
+        "id": 1504
+    },
+    {
+        "s1": "Other <MISC> <MISC> songs featuring mandolin are <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> , and <MISC> <MISC> <MISC> .",
+        "s2": "The popular song <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> featured a mandolin solo played by <PER> <PER> .",
+        "score": 0.849,
+        "id": 1493
+    },
+    {
+        "s1": "Other <MISC> <MISC> songs featuring mandolin are <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> , and <MISC> <MISC> <MISC> .",
+        "s2": "<PER> <PER> of <MISC> <MISC> played mandolin on the track <MISC> <MISC> <MISC> , along with many other tracks on <MISC> <MISC> .",
+        "score": 0.843,
+        "id": 1490
+    },
+    {
+        "s1": "<PER> was also briefly a member of <PER> <PER> 's <PER> <PER> , and played mandolin on their hit <MISC> <MISC> .",
+        "s2": "<PER> <PER> of <PER> <PER> is a highly accomplished mandolin player ( beautiful track <MISC> <MISC> ) , as is his guitarist <PER> <PER> .",
+        "score": 0.829,
+        "id": 1505
+    },
+    {
+        "s1": "Other <MISC> <MISC> songs featuring mandolin are <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> , and <MISC> <MISC> <MISC> .",
+        "s2": "More recently , the <MISC> band <ORG> <ORG> <ORG> featured the mandolin , played by <PER> <PER> , on tracks such as <MISC> <MISC> <MISC> <MISC> <MISC> , and Medicine .",
+        "score": 0.827,
+        "id": 1494
+    },
+    {
+        "s1": "One of the more prominent early mandolin players in popular music was <PER> <PER> in <MISC> <MISC> <MISC> <MISC> .",
+        "s2": "The popular song <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> featured a mandolin solo played by <PER> <PER> .",
+        "score": 0.823,
+        "id": 1511
+    },
+    {
+        "s1": "One of the more prominent early mandolin players in popular music was <PER> <PER> in <MISC> <MISC> <MISC> <MISC> .",
+        "s2": "More recently , the <MISC> band <ORG> <ORG> <ORG> featured the mandolin , played by <PER> <PER> , on tracks such as <MISC> <MISC> <MISC> <MISC> <MISC> , and Medicine .",
+        "score": 0.822,
+        "id": 1512
+    },
+    {
+        "s1": "<PER> <PER> , for whom <PER> <PER> played the mandolin on their most successful single , <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> , is another example .",
+        "s2": "One of the more prominent early mandolin players in popular music was <PER> <PER> in <MISC> <MISC> <MISC> <MISC> .",
+        "score": 0.815,
+        "id": 1502
+    },
+    {
+        "s1": "More recently , the <MISC> band <ORG> <ORG> <ORG> featured the mandolin , played by <PER> <PER> , on tracks such as <MISC> <MISC> <MISC> <MISC> <MISC> , and Medicine .",
+        "s2": "Also more recently hard rock supergroup <MISC> <MISC> <MISC> have been playing a song based primarily using a mandolin .",
+        "score": 0.814,
+        "id": 1521
+    },
+    {
+        "s1": "<PER> <PER> , for whom <PER> <PER> played the mandolin on their most successful single , <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> , is another example .",
+        "s2": "<PER> was also briefly a member of <PER> <PER> 's <PER> <PER> , and played mandolin on their hit <MISC> <MISC> .",
+        "score": 0.81,
+        "id": 1501
+    },
+    {
+        "s1": "<PER> <PER> of <MISC> <MISC> played mandolin on the track <MISC> <MISC> <MISC> , along with many other tracks on <MISC> <MISC> .",
+        "s2": "One of the more prominent early mandolin players in popular music was <PER> <PER> in <MISC> <MISC> <MISC> <MISC> .",
+        "score": 0.797,
+        "id": 1498
+    },
+    {
+        "s1": "One of the more prominent early mandolin players in popular music was <PER> <PER> in <MISC> <MISC> <MISC> <MISC> .",
+        "s2": "\" That was not the first time a <MISC> played a mandolin , however ; that distinction goes to <PER> <PER> on <MISC> <MISC> , the title cut from the 1982 album of the same name .",
+        "score": 0.796,
+        "id": 1513
+    },
+    {
+        "s1": "<PER> <PER> of <MISC> <MISC> played mandolin on the track <MISC> <MISC> <MISC> , along with many other tracks on <MISC> <MISC> .",
+        "s2": "The popular song <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> featured a mandolin solo played by <PER> <PER> .",
+        "score": 0.794,
+        "id": 1499
+    },
+    {
+        "s1": "The popular song <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> featured a mandolin solo played by <PER> <PER> .",
+        "s2": "More recently , the <MISC> band <ORG> <ORG> <ORG> featured the mandolin , played by <PER> <PER> , on tracks such as <MISC> <MISC> <MISC> <MISC> <MISC> , and Medicine .",
+        "score": 0.794,
+        "id": 1516
+    },
+    {
+        "s1": "One of the more prominent early mandolin players in popular music was <PER> <PER> in <MISC> <MISC> <MISC> <MISC> .",
+        "s2": "<PER> <PER> of <PER> <PER> is a highly accomplished mandolin player ( beautiful track <MISC> <MISC> ) , as is his guitarist <PER> <PER> .",
+        "score": 0.787,
+        "id": 1510
+    },
+    {
+        "s1": "<PER> <PER> of <MISC> <MISC> played mandolin on the track <MISC> <MISC> <MISC> , along with many other tracks on <MISC> <MISC> .",
+        "s2": "<PER> <PER> , for whom <PER> <PER> played the mandolin on their most successful single , <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> , is another example .",
+        "score": 0.787,
+        "id": 1496
+    },
+    {
+        "s1": "<PER> <PER> is a prominent <MISC> player who has produced six solo albums , instructional books and DVDs , as well as recordings with his mandolin quartet the <MISC> .",
+        "s2": "<PER> was also briefly a member of <PER> <PER> 's <PER> <PER> , and played mandolin on their hit <MISC> <MISC> .",
+        "score": 0.781,
+        "id": 1487
+    },
+    {
+        "s1": "Other <MISC> <MISC> songs featuring mandolin are <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> , and <MISC> <MISC> <MISC> .",
+        "s2": "One of the more prominent early mandolin players in popular music was <PER> <PER> in <MISC> <MISC> <MISC> <MISC> .",
+        "score": 0.779,
+        "id": 1492
+    },
+    {
+        "s1": "<PER> <PER> , for whom <PER> <PER> played the mandolin on their most successful single , <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> , is another example .",
+        "s2": "The popular song <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> featured a mandolin solo played by <PER> <PER> .",
+        "score": 0.776,
+        "id": 1503
+    },
+    {
+        "s1": "<PER> was also briefly a member of <PER> <PER> 's <PER> <PER> , and played mandolin on their hit <MISC> <MISC> .",
+        "s2": "The mandolin has also featured in the playing of <PER> <PER> in the rock band <ORG> .",
+        "score": 0.772,
+        "id": 1508
+    },
+    {
+        "s1": "<PER> <PER> of <PER> <PER> is a highly accomplished mandolin player ( beautiful track <MISC> <MISC> ) , as is his guitarist <PER> <PER> .",
+        "s2": "The mandolin has also featured in the playing of <PER> <PER> in the rock band <ORG> .",
+        "score": 0.767,
+        "id": 1515
+    },
+    {
+        "s1": "<PER> was also briefly a member of <PER> <PER> 's <PER> <PER> , and played mandolin on their hit <MISC> <MISC> .",
+        "s2": "\" That was not the first time a <MISC> played a mandolin , however ; that distinction goes to <PER> <PER> on <MISC> <MISC> , the title cut from the 1982 album of the same name .",
+        "score": 0.767,
+        "id": 1509
+    },
+    {
+        "s1": "<PER> was also briefly a member of <PER> <PER> 's <PER> <PER> , and played mandolin on their hit <MISC> <MISC> .",
+        "s2": "The popular song <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> featured a mandolin solo played by <PER> <PER> .",
+        "score": 0.766,
+        "id": 1506
+    },
+    {
+        "s1": "<PER> <PER> is a prominent <MISC> player who has produced six solo albums , instructional books and DVDs , as well as recordings with his mandolin quartet the <MISC> .",
+        "s2": "<PER> <PER> of <PER> <PER> is a highly accomplished mandolin player ( beautiful track <MISC> <MISC> ) , as is his guitarist <PER> <PER> .",
+        "score": 0.762,
+        "id": 1488
+    },
+    {
+        "s1": "The instrument has also found its way into <MISC> rock music .",
+        "s2": "It has also been used by other <MISC> rock musicians .",
+        "score": 0.758,
+        "id": 1489
+    },
+    {
+        "s1": "More recently , the <MISC> band <ORG> <ORG> <ORG> featured the mandolin , played by <PER> <PER> , on tracks such as <MISC> <MISC> <MISC> <MISC> <MISC> , and Medicine .",
+        "s2": "<MISC> folk-punk icons <ORG> <ORG> also regularly use the mandolin in their songs .",
+        "score": 0.758,
+        "id": 1519
+    },
+    {
+        "s1": "More recently , the <MISC> band <ORG> <ORG> <ORG> featured the mandolin , played by <PER> <PER> , on tracks such as <MISC> <MISC> <MISC> <MISC> <MISC> , and Medicine .",
+        "s2": "\" That was not the first time a <MISC> played a mandolin , however ; that distinction goes to <PER> <PER> on <MISC> <MISC> , the title cut from the 1982 album of the same name .",
+        "score": 0.758,
+        "id": 1520
+    },
+    {
+        "s1": "One of the more prominent early mandolin players in popular music was <PER> <PER> in <MISC> <MISC> <MISC> <MISC> .",
+        "s2": "Also more recently hard rock supergroup <MISC> <MISC> <MISC> have been playing a song based primarily using a mandolin .",
+        "score": 0.758,
+        "id": 1514
+    },
+    {
+        "s1": "<PER> <PER> of <MISC> <MISC> played mandolin on the track <MISC> <MISC> <MISC> , along with many other tracks on <MISC> <MISC> .",
+        "s2": "<PER> was also briefly a member of <PER> <PER> 's <PER> <PER> , and played mandolin on their hit <MISC> <MISC> .",
+        "score": 0.757,
+        "id": 1497
+    },
+    {
+        "s1": "<PER> was also briefly a member of <PER> <PER> 's <PER> <PER> , and played mandolin on their hit <MISC> <MISC> .",
+        "s2": "More recently , the <MISC> band <ORG> <ORG> <ORG> featured the mandolin , played by <PER> <PER> , on tracks such as <MISC> <MISC> <MISC> <MISC> <MISC> , and Medicine .",
+        "score": 0.754,
+        "id": 1507
+    },
+    {
+        "s1": "Other <MISC> <MISC> songs featuring mandolin are <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> , and <MISC> <MISC> <MISC> .",
+        "s2": "<PER> <PER> , for whom <PER> <PER> played the mandolin on their most successful single , <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> , is another example .",
+        "score": 0.753,
+        "id": 1491
+    },
+    {
+        "s1": "Other <MISC> <MISC> songs featuring mandolin are <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> , and <MISC> <MISC> <MISC> .",
+        "s2": "Also more recently hard rock supergroup <MISC> <MISC> <MISC> have been playing a song based primarily using a mandolin .",
+        "score": 0.751,
+        "id": 1495
+    },
+    {
+        "s1": "The popular song <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> <MISC> featured a mandolin solo played by <PER> <PER> .",
+        "s2": "Also more recently hard rock supergroup <MISC> <MISC> <MISC> have been playing a song based primarily using a mandolin .",
+        "score": 0.751,
+        "id": 1518
+    },
+    {
+        "s1": "<PER> <PER> of <PER> <PER> played mandolin on <MISC> <MISC> , from their second album , <MISC> <MISC> , and also occasionally on later releases .",
+        "s2": "<PER> <PER> <PER> and <PER> <PER> both played mandolin on <MISC> <MISC> songs .",
+        "score": 0.885,
+        "id": 1527
+    },
+    {
+        "s1": "<PER> <PER> of <PER> <PER> played mandolin on <MISC> <MISC> , from their second album , <MISC> <MISC> , and also occasionally on later releases .",
+        "s2": "The popular alt rock group <ORG> <ORG> feature the mandolin on a few of their songs , most prominently being <MISC> <MISC> <MISC> .",
+        "score": 0.803,
+        "id": 1528
+    },
+    {
+        "s1": "<PER> <PER> of <ORG> <ORG> occasionally moved from his drum kit to play mandolin , most notably on <MISC> <MISC> <MISC> , <MISC> <MISC> <MISC> , and <MISC> .",
+        "s2": "<PER> <PER> of <PER> <PER> played mandolin on <MISC> <MISC> , from their second album , <MISC> <MISC> , and also occasionally on later releases .",
+        "score": 0.792,
+        "id": 1524
+    },
+    {
+        "s1": "<PER> <PER> of <PER> <PER> played mandolin on <MISC> <MISC> , from their second album , <MISC> <MISC> , and also occasionally on later releases .",
+        "s2": "1 hit <MISC> <MISC> features a significant mandolin riff .",
+        "score": 0.785,
+        "id": 1526
+    },
+    {
+        "s1": "<PER> <PER> of <ORG> <ORG> occasionally moved from his drum kit to play mandolin , most notably on <MISC> <MISC> <MISC> , <MISC> <MISC> <MISC> , and <MISC> .",
+        "s2": "<PER> <PER> <PER> and <PER> <PER> both played mandolin on <MISC> <MISC> songs .",
+        "score": 0.768,
+        "id": 1525
+    },
+    {
+        "s1": "The mandolin has been used occasionally in rock music , first appearing in the psychedelic era of the late 1960s .",
+        "s2": "<ORG> <ORG> of the soft rock duo <ORG> and <ORG> extensively used mandolin in their repertoire during the 1970s .",
+        "score": 0.762,
+        "id": 1523
+    },
+    {
+        "s1": "Some insects , like flies , have extra-oral digestion .",
+        "s2": "Insects using extra-oral digestion expel digestive enzymes onto their food to break it down .",
+        "score": 0.841,
+        "id": 1537
+    },
+    {
+        "s1": "There are many different patterns of gas exchange demonstrated by different groups of insects .",
+        "s2": "Gas exchange patterns in insects can range from continuous and diffusive ventilation , to discontinuous gas exchange.",
+        "score": 0.818,
+        "id": 1539
+    },
+    {
+        "s1": "Some insects use parthenogenesis , a process in which the female can reproduce and give birth without having the eggs fertilized by a male .",
+        "s2": "Other insects produced by parthenogenesis are bees , wasps and ants , in which they spawn males .",
+        "score": 0.818,
+        "id": 1541
+    },
+    {
+        "s1": "There are a variety of different mechanisms by which insects perceive sound , while the patterns are not universal , insects can generally hear sound if they can produce it .",
+        "s2": "Different insect species can have varying hearing , though most insects can hear only a narrow range of frequencies related to the frequency of the sounds they can produce .",
+        "score": 0.867,
+        "id": 1543
+    },
+    {
+        "s1": "Some moths produce ultrasonic clicks that were once thought to have a role in jamming bat echolocation .",
+        "s2": "The ultrasonic clicks were subsequently found to be produced mostly by unpalatable moths to warn bats , just as warning colorations are used against predators that hunt by sight .",
+        "score": 0.866,
+        "id": 1545
+    },
+    {
+        "s1": "<ORG> benefit their receiver instead of their producer .",
+        "s2": "<ORG> benefit the producer and the receiver .",
+        "score": 0.895,
+        "id": 1549
+    },
+    {
+        "s1": "This has resulted in a majority of people who identify as <MISC> <MISC> having some <MISC> ancestors .",
+        "s2": "Similarly , many people who identify as white have some <MISC> ancestors .",
+        "score": 0.812,
+        "id": 1558
+    },
+    {
+        "s1": "<ORG> also provided the microprocessor that serves as the heart of <ORG> 's new <MISC> <MISC> system , which debuted in 2012 .",
+        "s2": "The older <MISC> <MISC> utilizes the <MISC> processor , also designed by <ORG> ..",
+        "score": 0.791,
+        "id": 1571
+    },
+    {
+        "s1": "The <MISC> <MISC> contains a PowerPC tri-core processor , which was designed and produced by <ORG> in less than 24 months .",
+        "s2": "The older <MISC> <MISC> utilizes the <MISC> processor , also designed by <ORG> ..",
+        "score": 0.79,
+        "id": 1569
+    },
+    {
+        "s1": "Such regressions occur whenever software functionality that was previously working correctly , stops working as intended .",
+        "s2": "Typically , regressions occur as an unintended consequence of program changes , when the newly developed part of the software collides with the previously existing code .",
+        "score": 0.828,
+        "id": 1577
+    },
+    {
+        "s1": "Some countries are eliminating or reducing climate disrupting subsidies and <LOC> , <LOC> , and <LOC> have phased out all subsidies for coal .",
+        "s2": "<LOC> is reducing its coal subsidy .",
+        "score": 0.787,
+        "id": 1583
+    },
+    {
+        "s1": "From 1479 until 1713 <LOC> was ruled by the <LOC> <LOC> <LOC> , and again between 1717 and 1718 .",
+        "s2": "It was also ruled by <LOC> between 1720 and 1734 ..",
+        "score": 0.782,
+        "id": 1588
+    },
+    {
+        "s1": "The wall turns west along the northern side of <LOC> <LOC> <LOC> , continues along <LOC> <LOC> .",
+        "s2": "The wall turns north approximately on <LOC> <LOC> , to <LOC> <LOC> <LOC> and back to <LOC> <LOC> .",
+        "score": 0.894,
+        "id": 1590
+    },
+    {
+        "s1": "Isolated peaks and small ranges in <LOC> <LOC> and <LOC> <LOC> vary from 1,000 to 2,700 ft ( 300 to 800 m ) .",
+        "s2": "In <LOC> several peaks exceed 4,000 ft ( 1,200 m ) , including <LOC> <LOC> at 5,267 feet ( 1,605 m ) .",
+        "score": 0.85,
+        "id": 1605
+    },
+    {
+        "s1": "Mountains of the <LOC> <LOC> in <LOC> reach heights of nearly 3,000 ft ( 900 m ) .",
+        "s2": "In the <LOC> and <LOC> <LOC> mountain ranges in <LOC> , the higher summits rise to about 4,000 ft ( 1,200 m ) elevation .",
+        "score": 0.83,
+        "id": 1602
+    },
+    {
+        "s1": "Mountains of the <LOC> <LOC> in <LOC> reach heights of nearly 3,000 ft ( 900 m ) .",
+        "s2": "In <LOC> several peaks exceed 4,000 ft ( 1,200 m ) , including <LOC> <LOC> at 5,267 feet ( 1,605 m ) .",
+        "score": 0.764,
+        "id": 1603
+    },
+    {
+        "s1": "In <LOC> <LOC> , more than 150 peaks rise above 4,000 ft ( 1,200 m ) , including <LOC> <LOC> 4,863 ft ( 1,482 m ) , the highest point in the <LOC> <LOC> .",
+        "s2": "<LOC> <LOC> at <LOC> <LOC> 4,848 ft ( 1,478 m ) and <LOC> <LOC> 4,842 ft ( 1,476 m ) are among the more notable peaks in <LOC> <LOC> ..",
+        "score": 0.871,
+        "id": 1607
+    },
+    {
+        "s1": "<LOC> <LOC> became an exclave , being separated from mainland <LOC> .",
+        "s2": "After the <MISC> <MISC> <MISC> , <LOC> <LOC> was separated from <LOC> as an exclave ; the <LOC> was also separated from the province .",
+        "score": 0.837,
+        "id": 1614
+    },
+    {
+        "s1": "The <MISC> legal system accepted the religious law over its subjects .",
+        "s2": "At the same time the <MISC> ( or <MISC> ) , a secular legal system , co-existed with religious law or <MISC> .",
+        "score": 0.831,
+        "id": 1617
+    },
+    {
+        "s1": "This analysis of ecosystems as spontaneous orders does not rely on markets qualifying as spontaneous orders .",
+        "s2": "As such , one need not endorse <PER> \u2019s analysis of markets to endorse ecosystems as spontaneous orders ..",
+        "score": 0.882,
+        "id": 1627
+    },
+    {
+        "s1": "Osmotic diarrhea occurs when too much water is drawn into the bowels .",
+        "s2": "Osmotic diarrhea can also be the result of maldigestion ( e.g.",
+        "score": 0.784,
+        "id": 1630
+    },
+    {
+        "s1": "Osmotic diarrhea can also be the result of maldigestion ( e.g.",
+        "s2": "In most of these cases , osmotic diarrhea stops when offending agent ( e.g.",
+        "score": 0.779,
+        "id": 1631
+    },
+    {
+        "s1": "In persons who have fructose malabsorption , excess fructose intake can also cause diarrhea .",
+        "s2": "High-fructose foods that also have a high glucose content are more absorbable and less likely to cause diarrhea .",
+        "score": 0.772,
+        "id": 1632
+    },
+    {
+        "s1": "<LOC> has the second-largest <MISC> and <MISC> populations in the <LOC> <LOC> , after <LOC> <LOC> <LOC> .",
+        "s2": "<LOC> <LOC> , although known for its <MISC> and <MISC> population , is also home to a large <MISC> and <MISC> population .",
+        "score": 0.842,
+        "id": 1642
+    },
+    {
+        "s1": "<LOC> <LOC> remains one of the largest <MISC> neighborhoods in the country and is home to the <MISC> Market .",
+        "s2": "<LOC> <LOC> , although known for its <MISC> and <MISC> population , is also home to a large <MISC> and <MISC> population .",
+        "score": 0.784,
+        "id": 1644
+    },
+    {
+        "s1": "<LOC> <LOC> remains one of the largest <MISC> neighborhoods in the country and is home to the <MISC> Market .",
+        "s2": "<LOC> <LOC> is well known in particular as the center of the <MISC> immigrant and <MISC> community in <LOC> , and it remains a common destination for <MISC> immigrants .",
+        "score": 0.757,
+        "id": 1643
+    },
+    {
+        "s1": "There were 525 murders in 1990 , a rate of 31.5 per 100,000 .",
+        "s2": "There were an average of about 600 murders a year for most of the 1990s .",
+        "score": 0.867,
+        "id": 1649
+    },
+    {
+        "s1": "Modern <LOC> includes most of <LOC> , which comprises the erstwhile nineteen princely states , two chiefships , and the <MISC> district of <LOC> .",
+        "s2": "<LOC> ( <LOC> ) , <LOC> , <LOC> ( <LOC> ) , <LOC> and <LOC> ( <LOC> ) were some of the main <MISC> princely states .",
+        "score": 0.789,
+        "id": 1657
+    },
+    {
+        "s1": "North of <LOC> lies the <LOC> region , home to the cities of <LOC> and <LOC> .",
+        "s2": "North of <LOC> and <LOC> lies the <LOC> region , home to the state capital of <LOC> .",
+        "score": 0.908,
+        "id": 1666
+    },
+    {
+        "s1": "The <LOC> region lies to the southeast , on the border with <LOC> <LOC> .",
+        "s2": "<LOC> , the easternmost region of <LOC> , borders <LOC> and <LOC> <LOC> .",
+        "score": 0.869,
+        "id": 1669
+    },
+    {
+        "s1": "The hilly <LOC> region , home to the cities of <LOC> and <LOC> lies in southernmost <LOC> , on the border with <LOC> and <LOC> <LOC> .",
+        "s2": "North of <LOC> lies the <LOC> region , home to the cities of <LOC> and <LOC> .",
+        "score": 0.845,
+        "id": 1661
+    },
+    {
+        "s1": "The hilly <LOC> region , home to the cities of <LOC> and <LOC> lies in southernmost <LOC> , on the border with <LOC> and <LOC> <LOC> .",
+        "s2": "<LOC> , the easternmost region of <LOC> , borders <LOC> and <LOC> <LOC> .",
+        "score": 0.81,
+        "id": 1664
+    },
+    {
+        "s1": "North of <LOC> lies the <LOC> region , home to the cities of <LOC> and <LOC> .",
+        "s2": "The <LOC> region lies to the southeast , on the border with <LOC> <LOC> .",
+        "score": 0.804,
+        "id": 1665
+    },
+    {
+        "s1": "North of <LOC> lies the <LOC> region , home to the cities of <LOC> and <LOC> .",
+        "s2": "<LOC> , the easternmost region of <LOC> , borders <LOC> and <LOC> <LOC> .",
+        "score": 0.799,
+        "id": 1667
+    },
+    {
+        "s1": "The hilly <LOC> region , home to the cities of <LOC> and <LOC> lies in southernmost <LOC> , on the border with <LOC> and <LOC> <LOC> .",
+        "s2": "The <LOC> region lies to the southeast , on the border with <LOC> <LOC> .",
+        "score": 0.794,
+        "id": 1662
+    },
+    {
+        "s1": "The hilly <LOC> region , home to the cities of <LOC> and <LOC> lies in southernmost <LOC> , on the border with <LOC> and <LOC> <LOC> .",
+        "s2": "North of <LOC> and <LOC> lies the <LOC> region , home to the state capital of <LOC> .",
+        "score": 0.792,
+        "id": 1663
+    },
+    {
+        "s1": "The <LOC> region lies to the southeast , on the border with <LOC> <LOC> .",
+        "s2": "North of <LOC> and <LOC> lies the <LOC> region , home to the state capital of <LOC> .",
+        "score": 0.783,
+        "id": 1668
+    },
+    {
+        "s1": "In recent decades , the literacy rate of <LOC> has increased significantly .",
+        "s2": "At the Census 2011 , <LOC> had a literacy rate of 67.06 % ( 80.51 % male and 52.66 % female ) .",
+        "score": 0.799,
+        "id": 1672
+    },
+    {
+        "s1": "Primary qualities are essential for the object in question to be what it is .",
+        "s2": "Without specific primary qualities , an object would not be what it is .",
+        "score": 0.882,
+        "id": 1677
+    },
+    {
+        "s1": "Primary qualities are essential for the object in question to be what it is .",
+        "s2": "Therefore , its primary qualities dictate what the object essentially is , while its secondary qualities define its attributes .",
+        "score": 0.818,
+        "id": 1678
+    },
+    {
+        "s1": ".",
+        "s2": ".",
+        "score": 1.0,
+        "id": 1682
+    },
+    {
+        "s1": ".",
+        "s2": ".",
+        "score": 1.0,
+        "id": 1683
+    },
+    {
+        "s1": ".",
+        "s2": ".",
+        "score": 1.0,
+        "id": 1684
+    },
+    {
+        "s1": ".",
+        "s2": ".",
+        "score": 1.0,
+        "id": 1685
+    },
+    {
+        "s1": ".",
+        "s2": ".",
+        "score": 1.0,
+        "id": 1686
+    },
+    {
+        "s1": "Primary ( or elementary ) education consists of the first five to seven years of formal , structured education .",
+        "s2": "In general , primary education consists of six to eight years of schooling starting at the age of five or six , although this varies between , and sometimes within , countries .",
+        "score": 0.849,
+        "id": 1689
+    },
+    {
+        "s1": "In general , primary education consists of six to eight years of schooling starting at the age of five or six , although this varies between , and sometimes within , countries .",
+        "s2": "The division between primary and secondary education is somewhat arbitrary , but it generally occurs at about eleven or twelve years of age .",
+        "score": 0.797,
+        "id": 1690
+    },
+    {
+        "s1": "Tertiary education is normally taken to include undergraduate and postgraduate education , as well as vocational education and training .",
+        "s2": "Colleges and universities mainly provide tertiary education .",
+        "score": 0.783,
+        "id": 1693
+    },
+    {
+        "s1": "Tornadoes are possible throughout the state , with West and <LOC> <LOC> the most vulnerable .",
+        "s2": "Tornadoes in <LOC> can be severe , and <LOC> leads the nation in the percentage of total tornadoes which have fatalities .",
+        "score": 0.779,
+        "id": 1699
+    },
+    {
+        "s1": "<LOC> has the largest population of any city in the state .",
+        "s2": "<LOC> is the sixth-largest city in <LOC> , consisting of some 108,755 residents ..",
+        "score": 0.837,
+        "id": 1701
+    },
+    {
+        "s1": "<LOC> , although technically an east-west interstate , runs from the <LOC> <LOC> border below <LOC> <LOC> to its terminus at <LOC> .",
+        "s2": "<LOC> is an east-west interstate that runs cross-state from <LOC> to <LOC> .",
+        "score": 0.871,
+        "id": 1709
+    },
+    {
+        "s1": "<LOC> is a branch highway from <LOC> .",
+        "s2": "A branch interstate , <LOC> also exists from <LOC> to <LOC> ..",
+        "score": 0.838,
+        "id": 1713
+    },
+    {
+        "s1": "Its branch interstate highways include <LOC> in <LOC> ; <LOC> in <LOC> ; <LOC> from <LOC> to <LOC> and <LOC> in <LOC> .",
+        "s2": "A branch interstate , <LOC> also exists from <LOC> to <LOC> ..",
+        "score": 0.835,
+        "id": 1708
+    },
+    {
+        "s1": "<LOC> <LOC> crosses the state in a west-east orientation .",
+        "s2": "<LOC> is an east-west interstate that runs cross-state from <LOC> to <LOC> .",
+        "score": 0.804,
+        "id": 1704
+    },
+    {
+        "s1": "Its branch interstate highways include <LOC> in <LOC> ; <LOC> in <LOC> ; <LOC> from <LOC> to <LOC> and <LOC> in <LOC> .",
+        "s2": "<LOC> is a branch highway from <LOC> .",
+        "score": 0.802,
+        "id": 1707
+    },
+    {
+        "s1": "<LOC> is a branch highway from <LOC> .",
+        "s2": "The only spur highway of <LOC> in <LOC> is <LOC> , which is in <LOC> .",
+        "score": 0.786,
+        "id": 1712
+    },
+    {
+        "s1": "Its branch interstate highways include <LOC> in <LOC> ; <LOC> in <LOC> ; <LOC> from <LOC> to <LOC> and <LOC> in <LOC> .",
+        "s2": "<LOC> , although technically an east-west interstate , runs from the <LOC> <LOC> border below <LOC> <LOC> to its terminus at <LOC> .",
+        "score": 0.783,
+        "id": 1705
+    },
+    {
+        "s1": "<LOC> is an east-west interstate that runs cross-state from <LOC> to <LOC> .",
+        "s2": "A branch interstate , <LOC> also exists from <LOC> to <LOC> ..",
+        "score": 0.758,
+        "id": 1710
+    },
+    {
+        "s1": "Its branch interstate highways include <LOC> in <LOC> ; <LOC> in <LOC> ; <LOC> from <LOC> to <LOC> and <LOC> in <LOC> .",
+        "s2": "<LOC> is an east-west interstate that runs cross-state from <LOC> to <LOC> .",
+        "score": 0.758,
+        "id": 1706
+    },
+    {
+        "s1": "Once ten yards have been gained the offence gains a new set of three downs ( rather than the four downs given in <MISC> football ) .",
+        "s2": "If the offensive team completes 10 yards on their first play , they lose the other two downs and are granted another set of three .",
+        "score": 0.844,
+        "id": 1719
+    },
+    {
+        "s1": "If the offensive team completes 10 yards on their first play , they lose the other two downs and are granted another set of three .",
+        "s2": "The team may , however use its third down in an attempt to advance the ball and gain a cumulative 10 yards ..",
+        "score": 0.78,
+        "id": 1723
+    },
+    {
+        "s1": "If the offensive team completes 10 yards on their first play , they lose the other two downs and are granted another set of three .",
+        "s2": "If a team fails to gain ten yards in two downs they usually punt the ball on third down or try to kick a field goal ( see below ) , depending on their position on the field .",
+        "score": 0.779,
+        "id": 1722
+    },
+    {
+        "s1": "Once ten yards have been gained the offence gains a new set of three downs ( rather than the four downs given in <MISC> football ) .",
+        "s2": "If a team fails to gain ten yards in two downs they usually punt the ball on third down or try to kick a field goal ( see below ) , depending on their position on the field .",
+        "score": 0.773,
+        "id": 1720
+    },
+    {
+        "s1": "If a team fails to gain ten yards in two downs they usually punt the ball on third down or try to kick a field goal ( see below ) , depending on their position on the field .",
+        "s2": "The team may , however use its third down in an attempt to advance the ball and gain a cumulative 10 yards ..",
+        "score": 0.769,
+        "id": 1724
+    },
+    {
+        "s1": "1972 ) , <PER> <PER> ( b .",
+        "s2": "1975 ) , <PER> <PER> ( b .",
+        "score": 0.91,
+        "id": 1731
+    },
+    {
+        "s1": "1973 ) , <PER> <PER> ( 1974 \u2013 2011 ) , <PER> <PER> <PER> ( b.",
+        "s2": "1976 ) , <PER> <PER> <PER> ( 1982 \u2013 2011 ) , and <PER> <PER> ( 1983 \u2013 2011 ) .",
+        "score": 0.893,
+        "id": 1734
+    },
+    {
+        "s1": "1972 ) , <PER> <PER> ( b .",
+        "s2": "1973 ) , <PER> <PER> ( 1974 \u2013 2011 ) , <PER> <PER> <PER> ( b.",
+        "score": 0.889,
+        "id": 1730
+    },
+    {
+        "s1": "1973 ) , <PER> <PER> ( 1974 \u2013 2011 ) , <PER> <PER> <PER> ( b.",
+        "s2": "1975 ) , <PER> <PER> ( b .",
+        "score": 0.888,
+        "id": 1733
+    },
+    {
+        "s1": "Although they had one son , <PER> <PER> ( b.",
+        "s2": "Together they had seven biological children : <PER> <PER> <PER> ( b.",
+        "score": 0.766,
+        "id": 1729
+    },
+    {
+        "s1": "<LOC> has two official languages , <MISC> and <MISC> .",
+        "s2": "<MISC> , after <MISC> and <MISC> , is the third language used on many signs of shops and restaurants , particularly in <LOC> and <LOC> .",
+        "score": 0.776,
+        "id": 1736
+    },
+    {
+        "s1": "In <MISC> , the planet is called <MISC> , named after the <MISC> god of the sea .",
+        "s2": "In <LOC> , the planet is called <MISC> , named after the rain god <MISC> ..",
+        "score": 0.853,
+        "id": 1748
+    },
+    {
+        "s1": "In modern <MISC> the planet is called <MISC> ( \u03a0\u03bf\u03c3\u03b5\u03b9\u03b4\u03ce\u03bd\u03b1\u03c2 , <MISC> ) , the <MISC> counterpart of <LOC> .",
+        "s2": "In <LOC> , the planet is called <MISC> , named after the rain god <MISC> ..",
+        "score": 0.789,
+        "id": 1747
+    },
+    {
+        "s1": "<PER> <PER> <PER> , 74 ; <PER> <PER> , 70 ; <PER> <PER> , 59 ; <PER> <PER> , 54 ; Rev .",
+        "s2": "<PER> <PER> , 49 ; Rev .",
+        "score": 0.846,
+        "id": 1763
+    },
+    {
+        "s1": "<PER> <PER> <PER> , 74 ; <PER> <PER> , 70 ; <PER> <PER> , 59 ; <PER> <PER> , 54 ; Rev .",
+        "s2": "<PER> <PER> , 45 ; and <PER> <PER> , 26 .",
+        "score": 0.806,
+        "id": 1764
+    },
+    {
+        "s1": "<LOC> <LOC> begins in downtown <LOC> , with exits to the <LOC> <LOC> <LOC> , the <LOC> <LOC> , <LOC> <LOC> <LOC> and <LOC> <LOC> .",
+        "s2": "<LOC> <LOC> <LOC> is <LOC> <LOC> in the downtown area , eventually merging with <LOC> <LOC> ..",
+        "score": 0.826,
+        "id": 1768
+    },
+    {
+        "s1": "<LOC> <LOC> begins in downtown <LOC> , with exits to the <LOC> <LOC> <LOC> , the <LOC> <LOC> , <LOC> <LOC> <LOC> and <LOC> <LOC> .",
+        "s2": "The <LOC> <LOC> <LOC> , or <LOC> <LOC> , is the bypass around the city and begins and ends at <LOC> <LOC> <LOC> .",
+        "score": 0.824,
+        "id": 1767
+    },
+    {
+        "s1": "The <LOC> <LOC> <LOC> , or <LOC> <LOC> , is the bypass around the city and begins and ends at <LOC> <LOC> <LOC> .",
+        "s2": "<LOC> <LOC> <LOC> is <LOC> <LOC> in the downtown area , eventually merging with <LOC> <LOC> ..",
+        "score": 0.769,
+        "id": 1770
+    },
+    {
+        "s1": "<ORG> flags are often red and yellow .",
+        "s2": "Red is prominently featured in the flag of the <ORG> <ORG> <ORG> <ORG> ..",
+        "score": 0.812,
+        "id": 1776
+    },
+    {
+        "s1": "Red is one of the most common colors used on national flags .",
+        "s2": "Red is the color of the flags of several countries that once belonged to the former <LOC> <LOC> .",
+        "score": 0.788,
+        "id": 1774
+    },
+    {
+        "s1": "Attacks on <LOC> and <LOC> were subject to 500 short tons ( 450 t ) of bombs between them in the last 10 days of October .",
+        "s2": "<LOC> and <LOC> were attacked , but 800 short tons ( 730 t ) of bombs were spread out all over <LOC> .",
+        "score": 0.875,
+        "id": 1783
+    },
+    {
+        "s1": "<LOC> suffered 200 short tons ( 180 t ) of bombs dropped .",
+        "s2": "<LOC> and <LOC> were attacked , but 800 short tons ( 730 t ) of bombs were spread out all over <LOC> .",
+        "score": 0.818,
+        "id": 1784
+    },
+    {
+        "s1": "Attacks on <LOC> and <LOC> were subject to 500 short tons ( 450 t ) of bombs between them in the last 10 days of October .",
+        "s2": "<LOC> suffered 200 short tons ( 180 t ) of bombs dropped .",
+        "score": 0.782,
+        "id": 1782
+    },
+    {
+        "s1": "According to <MISC> sources , 9,000 short tons ( 8,200 t ) of bombs were dropped in that month , of which about 10 percent of which was dropped in daylight .",
+        "s2": "<LOC> suffered 200 short tons ( 180 t ) of bombs dropped .",
+        "score": 0.761,
+        "id": 1781
+    },
+    {
+        "s1": "On 10 / 11 March , 240 bombers dropped 193 tons of high explosives and 46,000 incendiaries .",
+        "s2": "On 17 April 346 tons of explosives and 46,000 incendiaries were dropped from 250 bombers led by KG 26 .",
+        "score": 0.858,
+        "id": 1788
+    },
+    {
+        "s1": "On 10 / 11 March , 240 bombers dropped 193 tons of high explosives and 46,000 incendiaries .",
+        "s2": "Nine days later , two waves of 125 and 170 bombers dropped heavy bombs , including 160 tons of high explosive and 32,000 incendiaries .",
+        "score": 0.83,
+        "id": 1787
+    },
+    {
+        "s1": "Between 1978 and 1986 the <ORG> regularly designated critical habitat .",
+        "s2": "As a result , few critical habitats were designated between 1986 and the late 1990s .",
+        "score": 0.8,
+        "id": 1794
+    },
+    {
+        "s1": "One of the <PER> 's greatest mathematical advancements was the world 's first use of negative numbers .",
+        "s2": "Negative numbers were also used by the <MISC> mathematician <MISC> in about 275 AD , but were not widely accepted in <LOC> until the 16th century AD ..",
+        "score": 0.785,
+        "id": 1804
+    },
+    {
+        "s1": "Some scholars assert that the name <MISC> changed to <LOC> and then to <MISC> .",
+        "s2": "However this etymology connects the name <MISC> with the <MISC> who occupied <LOC> and the relation with the name <MISC> given by the <MISC> becomes uncertain .",
+        "score": 0.822,
+        "id": 1808
+    },
+    {
+        "s1": "<PER> ( d.",
+        "s2": "<PER> ( d.",
+        "score": 1.0,
+        "id": 1818
+    },
+    {
+        "s1": "1074 ) , <PER> ( d.",
+        "s2": "1193 ) , <PER> ( d.",
+        "score": 0.791,
+        "id": 1816
+    },
+    {
+        "s1": "One of the notable authors of esoteric interpretation prior to the 12th century is <MISC> ( d .",
+        "s2": "1336 ) wrote two influential works of esoteric exegesis on the <MISC> .",
+        "score": 0.787,
+        "id": 1815
+    },
+    {
+        "s1": "<PER> makes heavy use of the <MISC> in his poetry , a feature that is sometimes omitted in translations of <PER> 's work .",
+        "s2": "Written in <MISC> , it combines the author 's own ideas with those of his predecessors ( notably <PER> <PER> and <PER> ) , all woven together in <PER> , a <MISC> poetry form ..",
+        "score": 0.774,
+        "id": 1819
+    },
+    {
+        "s1": "Later in the 11th century , one of the students of <PER> <PER> <PER> <PER> wrote a complete tafsir of the <MISC> in <MISC> .",
+        "s2": "In the 12th century , <PER> <PER> <PER> <PER> <PER> translated the <MISC> into <MISC> .",
+        "score": 0.787,
+        "id": 1821
+    },
+    {
+        "s1": "In <LOC> <LOC> and <LOC> , the <MISC> style was popular .",
+        "s2": "<MISC> style was also rarely used in <MISC> world ..",
+        "score": 0.815,
+        "id": 1824
+    },
+    {
+        "s1": "In fact , <PER> is mentioned more in the <MISC> than any other individual .",
+        "s2": "<PER> is mentioned more often in the <MISC> than <PER> , while <PER> is mentioned in the <MISC> more than the <MISC> <MISC> .",
+        "score": 0.914,
+        "id": 1827
+    },
+    {
+        "s1": "According to <PER> <PER> , the <MISC> was recited among <MISC> and <MISC> , and discussed by <MISC> and <MISC> , before it was standardized .",
+        "s2": "<PER> is mentioned more often in the <MISC> than <PER> , while <PER> is mentioned in the <MISC> more than the <MISC> <MISC> .",
+        "score": 0.775,
+        "id": 1826
+    },
+    {
+        "s1": "Original <MISC> drives can only write to original ReWritable CDs .",
+        "s2": "<MISC> <MISC> <MISC> drives can typically write to both original ReWritable CDs and High Speed ReWritable CDs .",
+        "score": 0.898,
+        "id": 1837
+    },
+    {
+        "s1": "The words antenna ( plural : antennas in <LOC> <MISC> , although both \" antennas \" and \" antennae \" are used in International <MISC> ) and aerial are used interchangeably .",
+        "s2": "In the <LOC> <LOC> and other areas where <MISC> <MISC> is used , the term aerial is sometimes used although ' antenna ' has been universal in professional use for many years ..",
+        "score": 0.821,
+        "id": 1847
+    },
+    {
+        "s1": "In this case , rather than quoting the antenna gain , one would be more concerned with the directive gain which does not include the effect of antenna ( in ) efficiency .",
+        "s2": "The directive gain of an antenna can be computed from the published gain divided by the antenna 's efficiency ..",
+        "score": 0.772,
+        "id": 1851
+    },
+    {
+        "s1": "The <LOC> <LOC> <LOC> ( <LOC> <LOC> ) begins in <LOC> <LOC> near the <LOC> <LOC> and heads east .",
+        "s2": "Just east of <LOC> <LOC> is <LOC> <LOC> , the \" <LOC> <LOC> <LOC> \" , a major north-south route in <LOC> <LOC> <LOC> and <LOC> <LOC> , <LOC> ..",
+        "score": 0.841,
+        "id": 1862
+    },
+    {
+        "s1": "Close to the eastern boundary of <LOC> <LOC> , <LOC> <LOC> reaches from <LOC> <LOC> at the south , to the northern end of the <LOC> <LOC> <LOC> .",
+        "s2": "Just east of <LOC> <LOC> is <LOC> <LOC> , the \" <LOC> <LOC> <LOC> \" , a major north-south route in <LOC> <LOC> <LOC> and <LOC> <LOC> , <LOC> ..",
+        "score": 0.824,
+        "id": 1863
+    },
+    {
+        "s1": "Physically , database servers are dedicated computers that hold the actual databases and run only the <MISC> and related software .",
+        "s2": "Database servers are usually multiprocessor computers , with generous memory and RAID disk arrays used for stable storage .",
+        "score": 0.823,
+        "id": 1871
+    },
+    {
+        "s1": "XML databases are a type of structured document-oriented database that allows querying based on <MISC> document attributes .",
+        "s2": "XML databases are mostly used in enterprise database management , where <MISC> is being used as the machine-to-machine data interoperability standard .",
+        "score": 0.818,
+        "id": 1873
+    },
+    {
+        "s1": "XML databases are mostly used in enterprise database management , where <MISC> is being used as the machine-to-machine data interoperability standard .",
+        "s2": "XML database management systems include commercial software <MISC> and <MISC> <MISC> <MISC> <MISC> , and a free use software Clusterpoint Distributed XML / JSON Database .",
+        "score": 0.808,
+        "id": 1875
+    },
+    {
+        "s1": "A major city in the <LOC> <LOC> <LOC> , <LOC> is the largest city in southern <LOC> , the second largest in the state after <LOC> .",
+        "s2": "It is also the largest city in the area of the <LOC> <LOC> .",
+        "score": 0.835,
+        "id": 1880
+    },
+    {
+        "s1": "The community of <LOC> <LOC> is also on the <LOC> <LOC> , with the distinction of being <LOC> 's first suburb , established in the late 1940s .",
+        "s2": "<LOC> <LOC> is centered on the historic <LOC> <LOC> <LOC> ( built in 1948 ) .",
+        "score": 0.781,
+        "id": 1881
+    },
+    {
+        "s1": "The most precipitation in one month was 7.56 in ( 192 mm ) in July 1984 .",
+        "s2": "The most precipitation in 24 hours was 4.16 in ( 106 mm ) on October 1 , 1983 .",
+        "score": 0.798,
+        "id": 1884
+    },
+    {
+        "s1": "The ancestors of modern bacteria were unicellular microorganisms that were the first forms of life to appear on <LOC> , about 4 billion years ago .",
+        "s2": "For about 3 billion years , most organisms were microscopic , and bacteria and archaea were the dominant forms of life .",
+        "score": 0.781,
+        "id": 1893
+    },
+    {
+        "s1": "Adm .",
+        "s2": "Adm .",
+        "score": 1.0,
+        "id": 1912
+    },
+    {
+        "s1": "Adm .",
+        "s2": "Adm .",
+        "score": 1.0,
+        "id": 1913
+    },
+    {
+        "s1": "<PER> 's force consisted of two battleships , one cruiser and four destroyers .",
+        "s2": "<PER> <PER> had six battleships , four heavy cruisers , four light cruisers , 29 destroyers and 39 PT boats .",
+        "score": 0.839,
+        "id": 1915
+    },
+    {
+        "s1": "In 1990 there were 114 murders , for a murder rate of 56.1 killings per 100,000 residents .",
+        "s2": "There were 120 murders in 1995 , resulting in a murder rate of 59.1 killings per 100,000 residents , one of the highest in the <LOC> <LOC> ..",
+        "score": 0.863,
+        "id": 1921
+    },
+    {
+        "s1": "The city had 93 murders for the year of 1985 , with a murder rate of 41.9 killings committed per 100,000 residents .",
+        "s2": "In 1990 there were 114 murders , for a murder rate of 56.1 killings per 100,000 residents .",
+        "score": 0.845,
+        "id": 1919
+    },
+    {
+        "s1": "Downtown <LOC> <LOC> is located on <LOC> <LOC> <LOC> .",
+        "s2": "<LOC> <LOC> occupies the peninsula across <LOC> <LOC> <LOC> from downtown .",
+        "score": 0.832,
+        "id": 1927
+    },
+    {
+        "s1": "To the east and southeast lie <LOC> <LOC> , the <LOC> <LOC> , and <LOC> <LOC> <LOC> .",
+        "s2": "To the north lies <LOC> <LOC> and <LOC> <LOC> .",
+        "score": 0.814,
+        "id": 1928
+    },
+    {
+        "s1": "To the north lies <LOC> <LOC> and <LOC> <LOC> .",
+        "s2": "Stretching north from <LOC> are the northern suburbs of <LOC> <LOC> , <LOC> <LOC> , <LOC> <LOC> , and <LOC> <LOC> .",
+        "score": 0.772,
+        "id": 1929
+    },
+    {
+        "s1": "The <ORG> <ORG> <ORG> at <ORG> <ORG> performs on a regular basis and is directed by <PER> <PER> .",
+        "s2": "The <ORG> <ORG> <ORG> at <ORG> is directed by <PER> <PER> .",
+        "score": 0.895,
+        "id": 1932
+    },
+    {
+        "s1": "<LOC> <LOC> was ranked as the 20th-safest city in <LOC> in 2013 by <ORG> <ORG> .",
+        "s2": "According to <ORG> magazine , <LOC> <LOC> was the ninth-safest city in the top 10 list of safest cities in the <LOC> in 2010 .",
+        "score": 0.911,
+        "id": 1934
+    },
+    {
+        "s1": "Like most major cities , <LOC> <LOC> had a declining crime rate from 1990 to 2000 .",
+        "s2": "Crime in <LOC> <LOC> increased in the early 2000s .",
+        "score": 0.856,
+        "id": 1935
+    },
+    {
+        "s1": "Like most major cities , <LOC> <LOC> had a declining crime rate from 1990 to 2000 .",
+        "s2": "In 2004 , <LOC> <LOC> had the sixth lowest crime rate of any <LOC> city with over half a million residents .",
+        "score": 0.793,
+        "id": 1936
+    },
+    {
+        "s1": "Oak , elm , ash and beech are amongst the most common trees in <LOC> .",
+        "s2": "Natural forests in <LOC> are mainly oak , ash , wych elm , birch and pine .",
+        "score": 0.859,
+        "id": 1945
+    },
+    {
+        "s1": "The duration of stoppage time is at the sole discretion of the referee .",
+        "s2": "The signalled stoppage time may be further extended by the referee .",
+        "score": 0.797,
+        "id": 1952
+    },
+    {
+        "s1": "The duration of stoppage time is at the sole discretion of the referee .",
+        "s2": "In matches where a fourth official is appointed , toward the end of the half the referee signals how many minutes of stoppage time he intends to add .",
+        "score": 0.757,
+        "id": 1951
+    },
+    {
+        "s1": "The first <MISC> <MISC> game decided by a golden goal was <ORG> 's victory over <LOC> in 1998 .",
+        "s2": "<LOC> was the first nation to score a golden goal in a major competition , beating <LOC> <LOC> in the final of <MISC> <MISC> .",
+        "score": 0.794,
+        "id": 1955
+    },
+    {
+        "s1": "<MISC> <MISC> , <MISC> <MISC> , was leaked on April 12 , 2011 .",
+        "s2": "<MISC> <MISC> , <MISC> <MISC> , was leaked on April 25 , 2011 .",
+        "score": 0.997,
+        "id": 1959
+    },
+    {
+        "s1": "<MISC> <MISC> , <MISC> <MISC> , was leaked on April 12 , 2011 .",
+        "s2": "<MISC> <MISC> , with minor changes but the first 64-bit version , was leaked on May 1 , 2011 .",
+        "score": 0.817,
+        "id": 1960
+    },
+    {
+        "s1": "<MISC> <MISC> , <MISC> <MISC> , was leaked on April 25 , 2011 .",
+        "s2": "<MISC> <MISC> , with minor changes but the first 64-bit version , was leaked on May 1 , 2011 .",
+        "score": 0.811,
+        "id": 1961
+    },
+    {
+        "s1": "Three milestone releases of <MISC> <MISC> leaked to the general public .",
+        "s2": "<MISC> <MISC> , <MISC> <MISC> , was leaked on April 25 , 2011 .",
+        "score": 0.78,
+        "id": 1958
+    },
+    {
+        "s1": "On August 15 , 2012 , <MISC> <MISC> was made available to download for <ORG> and <ORG> subscribers .",
+        "s2": "<MISC> <MISC> was made available to <ORG> <ORG> customers on August 16 , 2012 .",
+        "score": 0.874,
+        "id": 1962
+    },
+    {
+        "s1": "On August 15 , 2012 , <MISC> <MISC> was made available to download for <ORG> and <ORG> subscribers .",
+        "s2": "<MISC> <MISC> was made available for students with a DreamSpark Premium subscription on August 22 , 2012 , earlier than advertised ..",
+        "score": 0.796,
+        "id": 1963
+    },
+    {
+        "s1": "Each edition of <MISC> <MISC> includes all of the capabilities and features of the edition below it , and add additional features oriented towards their market segments .",
+        "s2": "<MISC> <MISC> <MISC> contains additional features aimed towards business environments , and is only available through volume licensing .",
+        "score": 0.778,
+        "id": 1966
+    },
+    {
+        "s1": "83 % of the total population adheres to <MISC> , making it the most common religion in <LOC> .",
+        "s2": "15 % of the population follows traditional religions ; other <MISC> religions practised in the country include <MISC> ( 1 %) , the <MISC> <MISC> ( 0.5 %) , and <MISC> ( 0.2 %) .",
+        "score": 0.801,
+        "id": 1972
+    },
+    {
+        "s1": "83 % of the total population adheres to <MISC> , making it the most common religion in <LOC> .",
+        "s2": "<MISC> , <MISC> and indigenous <MISC> churches , including <MISC> <MISC> , constitute the majority of the <MISC> ( 40 %) , followed by <MISC> <MISC> at 20 % of the population .",
+        "score": 0.766,
+        "id": 1971
+    },
+    {
+        "s1": "<ORG> , filming can take place in all public areas .",
+        "s2": "However airside , filming is heavily restricted , the only airside locations where filming is permitted are the <ORG> <ORG> and some outside areas .",
+        "score": 0.802,
+        "id": 1983
+    },
+    {
+        "s1": "However airside , filming is heavily restricted , the only airside locations where filming is permitted are the <ORG> <ORG> and some outside areas .",
+        "s2": "Filming can not be undertaken in Security , at <ORG> <ORG> <ORG> , or in <ORG> <ORG> ..",
+        "score": 0.79,
+        "id": 1985
+    },
+    {
+        "s1": "To their north , in the <LOC> and <LOC> regions , were the <LOC> <LOC> tribe .",
+        "s2": "In the south , in the area around <LOC> , were the <MISC> , a group of <MISC> tribes with <MISC> origins , the <LOC> to the west of the <LOC> , and the <LOC> to the east .",
+        "score": 0.774,
+        "id": 1989
+    },
+    {
+        "s1": "Prior to the emergence of <LOC> <LOC> in the 9th century AD , the lands between the <LOC> <LOC> and <LOC> <LOC> were primarily populated by eastern <MISC> tribes .",
+        "s2": "In the south , in the area around <LOC> , were the <MISC> , a group of <MISC> tribes with <MISC> origins , the <LOC> to the west of the <LOC> , and the <LOC> to the east .",
+        "score": 0.766,
+        "id": 1987
+    },
+    {
+        "s1": "Prior to the emergence of <LOC> <LOC> in the 9th century AD , the lands between the <LOC> <LOC> and <LOC> <LOC> were primarily populated by eastern <MISC> tribes .",
+        "s2": "To their north , in the <LOC> and <LOC> regions , were the <LOC> <LOC> tribe .",
+        "score": 0.763,
+        "id": 1986
+    },
+    {
+        "s1": "The <ORG> <ORG> <ORG> <ORG> landed on <LOC> on 2 October 1942 and on <LOC> and <LOC> in August 1943 .",
+        "s2": "<ORG> <ORG> <ORG> <ORG> ( <ORG> ) were based at <LOC> from 2 November 1942 to 11 May 1944 ..",
+        "score": 0.803,
+        "id": 1991
+    },
+    {
+        "s1": "St.",
+        "s2": ", St.",
+        "score": 0.932,
+        "id": 1999
+    },
+    {
+        "s1": "<MISC> is a <MISC> language of the <MISC> family .",
+        "s2": "It is a lineal descendant of the language used in <MISC> <MISC> ' .",
+        "score": 0.831,
+        "id": 2004
+    },
+    {
+        "s1": "People use the <MISC> language on 5.9 % of all websites , slightly ahead of <MISC> and far behind <MISC> ( 54.7 %) .",
+        "s2": "However , <MISC> is the sixth-most used language on the top 1,000 sites , behind <MISC> , <MISC> , <MISC> , <MISC> and <MISC> ..",
+        "score": 0.839,
+        "id": 2007
+    },
+    {
+        "s1": "Thus the energy level of the holes will be lesser than the energy levels of the electrons .",
+        "s2": "Some portion of the energy must be dissipated in order to recombine the electrons and the holes .",
+        "score": 0.845,
+        "id": 2011
+    },
+    {
+        "s1": "However , although tetrachromatic white LEDs have excellent color rendering capability , they often have poor luminous efficacy .",
+        "s2": "Trichromatic white LEDs are in between , having both good luminous efficacy (> 70 lm / W ) and fair color rendering capability ..",
+        "score": 0.855,
+        "id": 2016
+    },
+    {
+        "s1": "For example , the dichromatic white LEDs have the best luminous efficacy ( 120 lm / W ) , but the lowest color rendering capability .",
+        "s2": "Trichromatic white LEDs are in between , having both good luminous efficacy (> 70 lm / W ) and fair color rendering capability ..",
+        "score": 0.845,
+        "id": 2015
+    },
+    {
+        "s1": "Once the blood has become deoxygenated it travels through venules then veins and back to the heart .",
+        "s2": "As blood travels through the venules to the veins a funneling occurs called vasodilation bringing blood back to the heart .",
+        "score": 0.771,
+        "id": 2023
+    },
+    {
+        "s1": "Indigenous peoples are commonly known in <LOC> as <MISC> peoples , which include <ORG> <ORG> , <MISC> , and <MISC> peoples .",
+        "s2": "Indigenous peoples of the <LOC> <LOC> are commonly known as <MISC> <MISC> or <MISC> <MISC> , and <LOC> <LOC> ..",
+        "score": 0.899,
+        "id": 2032
+    },
+    {
+        "s1": "The indigenous peoples of the <LOC> are the descendants of the <MISC> inhabitants of the <LOC> .",
+        "s2": "Indigenous peoples of the <LOC> <LOC> are commonly known as <MISC> <MISC> or <MISC> <MISC> , and <LOC> <LOC> ..",
+        "score": 0.862,
+        "id": 2029
+    },
+    {
+        "s1": "<MISC> ind\u00edgenas ( indigenous peoples ) is a common term in <MISC> countries .",
+        "s2": "Indigenous peoples of the <LOC> <LOC> are commonly known as <MISC> <MISC> or <MISC> <MISC> , and <LOC> <LOC> ..",
+        "score": 0.785,
+        "id": 2030
+    },
+    {
+        "s1": "The indigenous peoples of the <LOC> are the descendants of the <MISC> inhabitants of the <LOC> .",
+        "s2": "Indigenous peoples are commonly known in <LOC> as <MISC> peoples , which include <ORG> <ORG> , <MISC> , and <MISC> peoples .",
+        "score": 0.762,
+        "id": 2028
+    },
+    {
+        "s1": "In 1633 , in <LOC> , the <MISC> <MISC> there were exposed to smallpox because of contact with <MISC> .",
+        "s2": "The 1775 \u2013 82 <MISC> <MISC> smallpox epidemic and 1837 <LOC> <LOC> smallpox epidemic brought devastation and drastic population depletion among the <MISC> <MISC> .",
+        "score": 0.776,
+        "id": 2037
+    },
+    {
+        "s1": "During the 1770s , smallpox killed at least 30 % of the <MISC> <MISC> <MISC> <MISC> .",
+        "s2": "The 1775 \u2013 82 <MISC> <MISC> smallpox epidemic and 1837 <LOC> <LOC> smallpox epidemic brought devastation and drastic population depletion among the <MISC> <MISC> .",
+        "score": 0.774,
+        "id": 2038
+    },
+    {
+        "s1": "\" Varsity \" was also common usage in the <LOC> in the 19th century.",
+        "s2": "[ citation needed ] \" Varsity \" is still in common usage in <LOC> ..",
+        "score": 0.886,
+        "id": 2052
+    },
+    {
+        "s1": "In <LOC> , <LOC> <LOC> and in <LOC> <LOC> it is sometimes called \" varsity \" ( although this has become uncommon in <LOC> <LOC> in recent years ) .",
+        "s2": "[ citation needed ] \" Varsity \" is still in common usage in <LOC> ..",
+        "score": 0.797,
+        "id": 2051
+    },
+    {
+        "s1": "Within the <ORG> <ORG> <ORG> , the chief deputy whip is the highest appointed position and often a launching pad for future positions in the <ORG> Leadership .",
+        "s2": "The <ORG> <ORG> <ORG> has multiple chief deputy whips , led by a Senior Chief Deputy Whip , which is the highest appointed position within the <ORG> <ORG> <ORG> .",
+        "score": 0.882,
+        "id": 2071
+    },
+    {
+        "s1": "In March 1941 he was promoted to colonel and assigned as chief of staff of the newly activated <ORG> <ORG> under Major General <PER> <PER> .",
+        "s2": "In June 1941 , he was appointed Chief of Staff to General <PER> <PER> , Commander of the <ORG> <ORG> , at <LOC> <LOC> <LOC> in <LOC> <LOC> , <LOC> .",
+        "score": 0.825,
+        "id": 2075
+    },
+    {
+        "s1": "The present <LOC> <LOC> was contained in the town of <LOC> and parts of the towns of <LOC> , <LOC> , and <LOC> .",
+        "s2": "In 1873 , the town of <LOC> ( roughly corresponding to the modern <LOC> neighborhoods of <LOC> , <LOC> , and <LOC> ) was established within the former borders of <LOC> ..",
+        "score": 0.783,
+        "id": 2078
+    },
+    {
+        "s1": "People of <MISC> descent numbered over 55,000 individuals and made up 3.9 % of the population .",
+        "s2": "People of <MISC> descent numbered over 43,500 individuals and made up 3.1 % of the population .",
+        "score": 0.968,
+        "id": 2081
+    },
+    {
+        "s1": "In 2009 , <MISC> and <MISC> <MISC> represented 52.0 % of the <LOC> 's population .",
+        "s2": "At the 2010 Census , 53.5 % of <LOC> 's population was of <MISC> , <MISC> , or <MISC> origin ( they may be of any race ) .",
+        "score": 0.882,
+        "id": 2084
+    },
+    {
+        "s1": "Over 72,500 <MISC> lived in the <LOC> , and they formed 5.2 % of the population .",
+        "s2": "At the 2010 Census , 53.5 % of <LOC> 's population was of <MISC> , <MISC> , or <MISC> origin ( they may be of any race ) .",
+        "score": 0.821,
+        "id": 2088
+    },
+    {
+        "s1": "Over 72,500 <MISC> lived in the <LOC> , and they formed 5.2 % of the population .",
+        "s2": "Roughly 49,600 <MISC> make up 3.6 % of the population .",
+        "score": 0.815,
+        "id": 2089
+    },
+    {
+        "s1": "<MISC> <MISC> represented 23.2 % of the borough 's population .",
+        "s2": "<MISC> <MISC> are a small but sizable minority in the borough .",
+        "score": 0.807,
+        "id": 2086
+    },
+    {
+        "s1": "In 2009 , <MISC> and <MISC> <MISC> represented 52.0 % of the <LOC> 's population .",
+        "s2": "Roughly 49,600 <MISC> make up 3.6 % of the population .",
+        "score": 0.805,
+        "id": 2085
+    },
+    {
+        "s1": "<MISC> numbered over 9,640 members and formed 0.7 % of the population .",
+        "s2": "Roughly 49,600 <MISC> make up 3.6 % of the population .",
+        "score": 0.784,
+        "id": 2090
+    },
+    {
+        "s1": "Over 72,500 <MISC> lived in the <LOC> , and they formed 5.2 % of the population .",
+        "s2": "<MISC> numbered over 9,640 members and formed 0.7 % of the population .",
+        "score": 0.772,
+        "id": 2087
+    },
+    {
+        "s1": "People of mixed <MISC> and <MISC> <MISC> heritage number over 6,850 members and form 0.5 % of the population .",
+        "s2": "People of mixed <MISC> and <MISC> <MISC> heritage number over 2,450 members and form 0.2 % of the population .",
+        "score": 0.975,
+        "id": 2091
+    },
+    {
+        "s1": "People of mixed <MISC> and <MISC> <MISC> heritage number over 6,850 members and form 0.5 % of the population .",
+        "s2": "People of mixed <MISC> and <MISC> heritage number over 880 members and form 0.1 % of the population .",
+        "score": 0.969,
+        "id": 2092
+    },
+    {
+        "s1": "People of mixed <MISC> and <MISC> <MISC> heritage number over 2,450 members and form 0.2 % of the population .",
+        "s2": "People of mixed <MISC> <MISC> and <MISC> <MISC> heritage number over 1,220 members and form 0.1 % of the population ..",
+        "score": 0.967,
+        "id": 2095
+    },
+    {
+        "s1": "People of mixed <MISC> and <MISC> <MISC> heritage number over 2,450 members and form 0.2 % of the population .",
+        "s2": "People of mixed <MISC> and <MISC> heritage number over 880 members and form 0.1 % of the population .",
+        "score": 0.962,
+        "id": 2094
+    },
+    {
+        "s1": "People of mixed <MISC> and <MISC> heritage number over 880 members and form 0.1 % of the population .",
+        "s2": "People of mixed <MISC> <MISC> and <MISC> <MISC> heritage number over 1,220 members and form 0.1 % of the population ..",
+        "score": 0.961,
+        "id": 2096
+    },
+    {
+        "s1": "<LOC> during <LOC> times was known as <LOC> .",
+        "s2": "<LOC> was part of the <LOC> <LOC> <LOC> , more than 4000 years ago .",
+        "score": 0.822,
+        "id": 2101
+    },
+    {
+        "s1": "The <LOC> <LOC> <LOC> spanned much of what is today <LOC> and eventually evolved into the <MISC> civilisation .",
+        "s2": "The <MISC> civilisation flourished along the length of the <LOC> <LOC> .",
+        "score": 0.807,
+        "id": 2103
+    },
+    {
+        "s1": "The <LOC> <LOC> <LOC> spanned much of what is today <LOC> and eventually evolved into the <MISC> civilisation .",
+        "s2": "This civilisation shaped subsequent cultures in <LOC> <LOC> and <LOC> .",
+        "score": 0.807,
+        "id": 2104
+    },
+    {
+        "s1": "<LOC> was part of the <LOC> <LOC> <LOC> , more than 4000 years ago .",
+        "s2": "The <LOC> <LOC> <LOC> spanned much of what is today <LOC> and eventually evolved into the <MISC> civilisation .",
+        "score": 0.768,
+        "id": 2102
+    },
+    {
+        "s1": "<MISC> dialects spoken in the province include <LOC> ( Standard ) , <MISC> and <MISC> .",
+        "s2": "<MISC> is mostly spoken in south <LOC> , and <MISC> , spoken in some parts of north west <LOC> , especially in <LOC> <LOC> and <LOC> <LOC> ..",
+        "score": 0.811,
+        "id": 2107
+    },
+    {
+        "s1": "In 2007 , <LOC> achieved a growth rate of 7.8 % and during the period 2002 \u2013 03 to 2007 \u2013 08 , its economy grew at a rate of between 7 % to 8 % per year.",
+        "s2": "and during 2008 \u2013 09 grew at 6 % against the total GDP growth of <LOC> at 4 % ..",
+        "score": 0.8,
+        "id": 2110
+    },
+    {
+        "s1": "Infectious diseases are sometimes called contagious disease when they are easily transmitted by contact with an ill person or their secretions ( e.g.",
+        "s2": "Thus , a contagious disease is a subset of infectious disease that is especially infective or easily transmitted .",
+        "score": 0.893,
+        "id": 2112
+    },
+    {
+        "s1": "Thus , a contagious disease is a subset of infectious disease that is especially infective or easily transmitted .",
+        "s2": "However , this specialized connotation of the word \" contagious \" and \" contagious disease \" ( easy transmissibility ) is not always respected in popular use ..",
+        "score": 0.831,
+        "id": 2114
+    },
+    {
+        "s1": "Persistent infections occur because the body is unable to clear the organism after the initial infection .",
+        "s2": "Persistent infections are characterized by the continual presence of the infectious organism , often as latent infection with occasional recurrent relapses of active infection .",
+        "score": 0.771,
+        "id": 2115
+    },
+    {
+        "s1": "There are some viruses that can maintain a persistent infection by infecting different cells of the body .",
+        "s2": "Some viruses once acquired never leave the body .",
+        "score": 0.765,
+        "id": 2117
+    },
+    {
+        "s1": "In epidemics , there are often extensive interactions within hubs or groups of infected individuals and other interactions within discrete hubs of susceptible individuals .",
+        "s2": "Despite the low interaction between discrete hubs , the disease can jump to and spread in a susceptible hub via a single or few interactions with an infected hub .",
+        "score": 0.811,
+        "id": 2121
+    },
+    {
+        "s1": "There are several four-star hotels such as <ORG> <ORG> , <ORG> <ORG> , <ORG> <ORG> <ORG> and <ORG> <ORG> .",
+        "s2": "The <ORG> <ORG> , <ORG> <ORG> , and <ORG> <ORG> are among the three-star hotels in <LOC> .",
+        "score": 0.807,
+        "id": 2132
+    },
+    {
+        "s1": "<MISC> is practiced primarily in <LOC> at <LOC> .",
+        "s2": "<MISC> is practiced by a small community .",
+        "score": 0.781,
+        "id": 2139
+    }
+]
