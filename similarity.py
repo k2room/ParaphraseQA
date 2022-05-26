@@ -12,10 +12,24 @@ def test(text, tagger, model):
     res = []
     sentence = Sentence(text)
     tagger.predict(sentence)
+    # print(tagger.tagsave)
+    # print(sentence.get_labels('ner'))
     sens = sentence.to_tagged_string().split(" . ")
+
+    cnt = 0
+    ss_tag = []
     for i in range(len(sens)):
         sens[i] = sens[i] +"."
+        s_tag=[]
+        for p, c in enumerate(sens[i]):
+            if c == '<':
+                s_tag.append(tagger.tagsave[cnt])
+                cnt += 1
+        ss_tag.append(s_tag)
+    print(sens, ss_tag)
+
     embeddings = model.encode(sens, convert_to_tensor=True)
+    
     cosine_scores = util.cos_sim(embeddings, embeddings).to(device)
 
     pairs = []
@@ -30,7 +44,7 @@ def test(text, tagger, model):
     pairs = sorted(pairs, key=lambda x: x['score'], reverse=True)
     for pair in pairs[0:-1]:
         i, j = pair['index']
-        res.append({'s1':sens[i], 's2':sens[j], 'score':round(pair['score'].item(), 3), 'id':pair['id']})
+        res.append({'s1':sens[i], 's2':sens[j], 's1_tag':ss_tag[i], 's2_tag':ss_tag[j], 'score':round(pair['score'].item(), 3), 'id':pair['id']})
     return res
 
 if __name__=="__main__":
@@ -41,6 +55,7 @@ if __name__=="__main__":
         device = torch.device('cpu')
     print("-----model loading-----")
     tagger = SequenceTagger.load('ner').to(device)   #   load tagger
+    # tagger = SequenceTagger.load('ner-ontonotes').to(device)   #   load tagger
     model = SentenceTransformer('all-MiniLM-L6-v2').to(device)
 
     print("-----data loading-----")
@@ -68,6 +83,7 @@ if __name__=="__main__":
             # print(sentence.to_tagged_string())
 
             sens = sentence.to_tagged_string().split(". ")
+
             for i in range(len(sens)):
                 sens[i] = sens[i] +"."
                 if len(sens[i]) > 180 or len(sens[i]) < 15:
@@ -75,6 +91,18 @@ if __name__=="__main__":
             sens = [v for v in sens if v]
             if sens == []:
                 continue
+
+            cnt = 0
+            ss_tag = []
+            for i in range(len(sens)):
+                sens[i] = sens[i] +"."
+                s_tag=[]
+                for p, c in enumerate(sens[i]):
+                    if c == '<':
+                        s_tag.append(tagger.tagsave[cnt])
+                        cnt += 1
+                ss_tag.append(s_tag)
+
             #Compute embeddings
             embeddings = model.encode(sens, convert_to_tensor=True)
 
@@ -96,10 +124,11 @@ if __name__=="__main__":
 
             for pair in pairs[0:-1]:
                 i, j = pair['index']
-                res.append({'s1':sens[i], 's2':sens[j], 'score':round(pair['score'].item(), 3), 'id':pair['id']})
+                res.append({'s1':sens[i], 's2':sens[j], 's1_tag':ss_tag[i], 's2_tag':ss_tag[j], 'score':round(pair['score'].item(), 3), 'id':pair['id']})
                 # print(res[-1])
 
         print("total:",total, "| similar(>=0.75):", similar,"| similar2(>=0.9):",similar2)
 
-    with open('squad1.1/res.json', 'w') as result:
+    with open('squad1.1/res2.json', 'w') as result:
         json.dump(res, result, indent=4)
+    

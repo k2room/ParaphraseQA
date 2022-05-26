@@ -500,7 +500,33 @@ class SequenceTagger(flair.nn.Classifier[Sentence]):
                         features, batch, return_probabilities_for_all_classes
                     )
 
+                # add predictions to Sentence #############################################################
+                # for sentence, sentence_predictions in zip(batch, predictions):
+                #     # BIOES-labels need to be converted to spans
+                #     if self.predict_spans:
+                #         sentence_tags = [label[0] for label in sentence_predictions]
+                #         sentence_scores = [label[1] for label in sentence_predictions]
+                #         predicted_spans = get_spans_from_bio(sentence_tags, sentence_scores)
+                #         for predicted_span in predicted_spans:
+                #             span: Span = sentence[predicted_span[0][0] : predicted_span[0][-1] + 1]
+                #             span.add_label(label_name, value=predicted_span[2], score=predicted_span[1])
+                #             for i in range(predicted_span[0][0], predicted_span[0][-1] + 1):
+                #                 sentence.tokens[i].form = "<"+predicted_span[2]+">"
+                #             # sentence.tokens[predicted_span[0][0] : predicted_span[0][-1] + 1] = predicted_span[2]
+
+                #     # token-labels can be added directly
+                #     else:
+                #         for token, label in zip(sentence.tokens, sentence_predictions):
+                #             token.add_label(typename=label_name, value=label[0], score=label[1])
+
+                # # all_tags will be empty if all_tag_prob is set to False, so the for loop will be avoided
+                # for (sentence, sent_all_tags) in zip(batch, all_tags):
+                #     for (token, token_all_tags) in zip(sentence.tokens, sent_all_tags):
+                #         token.add_tags_proba_dist(label_name, token_all_tags)
+                #############################################################
+
                 # add predictions to Sentence
+                self.tagsave = []
                 for sentence, sentence_predictions in zip(batch, predictions):
                     # BIOES-labels need to be converted to spans
                     if self.predict_spans:
@@ -510,14 +536,16 @@ class SequenceTagger(flair.nn.Classifier[Sentence]):
                         for predicted_span in predicted_spans:
                             span: Span = sentence[predicted_span[0][0] : predicted_span[0][-1] + 1]
                             span.add_label(label_name, value=predicted_span[2], score=predicted_span[1])
+                            t = ""
                             for i in range(predicted_span[0][0], predicted_span[0][-1] + 1):
-                                sentence.tokens[i].form = "<"+predicted_span[2]+">"
-                            # sentence.tokens[predicted_span[0][0] : predicted_span[0][-1] + 1] = predicted_span[2]
+                                t += sentence.tokens[i].form
+                                t += " "
+                            self.tagsave.append([t[0:-1], predicted_span[2]])
 
-                    # token-labels can be added directly
-                    else:
-                        for token, label in zip(sentence.tokens, sentence_predictions):
-                            token.add_label(typename=label_name, value=label[0], score=label[1])
+                            for i in range(predicted_span[0][0], predicted_span[0][-1] + 1):
+                                sentence.tokens[i].form = ""
+                            sentence.tokens[predicted_span[0][0]].form = "<"+predicted_span[2]+">"
+                            
 
                 # all_tags will be empty if all_tag_prob is set to False, so the for loop will be avoided
                 for (sentence, sent_all_tags) in zip(batch, all_tags):
