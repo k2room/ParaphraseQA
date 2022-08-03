@@ -73,6 +73,9 @@ if __name__=="__main__":
     similar2 = 0
     res = []
 
+    min_len = 15
+    max_len = 180
+
     print("-----start-----")
     for article in data:
         for p in article['paragraphs']:
@@ -82,15 +85,7 @@ if __name__=="__main__":
             tagger.predict(sentence)
             # print(sentence.to_tagged_string())
 
-            sens = sentence.to_tagged_string().split(". ")
-
-            for i in range(len(sens)):
-                sens[i] = sens[i] +"."
-                if len(sens[i]) > 180 or len(sens[i]) < 15:
-                    sens[i] = ''
-            sens = [v for v in sens if v]
-            if sens == []:
-                continue
+            sens = sentence.to_tagged_string().split(" . ")
 
             cnt = 0
             ss_tag = []
@@ -99,9 +94,23 @@ if __name__=="__main__":
                 s_tag=[]
                 for p, c in enumerate(sens[i]):
                     if c == '<':
-                        s_tag.append(tagger.tagsave[cnt])
-                        cnt += 1
+                        # if c == '<': change tagger form to /<~~>
+                        try:
+                            s_tag.append(tagger.tagsave[cnt])
+                            cnt += 1
+                        except IndexError as e: # when there is '<' (not for tag sign)
+                            print(e)
+                            print(sens[i], tagger.tagsave, cnt)
+                            continue
                 ss_tag.append(s_tag)
+            # for i in range(len(sens)):
+            #     if len(sens[i]) > 180 or len(sens[i]) < 15:
+            #         sens[i] = ''
+            #         ss_tag[i] = ''
+            # sens = [v for v in sens if v]
+            # ss_tag = [v for v in ss_tag if v]
+            # if sens == []:
+            #     continue
 
             #Compute embeddings
             embeddings = model.encode(sens, convert_to_tensor=True)
@@ -113,7 +122,7 @@ if __name__=="__main__":
             pairs = []
             for i in range(len(cosine_scores)-1):
                 for j in range(i+1, len(cosine_scores)):
-                    if cosine_scores[i][j] >= 0.75 and cosine_scores[i][j] < 1.00:
+                    if cosine_scores[i][j] >= 0.75 and cosine_scores[i][j] < 1.00 and (len(sens[i]) < max_len or len(sens[i]) > min_len) and (len(sens[j]) < max_len or len(sens[j]) > min_len):
                         similar += 1
                         pairs.append({'index': [i, j], 'score': cosine_scores[i][j], 'id':similar})
                     if cosine_scores[i][j] >= 0.9 and cosine_scores[i][j] < 1.00:
